@@ -13,29 +13,29 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Spectral",
+        body: "Spectral",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "#f3f3eb", // background
+          lightgray: "#e5e5e5", // search bar
+          gray: "#b8b8b8", // date
+          darkgray: "#4e4e4e", // body text
+          dark: "#2b2b2b", // headings
+          secondary: "#284b63", // hyperlinks and title
+          tertiary: "#84a59d", // highlighted hyperlink
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          light: "#201c14", // background
+          lightgray: "#393639", // search bar
+          gray: "#646464", // date
+          darkgray: "#d4d4d4", // body text
+          dark: "#ebebec", // headings
+          secondary: "#7b97aa", // hyperlinks and title
+          tertiary: "#84a59d", // highlighted hyperlink
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },

@@ -10,7 +10,7 @@ All learning will be in a multitude of ways, for example studying online (with a
 
 The degree will take about 16-18 hours a week, with no formal entry requirements to begin - however, it's strongly recommended that students gain direct experience with young children whilst studying (paid or voluntary). This will include getting a DBS check.
 
-80% of students pay nothing upfront, instead financing with a student loan. However, this loan totals to £20,772 after completing the degree (paid as you study modules) - 1/4 less than the cost of a standard university. You will also not pay your learn back until you earn over £25,000 and is tied to how much you earn - for example if you earn £27,000, you'll pay back just £15 per month.
+80% of students pay nothing upfront, instead financing with a student loan. However, this loan totals to £20,772 after completing the degree (paid as you study modules) - 1/4 less than the cost of a standard university. You will also not pay your loan back until you earn over £25,000 and is tied to how much you earn - for example if you earn £27,000, you'll pay back just £15 per month.
 
 Later years can also be sponsored by an employer (occurs for about 1 in 10 OU students), similar to an apprenticeship, only you would have a higher minimum wage, thus potentially earning more for the equivalent results.
 

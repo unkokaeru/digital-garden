@@ -7,3 +7,5 @@ As it's so flexible, I can study at home, but I'd like to study in Lincoln so I 
 My preferred accommodation would be [an En Suite in Park Court, Lincoln](https://yugo.com/en-gb/global/united-kingdom/lincoln/park-court/classic-en-suite-138164), costing £97/week (about 1/4 of the normal price for a non-student). The payments coincide with the dates I could receive a maintenance loan, so I'd have no problem paying for it (especially since I could be working at the same time, in Lincoln).
 
 However, so that I don't have to pay £5,000 upfront (instead splitting across three payments), I would need a [[Guarantor]]. I'd also need to prove my right to rent, using a passport, however you can also do this with [a provisional driving license and birth certificate.](https://www.gov.uk/proev-right-to-rent/using-other-documents/)
+
+A note on loans, too: whilst for the first year it makes the most sense to opt with a student loan (discussed more when talking about [[Open University]]), the second year called be payed with [OUSBA](https://www.ousba.co.uk) - essentially paying as you start each module (£296.32/month).

@@ -1,14 +1,11 @@
----
-title: 知識 の 庭
----
-Under development :)
+I want to study at [[Open University]], as I need the qualification to work in a nursery (which I've wanted to do since I was a little girl). The OU is very flexible, so I can study anywhere, anytime, as well as take a pause if I wish - even stopping the degree after one year to get a diploma instead.
 
-Taking inspiration from https://www.ssp.sh/brain/, https://mwalton.me/, https://sethmb.xyz/, and https://jzhao.xyz/.
+Since it's just 16-18 hours per week, too, it's easy to get a job whilst studying - which can even sponsor just like an apprenticeship, just with a higher minimum wage!
 
-Memory Palace/Digital Garden/Zettelkasten????
-Cooking - slimming world, jack ovens, wagamama, etc.
+As it's so flexible, I can study at home, but I'd like to study in Lincoln so I can potentially work at their [university nursery](https://www.daynurseries.co.uk/daynursery.cfm/searchazref/50003015THEA). Luckily, I'd be a full time student (unlike an apprentice or pub worker, which could be the alternatives), which makes everything a lot cheaper to live - for example, having no council tax and having the opportunity to live in student accommodation with included bills.
 
-npx quartz sync
-npx quartz build --serve
+My preferred accommodation would be [an En Suite in Park Court, Lincoln](https://yugo.com/en-gb/global/united-kingdom/lincoln/park-court/classic-en-suite-138164), costing £97/week (about 1/4 of the normal price for a non-student). The payments coincide with the dates I could receive a maintenance loan, so I'd have no problem paying for it (especially since I could be working at the same time, in Lincoln).
 
-[[Summary]]
+However, so that I don't have to pay £5,000 upfront (instead splitting across three payments), I would need a [[Guarantor]]. I'd also need to prove my right to rent, using a passport, however you can also do this with [a provisional driving license and birth certificate.](https://www.gov.uk/proev-right-to-rent/using-other-documents/)
+
+A note on loans, too: whilst for the first year it makes the most sense to opt with a student loan (discussed more when talking about [[Open University]]), the second year called be payed with [OUSBA](https://www.ousba.co.uk) - essentially paying as you start each module (£296.32/month).

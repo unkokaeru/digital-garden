@@ -1,0 +1,8 @@
+ - Exploring perspectives on young children' lives and learning (07 October 2023 - June 2024)
+	 - Starting with the child
+	 - Responding to the child
+	 - Making provision for early childhood
+ - Young children's play and creativity (07 October 2023 - June 2024)
+	 - Child's perspective - what is it like to play and be creative? What do children take away from those experiences?
+	 - Responding creatively - Why is it important to consider the influences of the adult role? What is the significance of an adult supporting children's play and creative preferences?
+	 - Critical reflections - What will play and creativity look like in the future?

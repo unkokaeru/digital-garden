@@ -1,0 +1,3 @@
+Delivering an online tutoring service is fairly cost effective and essentially comes down to what bills you're paying. Mine are included in rent, which is £97.00/week, or roughly...
+$$£97\div(7\times24)=£0.58$$
+£0.58/hour. However, food and other expenses could be included here, but since that hardly makes sense I'll just estimate the value to be £1.70/hour due the occasional tutoring snack.

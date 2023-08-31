@@ -1,0 +1,2 @@
+ - Have a child at peak then make them have a child at their peak
+ - Have good karma (do good things, e.g. call the police, hand in lost things)

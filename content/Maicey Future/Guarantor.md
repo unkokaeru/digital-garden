@@ -1,3 +1,0 @@
-A person that agrees to pay rent if the person renting does not pay it - required as most students don't have renting experience to prove that they'll reliably pay. However, it's incredibly unlikely the guarantor would ever spend any money, as the payments occur at the same time as a maintenance loan.
-
-This doesn't involve giving bank details, but does involve giving personal details (email, phone number, address).

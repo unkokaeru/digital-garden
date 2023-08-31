@@ -1,0 +1,11 @@
+Generational goals:
+ - Become a monk for one life (75 years) and... ![[live to 120]]
+ - Have a career in every possible job (20 years min)
+ - Max out every branch of the military (rank)
+ - Add to the museum by visiting space (max the career rank too)
+ - Become president of the US
+ - Marry into royalty
+	 - Reign as monarch for 100 years
+ - Become a k-pop star
+ - Obtain the Ballon D'Or (fball thing)
+ - ~~Get zillions~~

@@ -13,3 +13,10 @@ Under development :)
  - [[Email Sorting]]
  - [[Packing for University]]
  - [[Lincoln Notes]]
+ - [[Shopping List]]
+
+#### TO-DO LIST
+ - [] Set up digital assistants
+ - [] **Process emails**
+ - [] Go shopping
+ - [] Buy Maicey's train tickets

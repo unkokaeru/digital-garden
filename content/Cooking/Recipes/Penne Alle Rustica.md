@@ -1,0 +1,10 @@
+# Penne Alle Rustica
+
+Cooked: July 5, 2023
+Rating: 0.56
+Status: Yes
+Tag: Cooking
+
+![PXL_20230705_170645025.MP.jpg](PXL_20230705_170645025.MP.jpg)
+
+![PXL_20230705_171118894.MP.jpg](PXL_20230705_171118894.MP.jpg)

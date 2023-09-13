@@ -1,10 +1,11 @@
 My main sources of inspiration for my cooking and recipes include: [Slimming World](https://www.slimmingworld.co.uk/) for healthier options, [Jack Ovens](https://chefjackovens.com/recipes/) for convenient cooking, [Wagamama](https://www.wagamama.com/) for Asian cuisine, [Gordon Ramsay](https://www.gordonramsay.com/) for professional techniques, [SimplyCook](https://www.simplycook.com/) for simple and diverse recipes, and [EveryNookAndCranny](https://www.everynookandcranny.net/) for unique and creative ideas. I am always open to additional sources of inspiration.
 ### Recipe Books
- - [[The Wagamama Cookbook 100 Japanese Recipes with Noodles and Much More.pdf]]
- - [[Wagamama Ways with Noodles.pdf]]
+ - [[The Wagamama Cookbook 100 Japanese Recipes with Noodles and Much More-1-99.pdf]]
+ - [[The Wagamama Cookbook 100 Japanese Recipes with Noodles and Much More-100-198.pdf]]
+ - [[Wagamama Ways with Noodles-1-99.pdf]]
+ - [[Wagamama Ways with Noodles-100-198.pdf]]
  - [[Wagamama Feed Your Soul 100 Japanese-Inspired Bowls of Goodness.pdf]]
  - [[Wagamama Your Way Fresh Flexible Recipes for Body + Mind.pdf]]
- - [[YO Sushi The Japanese Cookbook.pdf]]
  - [[Pinch of Nom Quick and Easy.pdf]]
 ## Previous cooking
 | Name                                            | Cooked         | Rating | Type    |

@@ -19,6 +19,6 @@ Under development :)
 #### TO-DO LIST
  - [] Set up digital assistants
  - [] **Process emails**
- - [] Go shopping
  - [] Mensa IQ challenge (on Signal)
  - [] Electoral register for Lincoln?
+ - [] Credit card?? Or any other way to improve credit, e.g. Loqbox

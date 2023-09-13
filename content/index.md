@@ -14,8 +14,11 @@ Under development :)
  - [[Packing for University]]
  - [[Lincoln Notes]]
  - [[Shopping List]]
-
+ - [[Daoism]]
+ - [[Psychology]]
 #### TO-DO LIST
  - [] Set up digital assistants
  - [] **Process emails**
  - [] Go shopping
+ - [] Mensa IQ challenge (on Signal)
+ - [] Electoral register for Lincoln?

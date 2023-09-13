@@ -19,4 +19,3 @@ Under development :)
  - [] Set up digital assistants
  - [] **Process emails**
  - [] Go shopping
- - [] Buy Maicey's train tickets

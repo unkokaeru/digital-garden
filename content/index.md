@@ -16,9 +16,8 @@ Under development :)
  - [[Shopping List]]
  - [[Daoism]]
  - [[Psychology]]
+ - [[Crochet]]
 #### TO-DO LIST
- - [] Set up digital assistants
  - [] **Process emails**
- - [] Mensa IQ challenge (on Signal)
  - [] Electoral register for Lincoln?
  - [] Credit card?? Or any other way to improve credit, e.g. Loqbox

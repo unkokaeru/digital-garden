@@ -21,3 +21,4 @@ Under development :)
  - [] **Process emails**
  - [] Electoral register for Lincoln?
  - [] Credit card?? Or any other way to improve credit, e.g. Loqbox
+ - [] Look into taxes (e.g. self assessment tax)

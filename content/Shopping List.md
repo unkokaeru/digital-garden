@@ -1,4 +1,5 @@
- - Apron
- - USB hub for [[Tutoring]]
+ - **Apron**
+ - **Potatoes**
+ - **Laundry detergent tablets**
+ - **Stick (for linting the dryers)**
  - Record player cables (Amazon)
- - Potatoes

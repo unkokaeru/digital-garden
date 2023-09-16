@@ -2,8 +2,6 @@
  - **Potatoes**
  - **Laundry detergent tablets**
  - **Stick (for linting the dryers)**
- - Record player cables (Amazon)
  - **Cutlery/cupboard/fridge organisers**
  - **Plate mats**
- - **Table cloth**
- - Privacy thing for over mail (like what Katie has, Amazon??)
+ - Record player cables (Amazon)

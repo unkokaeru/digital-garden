@@ -34,7 +34,7 @@ INCOME: £0.00/week **AIM TO TUTOR FIVE HOURS A WEEK**
 
 RESULT: -£163.25/week
 ## Bank account(s)
- - Student bank account for better [[leather-bound chequebook]]
+ - Student bank account for better [[University Finances]]
 	 - Barclays
 		 - Open a Student Additions Account* by **1‌8 D‌ecember 2‌023** and you could **save up to £653** in your first year of university with a free 12-month subscription to Perlego – an online library of books, academic texts and tools trusted by students worldwide.
 		 - UCAS CODE: 2348 6685 6196 4783

@@ -14,15 +14,15 @@ This Knowledge Cottage is not a creation in isolation, but a homely haven built 
 Their principles of association, organic growth, and interconnected knowledge have guided the design and nurturing of this dynamic knowledge hearth. I acknowledge and thank the brilliant minds behind these concepts for their invaluable contribution to this cottage's homely wisdom.
 ## 📚 Timeworn Study
 
-From the yellowed pages of a [[stained cookbook]], filled with savoured memories of my culinary journey, to the [[bustling pantry stacked with jars of homemade, fragrant preserves]], a catalogue of my wardrobe and kitchen; the Knowledge Cottage invites you to explore its rooms, each brimming with its own unique tales.
+From the yellowed pages of a [[Cooking|stained cookbook]], filled with savoured memories of my culinary journey, to the [[Wardrobe and Kitchen Contents|bustling pantry stacked with jars of homemade, fragrant preserves]], a catalogue of my wardrobe and kitchen; the Knowledge Cottage invites you to explore its rooms, each brimming with its own unique tales.
 
-Venture into the study, where a [[worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
+Venture into the study, where a [[Academic Notes|worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[Reading Log|ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
 
-Behind a well-worn drawer, you'll find the [[leather-bound chequebook]], barely touched, a record of my university finances. The [[antique chest, brass-clad and filled with generations of family heirlooms]], houses a selection of my favourite philosophies and psychologies. 
+Behind a well-worn drawer, you'll find the [[University Finances|leather-bound chequebook]], barely touched, a record of my university finances. The [[Philosophy and Psychology|antique chest, brass-clad and filled with generations of family heirlooms]], houses a selection of my favourite philosophies and psychologies. 
 
-The cottage even holds a record of my language learning journey, etched into [[ancient hieroglyphics, whispering forgotten tales]]. The [[vintage blackboard, covered in scribbles, leaning against the wall]], serves as a simple gym log, while the [[creaky drawer, bulging with dusty photographs]], reveals what I've learned about crafts, particularly crochet. 
+The cottage even holds a record of my language learning journey, etched into [[Language Learning (Computing & Foreign)|ancient hieroglyphics, whispering forgotten tales]]. The [[Gym Log|vintage blackboard, covered in scribbles, leaning against the wall]], serves as a simple gym log, while the [[Craft|creaky drawer, bulging with dusty photographs]], reveals what I've learned about crafts, particularly crochet. 
 
-And let's not forget the [[neglected bin, overflowing with discarded dreams and faded hopes]], my very own failure resume.
+And let's not forget the [[Failure Resume|neglected bin, overflowing with discarded dreams and faded hopes]], my very own failure resume.
 ## 🗓️ Dreamland
 
  - [[Imp Cave (September)]]

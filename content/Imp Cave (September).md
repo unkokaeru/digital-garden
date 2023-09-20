@@ -1,5 +1,6 @@
 # The 20th - meeting Martin
 [[2023.09.20 (Wednesday)]]
+
 As you venture deeper into the moss-covered woods, an unmarked path catches your eye. It's lightly veiled by the emerald canopy overhead, the sunlight dancing in dappled patterns on the ground. Following this path, you soon find yourself in front of a large, shadowy cave entrance. The mouth of the cave yawns wide, as if silently inviting you to uncover its secrets.
 
 A peculiar feeling envelops you, like the air is alive with whispers of ancient tales. The rocks surrounding the entrance are oddly smooth, as if worn down by countless small hands over the years. Tiny footprints are scattered around, barely discernible, as if left by creatures no bigger than rabbits. 

@@ -1,3 +1,4 @@
+# University of Lincoln Notes
 This course covers the core topics of mathematics. It aims to provide a thorough grounding in analytical and numerical methods, practical scientific skills, and research techniques. Additionally, students are encouraged to develop transferable communication, problem solving, and decision-making skills throughout their studies. Students will have the opportunity to study a broad range of mathematical topics, comprising both compulsory and optional modules.
 
 Modules are delivered using various methods including lectures, seminars, problem-solving classes, tutorial classes, and workshops. In the first year students can benefit from an additional three hours per week of problem solving tutorials. There are also opportunities to take part in individual and group projects.
@@ -15,3 +16,9 @@ https://www.lincoln.ac.uk/course/mthmthub/
 - [Linear Algebra](https://www.google.com/search?q=Linear%20Algebra) (Core): This module explores the theory and applications of linear algebra, including vector spaces, matrices, and systems of linear equations.
 - [Probability and Statistics](https://www.google.com/search?q=Probability%20and%20Statistics) (Core): In this module, students study the principles of probability theory and statistical analysis, learning how to analyse data and make informed decisions.
 - [Professional Skills and Group Study](https://www.google.com/search?q=Professional%20Skills%20and%20Group%20Study) (Core): This module focuses on developing essential professional skills, such as communication, teamwork, and problem-solving, through group study and collaborative projects.
+# A-Level (Further) Mathematics Notes
+->
+# GCSE Mathematics Notes
+->
+# Pre-GCSE Mathematics Notes
+->

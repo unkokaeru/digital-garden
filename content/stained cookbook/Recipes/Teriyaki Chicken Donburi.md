@@ -15,7 +15,7 @@ Type: Main
  - [] 2 tablespoons toasted mixed sesame seeds
  - [] 2 eggs
 
-*Listed on my [[Shopping List]]!*
+*Listed on my [[Grocery Garden (Shopping List)]]!*
 ## Instructions
  1. Cook the rice following the [[Perfect Rice cooking instructions]].
  2. Meanwhile, preheat the oven to 190°C, Gas Mark 5.

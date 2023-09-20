@@ -1,9 +1,0 @@
- - **Apron**
- - **Potatoes**
- - **Laundry detergent tablets**
- - **Stick (for linting the dryers)**
- - **Cutlery/cupboard/fridge organisers**
- - **Plate mats**
- - **Quorn mince**
- - **Cilantro**
- - Record player cables (Amazon)

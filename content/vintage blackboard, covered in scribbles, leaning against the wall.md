@@ -1,6 +1,8 @@
 [[Day 13]]
 
 [[Routines]]
+[[Workout Day Template]]
+[[Workout Day Frontmatter Template]]
 
 Warm up set calc (40% 5 reps, 60% 5 reps, 80% 3 reps)
 Brzycki formula: weight × (36 / (37 - reps)) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3525823/

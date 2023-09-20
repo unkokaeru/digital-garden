@@ -1,24 +1,47 @@
----
-title: 知識 の 庭
----
-Under development :)
+# 🏡 Knowledge Cottage
 
- - [[Development and Syncing]]
- - [[Finance]]
- - [[Cooking]]
- - [[Fitness]]
- - [[Starfield]]
- - [[Automatic AI Content Generation]]
- - [[Programming]]
- - [[Email Sorting]]
- - [[Packing for University]]
- - [[Lincoln Notes]]
- - [[Shopping List]]
- - [[Daoism]]
- - [[Psychology]]
- - [[Crochet]]
-#### TO-DO LIST
- - [] **Process emails**
- - [] Electoral register for Lincoln?
- - [] Credit card?? Or any other way to improve credit, e.g. Loqbox
- - [] Look into taxes (e.g. self assessment tax)
+*Welcome, wanderer, to the digital dwelling that is the Knowledge Cottage, a homely haven spun from threads of code and connectivity. Here, in this cosy corner of the cyber realm, ideas simmer on the hearth, thoughts take root, and knowledge nurtures like cherished heirlooms. Wisdom's well-woven tapestries drape over the armchair of discourse, and the floorboards of understanding, worn smooth by the footsteps of an inquisitive mind.*
+
+*This homestead is far from static, rather a dynamic domicile that evolves with the passage of time. Each note, akin to a piece of furniture, is chosen with care but given the freedom to shift and rearrange organically. As the diligent caretaker of this digital domain, I polish these pieces with attention, mend them with thoughtful edits, guiding their placement towards the welcoming warmth of clarity.*
+
+*Why a cottage? Well, a cottage symbolises warmth, comfort, and the beauty of constant adaptation. It mirrors the nurturing, organic, and ever-evolving nature of knowledge. Just as a homeowner tends to their dwelling, so do I tend to my thoughts and ideas, crafting them, nurturing them, watching them mature into insightful furnishings. The cottage metaphor invites exploration, urging the wanderer to roam its homely rooms, discover hidden nooks of wisdom, and rest under the comforting eaves of understanding.*
+
+*So come, wander the creaky corridors, explore the cosy corners, and uncover the treasures of knowledge tucked away in time-worn drawers. Welcome to the Knowledge Cottage, where every visit nurtures understanding, and every departure leaves you enriched with wisdom.*
+## 🌟 Starlit Inspirations
+
+This Knowledge Cottage is not a creation in isolation, but a homely haven built from the wisdom of many before me. The concepts of the [[Memory Palace]], the [[Digital Garden]], and the [[Zettelkasten]] have influenced the design of this cottage.
+
+Their principles of association, organic growth, and interconnected knowledge have guided the design and nurturing of this dynamic knowledge hearth. I acknowledge and thank the brilliant minds behind these concepts for their invaluable contribution to this cottage's homely wisdom.
+## 📚 Timeworn Study
+
+From the yellowed pages of a [[stained cookbook]], filled with savoured memories of my culinary journey, to the [[bustling pantry stacked with jars of homemade, fragrant preserves]], a catalogue of my wardrobe and kitchen; the Knowledge Cottage invites you to explore its rooms, each brimming with its own unique tales.
+
+Venture into the study, where a [[worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
+
+Behind a well-worn drawer, you'll find the [[leather-bound chequebook]], barely touched, a record of my university finances. The [[antique chest, brass-clad and filled with generations of family heirlooms]], houses a selection of my favourite philosophies and psychologies. 
+
+The cottage even holds a record of my language learning journey, etched into [[ancient hieroglyphics, whispering forgotten tales]]. The [[vintage blackboard, covered in scribbles, leaning against the wall]], serves as a simple gym log, while the [[creaky drawer, bulging with dusty photographs]], reveals what I've learned about crafts, particularly crochet. 
+
+And let's not forget the [[neglected bin, overflowing with discarded dreams and faded hopes]], my very own failure resume.
+## 🗓️ Dreamland
+
+ - [[Imp Cave (September)]]
+ - [[October]]
+ - [[November]]
+ - [[December]]
+## 📜 Quest Log
+
+ - [] Explore options for a credit card or other ways to build credit, e.g. Loqbox
+ - [] Research into taxes
+ - [] Enjoy a free burrito (from Tortilla)
+ - [] Review the ODEON screens (4 bad, 6 good)
+ - [] Repair my other laptop
+ - [] Transfer Untitled & EPQ
+ - [] Acquire Starfield!
+ - [] Make a [[Bitlife]] section here that also contains other games etc.
+ - [] Check out AXA Business Health (https://apps.axahealth.co.uk/, using the account number on my desktop)
+ - [] Investigate the Sutton Trust Alumni Platform (https://alumni.suttontrust.com/)
+ - [] **DO MY LAUNDRY**
+ - [] **PLAN AND COMPLETE MY GROCERY SHOPPING**
+ - [] **SUBMIT FORM**
+ - [] **COMPLETE ONLINE YUGO TASK**

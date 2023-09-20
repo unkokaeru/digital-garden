@@ -1,0 +1,7 @@
+## Kitchen contents
+
+ - ->
+
+## Wardrobe contents
+
+ - ->

@@ -1,5 +1,8 @@
 My main sources of inspiration for my cooking and recipes include: [Slimming World](https://www.slimmingworld.co.uk/) for healthier options, [Jack Ovens](https://chefjackovens.com/recipes/) for convenient cooking, [Wagamama](https://www.wagamama.com/) for Asian cuisine, [Gordon Ramsay](https://www.gordonramsay.com/) for professional techniques, [SimplyCook](https://www.simplycook.com/) for simple and diverse recipes, and [EveryNookAndCranny](https://www.everynookandcranny.net/) for unique and creative ideas. I am always open to additional sources of inspiration.
-### Recipe Books
+
+Ideas: *Pakistani cooking???*
+[[Cooking Template]]
+## Recipe Books
  - [[The Wagamama Cookbook 100 Japanese Recipes with Noodles and Much More-1-99.pdf]]
  - [[The Wagamama Cookbook 100 Japanese Recipes with Noodles and Much More-100-198.pdf]]
  - [[Wagamama Ways with Noodles-1-99.pdf]]
@@ -54,8 +57,9 @@ My main sources of inspiration for my cooking and recipes include: [Slimming Wor
 | [[Tomato and Basil Soup]]                           | August 25, 2023| 0.95   | Main    |
 | [[Victoria Sponge]]                                 | August 30, 2023| 0.95   | Dessert |
 
-# Planned Cooking
+## Planned Cooking
 ##### 2023-09-13 -> 2023-09-17
+[[Shopping List]]
 ###### Wednesday
 Breakfast: [[Bread Rolls and Salad]]
 Lunch: [[Rice & Fish]]

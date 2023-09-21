@@ -34,14 +34,10 @@ And let's not forget the [[Failure Resume|neglected bin, overflowing with discar
  - [] Explore options for a credit card or other ways to build credit, e.g. Loqbox
  - [] Research into taxes
  - [] Enjoy a free burrito (from Tortilla)
- - [] Review the ODEON screens (4 bad, 6 good)
  - [] Repair my other laptop
  - [] Transfer Untitled & EPQ
- - [] Acquire Starfield!
- - [] Make a [[Bitlife]] section here that also contains other games etc.
- - [] Check out AXA Business Health (https://apps.axahealth.co.uk/, using the account number on my desktop)
- - [] Investigate the Sutton Trust Alumni Platform (https://alumni.suttontrust.com/)
- - [] **DO MY LAUNDRY**
- - [] **PLAN AND COMPLETE MY GROCERY SHOPPING**
+ - [] Make a [[Bitlife]] section here that also contains other games etc. (e.g. Starfield - get it!)
+ - [] **PLAN AND COMPLETE MY GROCERY SHOPPING** (meal prep?)
  - [] **SUBMIT FORM**
  - [] **COMPLETE ONLINE YUGO TASK**
+ - [] Add "recent writings" to the homepage of mydigitalgarden.space

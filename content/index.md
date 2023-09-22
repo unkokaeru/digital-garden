@@ -31,13 +31,14 @@ And let's not forget the [[Failure Resume|neglected bin, overflowing with discar
  - [[December]]
 ## 📜 Quest Log
 
- - [] Explore options for a credit card or other ways to build credit, e.g. Loqbox
- - [] Research into taxes
- - [] Enjoy a free burrito (from Tortilla)
- - [] Repair my other laptop
- - [] Transfer Untitled & EPQ
- - [] Make a [[Bitlife]] section here that also contains other games etc. (e.g. Starfield - get it!)
- - [] **PLAN AND COMPLETE MY GROCERY SHOPPING** (meal prep?)
- - [] **SUBMIT FORM**
- - [] **COMPLETE ONLINE YUGO TASK**
- - [] Add "recent writings" to the homepage of mydigitalgarden.space
+ - [ ] Research into taxes
+ - [ ] Repair my other laptop
+ - [ ] Transfer Untitled & EPQ
+ - [ ] Make a [[Bitlife]] section here that also contains other games etc. (e.g. Starfield - get it!)
+ - [ ] **PLAN AND COMPLETE MY GROCERY SHOPPING** (meal prep?)
+ - [ ] Add "recent writings" to the homepage of mydigitalgarden.space
+ - [ ] Watch Fight Club
+ - [ ] £20 of snacks/back-up dinner
+ - [ ] Add a vinyl section to the timeworn study
+ - [ ] Go through each section and update stuff (and add to my to-do list)
+ - [ ] TO PROCESS THING ON DESKTOP TOO??

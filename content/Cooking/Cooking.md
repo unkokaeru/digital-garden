@@ -1,7 +1,6 @@
 My main sources of inspiration for my cooking and recipes include: [Slimming World](https://www.slimmingworld.co.uk/) for healthier options, [Jack Ovens](https://chefjackovens.com/recipes/) for convenient cooking, [Wagamama](https://www.wagamama.com/) for Asian cuisine, [Gordon Ramsay](https://www.gordonramsay.com/) for professional techniques, [SimplyCook](https://www.simplycook.com/) for simple and diverse recipes, and [EveryNookAndCranny](https://www.everynookandcranny.net/) for unique and creative ideas. I am always open to additional sources of inspiration.
 
 Ideas: *Pakistani cooking??? Snacks?????*
-[[Cooking Template]]
 ## Recipe Books
  - [[The Wagamama Cookbook 100 Japanese Recipes with Noodles and Much More-1-99.pdf]]
  - [[The Wagamama Cookbook 100 Japanese Recipes with Noodles and Much More-100-198.pdf]]
@@ -19,62 +18,70 @@ Ideas: *Pakistani cooking??? Snacks?????*
 [[Nachos]]
 [[Burritos]]
 [[Chilli & Rice]]
-## Planned Cooking
-##### 2023-09-13 -> 2023-09-17
-[[Shopping List]]
-###### Wednesday
-Breakfast: [[Bread Rolls and Salad]]
-Lunch: [[Rice & Fish]]
-Dinner: [[Nachos]]
-###### Thursday
-Breakfast: [[Weetabix Crispy Minis Fruit And Nut]]
-Lunch: [[Cheese on Toast]]
-Dinner: [[Teriyaki Chicken Donburi]]
-###### Friday
-Breakfast: [[Weetabix Crispy Minis Fruit And Nut]]
-Lunch: [[Rice & Fish]]
-Dinner: [[Burritos]]
-###### Saturday
-Breakfast: [[Weetabix Crispy Minis Fruit And Nut]]
-Lunch: [[Cheese on Toast]]
-Dinner: [[Chilli & Rice]]
-###### Sunday
-Breakfast: [[Weetabix Crispy Minis Fruit And Nut]]
-Lunch: Leftovers??
-Dinner: [[Omelette]]
-
-**Nutritional value**
-->
+[[Scrambled Egg on Toast]]
+[[Burrito Bowl]]
+[[Side of Fruit]]
+[[Chicken Broccoli and Cashew Stir Fry]]
+[[Breakfast Burritos]]
+[[BBQ Beef Meatballs]]
+[[Fried Egg on Toast with Spinach]]
+[[Chicken Tikka Curry & Rice]]
+[[Shredded BBQ Chicken]]
+[[Protein Pancakes]]
+[[Tomato and Basil Soup]]
+[[Side Salad]]
+[[Tex-Mex Rice Bowls]]
+[[Peri Tortilla Chips with Chicken]]
+[[Lo Mein]]
+[[Fish, Wedges, and Salad]]
+[[Japanese Curry]]
+[[Stir-Fried Chicken with Vegetables]]
 # EXPERIMENT: Self-made recipes meal prep week
-[[Shopping List]]
+[[Shopping List (days 1 to 3)]]
+[[Shopping List (days 4 to 10)]]
 
-*Adapt for meal prep, e.g. can it be frozen, how many days does it last, how many servings etc.*
-*What's common between meals? Can that one thing be meal prepped and then the rest done on the day? E.g. rice.*
+*How many servings are there? How many days does it last? Can it be frozen? Add this as I cook for future reference.*
+
+ - Prepare similar meat mixtures in bulk
+ - Prepare rice in bulk
+ - Prepare vegetables in bulk
 ### Day 1
+**Breakfast:** >
+**Lunch:** >
+**Dinner:** >
+### Day 2
+**Breakfast:** >
+**Lunch:** >
+**Dinner:** >
+### Day 3
+**Breakfast:** >
+**Lunch:** >
+**Dinner:** >
+### Day 4
 **Breakfast:** [[Scrambled Egg on Toast]]
 **Lunch:** [[Rice & Fish]]
 **Dinner:** [[Burrito Bowl]]
-### Day 2
+### Day 5
 **Breakfast:** [[Scrambled Egg on Toast]] (with a [[side of fruit]])
 **Lunch:** [[Chicken Broccoli and Cashew Stir Fry]]
 **Dinner:** [[Chilli & Rice]]
-### Day 3
+### Day 6
 **Breakfast:** [[Breakfast Burritos]]
 **Lunch:** [[Teriyaki Chicken Donburi]]
 **Dinner:** [[BBQ Beef Meatballs]]
-### Day 4
+### Day 7
 **Breakfast:** [[Fried Egg on Toast with Spinach]]
 **Lunch:** [[Chicken Tikka Curry & Rice]]
 **Dinner:** [[Shredded BBQ Chicken]]
-### Day 5
+### Day 8
 **Breakfast:** [[Protein Pancakes]]
 **Lunch:** [[Tomato and Basil Soup]] (with a [[side salad]])
 **Dinner:** [[Tex-Mex Rice Bowls]]
-### Day 6
+### Day 9
 **Breakfast:** [[Peri Tortilla Chips with Chicken]]
 **Lunch:** [[Lo Mein]]
 **Dinner:** [[Fish, Wedges, and Salad]]
-### Day 7
+### Day 10
 **Breakfast:** [[Protein Pancakes]]
 **Lunch:** [[Japanese Curry]]
 **Dinner:** [[Stir-Fried Chicken with Vegetables]]

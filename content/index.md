@@ -40,7 +40,8 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
  - [[December]]
 ## 📜 Quest Log
 
- - [ ] Fill out my [[Failure Resume]], and [Teeth Whitening](Health)
- - [ ] Complete the work for [[PHY1002 Geometrical Optics, Waves, and Mechanics]] and [[MTH1001 Algebra]] and [[MTH1002 Calculus]]
- - [ ] https://blackboard.lincoln.ac.uk/ultra/courses/_191987_1/cl/outline
+ - [ ] [[MTH1002M_Calculus_Practical_1.pdf]]
+ - [ ] [[Practical_1.pdf]]
+ - [ ] [[Geometrical Optics W1.pdf]]
+ - [ ] [[Homework Optics 1]]
  - [ ] Repair my other laptop

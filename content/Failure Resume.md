@@ -17,8 +17,9 @@
 
 ## Academic Failures
 
-- **Course/Exam/Program, Date**: Brief description of the academic endeavour and the reason for failure.
-- **Course/Exam/Program, Date**: Brief description of the academic endeavour and the reason for failure.
+- **Entry to Hills Road Sixth Form College, 26th March 2021**: Applied to my dream sixth form and got completely rejected [here](Pasted%20image%2020230926201302.png). No idea why, maybe I simply lived too far away or maybe I wasn't academic enough. Either way, this was my first taste of failure/rejection (even though it actually ended up in my favour, as I went to Abbeygate Sixth Form College instead).
+- **Entry to University of Oxford, 2nd December 2022**: Applied to my dream university and, again, got completely rejected [here](Pasted%20image%2020230926201737.png). This time I at least new it was because of my MAT score (which was an outstanding *[24/100](Pasted%20image%2020230926202235.png)*) .
+- **Driving Test, 21st March 2023**: Tried, failed. Although I disagree with the [result](Pasted%20image%2020230926202153.png), it still stands.
 
 ## Other Failures 
 

@@ -1,3 +1,4 @@
+>**Reminder**: you're not doing it to pass, you're doing it to feed your insatiable hunger for knowledge
 # University of Lincoln Notes
 This course covers the core topics of mathematics. It aims to provide a thorough grounding in analytical and numerical methods, practical scientific skills, and research techniques. Additionally, students are encouraged to develop transferable communication, problem solving, and decision-making skills throughout their studies. Students will have the opportunity to study a broad range of mathematical topics, comprising both compulsory and optional modules.
 
@@ -22,3 +23,4 @@ https://www.lincoln.ac.uk/course/mthmthub/
 [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
 [[MTH1002 Calculus]]
 [[MTH1006 Computer Algebra and Technical Computing]]
+[[MTH1007 Professional Skills and Group Study]]

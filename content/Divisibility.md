@@ -1,0 +1,1 @@
+There can be divisibility of [[integers]], as well as other sets of numbers. The notation is $a|b : a = b\times c \iff c \space\epsilon\space\mathbb{z}$.

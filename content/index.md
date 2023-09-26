@@ -1,3 +1,7 @@
+---
+title: Knowledge Cottage Introduction :)
+---
+
 # 🏡 Knowledge Cottage
 
 *Welcome, wanderer, to the digital dwelling that is the Knowledge Cottage, a homely haven spun from threads of code and connectivity. Here, in this cosy corner of the cyber realm, ideas simmer on the hearth, thoughts take root, and knowledge nurtures like cherished heirlooms. Wisdom's well-woven tapestries drape over the armchair of discourse, and the floorboards of understanding, worn smooth by the footsteps of an inquisitive mind.*
@@ -17,7 +21,7 @@ Their principles of association, organic growth, and interconnected knowledge ha
 
 From the yellowed pages of a [[Cooking|stained cookbook]], filled with savoured memories of my culinary journey, to the [[Wardrobe and Kitchen Contents|bustling pantry stacked with jars of homemade, fragrant preserves]], a catalogue of my wardrobe and kitchen; the timeworn study beckons you to uncover its secrets, each nook and corner teeming with tales as unique and distinct as the faded ink that records them.
 
-Venture into the study, where a [[Academic Notes (Untitled)|worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[Reading Log|ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
+Venture into the study, where a [[Academic Notes|worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[Reading Log|ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
 
 Behind a well-worn drawer, you'll find the [[University Finances|leather-bound chequebook]], barely touched, a record of my university finances. The [[Philosophy and Psychology|antique chest, brass-clad and filled with generations of family heirlooms]], houses a selection of my favourite philosophies and psychologies. 
 
@@ -36,12 +40,7 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
  - [[December]]
 ## 📜 Quest Log
 
- - [ ] Buy food for days 1 to 3
- - [ ] Price and add descriptions to old stuff I need to sell
- - [ ] Add "recent writings" to the homepage of mydigitalgarden.space
- - [ ] Pre-learn the first week's worth of content for university
- - [ ] Fill out my [[Failure Resume]], [Teeth Whitening](Health), and [Course Notes](Academic%20Notes%20(Untitled).md)
- - [ ] Transfer all of the knowledge from my EPQ research into Obsidian
+ - [ ] Fill out my [[Failure Resume]], and [Teeth Whitening](Health)
+ - [ ] Complete the work for [[PHY1002 Geometrical Optics, Waves, and Mechanics]] and [[MTH1001 Algebra]] and [[MTH1002 Calculus]]
+ - [ ] https://blackboard.lincoln.ac.uk/ultra/courses/_191987_1/cl/outline
  - [ ] Repair my other laptop
- - [ ] Read (or listen to) [[Dune by Frank Herbert]]
- - [ ] Create an area for Sreyaf/BIRDSTARE?

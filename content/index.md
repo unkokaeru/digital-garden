@@ -1,7 +1,7 @@
 ---
 title: Knowledge Cottage Introduction :)
+showToc: "false"
 ---
-
 # 🏡 Knowledge Cottage
 
 *Welcome, wanderer, to the digital dwelling that is the Knowledge Cottage, a homely haven spun from threads of code and connectivity. Here, in this cosy corner of the cyber realm, ideas simmer on the hearth, thoughts take root, and knowledge nurtures like cherished heirlooms. Wisdom's well-woven tapestries drape over the armchair of discourse, and the floorboards of understanding, worn smooth by the footsteps of an inquisitive mind.*

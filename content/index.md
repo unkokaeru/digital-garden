@@ -31,6 +31,8 @@ The cottage even holds a record of my language learning journey, etched into [[L
 
 And let's not forget the [[Failure Resume|neglected bin, overflowing with discarded dreams and faded hopes]], my very own failure resume. 
 
+Resting quietly in the corner of the study, you'll find the [[Sleep|old journal filled with dreams and musings]], a record of sleep and dreams, its pages filled with the remnants of nocturnal adventures and forgotten tales.
+
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 🗓️ Dreamland
 
@@ -39,9 +41,9 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
  - [[November]]
  - [[December]]
 ## 📜 Quest Log
+*[[Imp Cave (September)#The 28th - ...]]*
+*[[Here's what I'm trying.#Day 1]]*
 
- - [ ] [[MTH1002M_Calculus_Practical_1.pdf]]
- - [ ] [[Practical_1.pdf]]
- - [ ] [[Geometrical Optics W1.pdf]]
- - [ ] [[Homework Optics 1]]
+ - [ ] Update flashcards, notes, and complete questions in [[Academic Notes]]
  - [ ] Repair my other laptop
+ - [ ] Fix my "Recent Notes" section of mydigitalgarden.space

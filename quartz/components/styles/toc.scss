@@ -31,7 +31,7 @@ button#toc {
   max-height: none;
   transition: max-height 0.5s ease;
 
-  &.collapsed > .overflow::after {
+  &.collapsed>.overflow::after {
     opacity: 0;
   }
 
@@ -39,12 +39,14 @@ button#toc {
     list-style: none;
     margin: 0.5rem 0;
     padding: 0;
-    & > li > a {
+
+    &>li>a {
       color: var(--dark);
       opacity: 0.35;
       transition:
         0.5s ease opacity,
         0.3s ease color;
+
       &.in-view {
         opacity: 0.75;
       }

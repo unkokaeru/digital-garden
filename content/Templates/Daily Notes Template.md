@@ -1,0 +1,21 @@
+[[index]]
+# Well, good morning {{date}}.
+ - Woke up
+ - 
+ - 
+ - 
+ - 
+ - 
+ -  
+ - 
+ - 
+ - 
+ - 
+ - 
+ -  
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 

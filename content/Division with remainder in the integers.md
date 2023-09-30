@@ -30,4 +30,26 @@ So we define the greatest common divisor of $a$ and $b$ if:
 
 Now the GCD is **not unique** (although isn't that much of a big deal; the magnitude is still unique): if $d$ is a GCD of $a$ and $b$ then $-d$ is another GCD, but there are no more GCDs. The GCD of $0$ and and integer $a$ now exists, and equals $a$ because $D(0) \cap D(a) = D(a)$. Including when $a = 0$.
 
-*Next: Euclid's algorithm and exercises*
+## Euclid's Algorithm
+Euclid's Algorithm is an efficient method for computing the greatest common divisor of two numbers, $a$ and $b$. The main principle behind the algorithm is that the greatest common divisor of $a$ and $b$ is the same as the greatest common divisor of $b$ and $a \mod b$.
+
+The Euclidean Algorithm starts with a pair of positive integers and forms a new pair that consists of the lesser number and the remainder of the Euclidean division (also called division with remainder) of the greater by the lesser. This process repeats until the pair is $(0, d)$ where $d$ is the greatest common divisor.
+
+The algorithm can be written as follows:
+
+1. If $b = 0$, then the GCD is $a$ and the process ends.
+2. Otherwise, compute $a'$ and $b'$ as $a' = b$ and $b' = a \mod b$.
+3. Replace $a$ and $b$ with $a'$ and $b'$ respectively and return to step 1.
+
+Implemented in a loop-free manner, the algorithm can be expressed as:
+
+```
+function EuclidGCD(a, b)
+    while b ≠ 0
+       t := b; 
+       b := a mod b; 
+       a := t; 
+    return a;
+```
+
+This algorithm is particularly efficient because it rapidly reduces the size of the numbers. This reduction is based on the observation that, if $r$ is the remainder of $a$ divided by $b$, then the common divisors of $a$ and $b$ are precisely the same as the common divisors of $b$ and $r$. Thus we can use the remainder operation to successively reduce the pair of numbers until we reach a pair where the second number is $0$. At this point, the other number will be the greatest common divisor.

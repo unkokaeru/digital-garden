@@ -18,9 +18,7 @@ Module Co-ordinator: BVorselaars@lincoln.ac.uk (Bart Vorselaars)
 - [ ] **LO2** Implement simple numerical algorithms using technical computing.
 - [ ] **LO3** Maintain a well structured computational laboratory log-book.
 ## Flashcards
-| Term                   | Definition                                                                                                                                                                                                                               |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Term 1 | Definition 1 |
+*Automatically generated into Anki*
 ## Weeks Content
 ### Week 1
 ![[exercises-session1.pdf]]

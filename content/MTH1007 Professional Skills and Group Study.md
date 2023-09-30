@@ -27,9 +27,7 @@ Module Co-ordinator: MMura@lincoln.ac.uk (Manuel Mura)
 - [ ] **LO3** Identify main legal and ethical issues in scientific practice.
 - [ ] **LO4** Communicate scientific information related to your programme of study effectively by means of a written document and presentation.
 ## Flashcards
-| Term                   | Definition                                                                                                                                                                                                                               |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Term 1 | Definition 1 |
+*Automatically generated into Anki*
 ## Weeks Content
 ### Week 1
 -->

@@ -183,4 +183,5 @@ As you continue your journey, you carry the cave with you. You carry its tranqui
 # The 28th - ...
 [[2023.09.28 (Thursday)]]
 
--->
+About 5000 words in, I'm bored of this, so am just gonna switch to normal daily notes - maybe I'll come back later and write some more based on them.
+

@@ -60,7 +60,7 @@ Ideas: *Pakistani cooking??? Snacks?????*
 ### Day 4
 **Breakfast:** [[Scrambled Egg on Toast]]
 **Lunch:** [[Rice & Fish]]
-**Dinner:** [[Burrito Bowl]]
+~~**Dinner:** [[Burrito Bowl]]~~
 ### Day 5
 **Breakfast:** [[Scrambled Egg on Toast]] (with a [[side of fruit]])
 **Lunch:** [[Chicken Broccoli and Cashew Stir Fry]]

@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Garden of Knowledge",
+    pageTitle: "The Knowledge Cottage",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -11,6 +11,7 @@ const config: QuartzConfig = {
     },
     baseUrl: "mydigitalgarden.space",
     ignorePatterns: ["private", "templates"],
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Spectral",

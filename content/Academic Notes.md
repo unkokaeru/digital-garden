@@ -19,8 +19,12 @@ https://www.lincoln.ac.uk/course/mthmthub/
 - [Professional Skills and Group Study](https://www.google.com/search?q=Professional%20Skills%20and%20Group%20Study) (Core): This module focuses on developing essential professional skills, such as communication, teamwork, and problem-solving, through group study and collaborative projects.
 ## Course Notes
 
-[[MTH1001 Algebra]]
 [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
+
+[[MTH1001 Algebra]]
+
 [[MTH1002 Calculus]]
+
 [[MTH1006 Computer Algebra and Technical Computing]]
+
 [[MTH1007 Professional Skills and Group Study]]

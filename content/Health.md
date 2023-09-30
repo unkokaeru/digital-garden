@@ -1,4 +1,7 @@
-*This note outlines my gym routines, workout calculations, and oral care practices.*
+*This note outlines my gym routines, workout calculations, and oral care practices. However, it may also contain other interesting things, such as my research on energy drinks*
+## Energy Drinks
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2966367/
+-->
 ## Gym Stuff
 
 ### Routines and Templates

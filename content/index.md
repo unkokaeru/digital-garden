@@ -2,6 +2,7 @@
 title: Knowledge Cottage Introduction :)
 showToc: "false"
 ---
+[[My personal philosophies]]
 # 🏡 Knowledge Cottage
 
 *Welcome, wanderer, to the digital dwelling that is the Knowledge Cottage, a homely haven spun from threads of code and connectivity. Here, in this cosy corner of the cyber realm, ideas simmer on the hearth, thoughts take root, and knowledge nurtures like cherished heirlooms. Wisdom's well-woven tapestries drape over the armchair of discourse, and the floorboards of understanding, worn smooth by the footsteps of an inquisitive mind.*
@@ -34,16 +35,12 @@ And let's not forget the [[Failure Resume|neglected bin, overflowing with discar
 Resting quietly in the corner of the study, you'll find the [[Sleep|old journal filled with dreams and musings]], a record of sleep and dreams, its pages filled with the remnants of nocturnal adventures and forgotten tales.
 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
-## 🗓️ Dreamland
-
- - [[Imp Cave (September)]]
- - [[October]]
- - [[November]]
- - [[December]]
 ## 📜 Quest Log
-*[[Imp Cave (September)#The 28th - ...]]*
-*[[Here's what I'm trying.#Day 1]]*
 
- - [ ] Update flashcards, notes, and complete questions in [[Academic Notes]]
- - [ ] Repair my other laptop
- - [ ] Fix my "Recent Notes" section of mydigitalgarden.space
+ - [ ] [[Homework Optics 1]]
+ - [ ] Get Dune from the library (813.54, Fiction in English)
+ - [ ] 44 72 62 76 20 44 72 7a 74 76 70 20 72 20 73 66 66 20 73 72 6a 62 76 6b 20 77 66 69 20 6e 79 76 65 20 6a 79 76 20 74 66 64 76 6a 20 66 6d 76 69 3f 20 2d 20 7a 65 74 63 6c 75 76 20 72 20 73 63 72 65 62 76 6b 2c 20 72 20 6b 69 76 72 6b 2c 20 76 6b 74 2e 20 28 6e 72 6b 74 79 20 4e 7a 65 76 20 52 73 66 6c 6b 20 5a 6b 29
+
+**Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
+
+[[Imp Cave (September)]]

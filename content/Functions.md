@@ -34,7 +34,7 @@ A polynomial in $x$ of degree $n$ has the form $f(x)=a_n x^n + \ldots + a_2 x^2 
 $$f(x) = \sum_{i=0}^{n} a_i x^i$$
 where the quantities $a_i$ are constant coefficients where $a_n \ne 0$. The domain of a polynomial expressed in this way is always $\mathbb{R}$, because there are only integer powers of $x$ - thus no risk of square rooting a negative number (leading the range outside of the real plane). There are also no negative powers of $x$, so there is no risk of division by zero.
 
-### Graphs of $x^n$
+#### Graphs of $x^n$
 
 Graphs of $y=x^n$ for even $n\ge 2$ have the general form below:
 ![[Even xn graph.excalidraw]]
@@ -42,7 +42,7 @@ Graphs of $y=x^n$ for even $n\ge 2$ have the general form below:
 For odd $n\ge3$, the graph of $y=x^n$ has the following general form:
 ![[Odd xn graph.excalidraw]]
 
-### Rational Functions
+#### Rational Functions
 
 Rational functions are functions that can be expressed as the ratio of two polynomial functions. In other words, a rational function is a function $f$ that can be written in the form:
 
@@ -56,7 +56,7 @@ Rational functions can often have graphs that contain holes, vertical asymptotes
 
 Just like with polynomials, understanding the domain, the range, and the graph of a rational function is crucial to understanding its behaviour.
 
-### Graphs of Rational Functions
+##### Graphs of Rational Functions
 
 The graph of a rational function typically contains one or more vertical asymptotes, corresponding to the zeros of the denominator $Q(x)$. It may also contain a horizontal or oblique asymptote, determined by the degrees of the polynomials $P(x)$ and $Q(x)$. 
 
@@ -67,3 +67,48 @@ Rational functions and their graphs are an important topic in calculus and real 
 Take the function $y= x^{-n}$. For odd $n$, the top two quadrants of the graph diverge to positive infinity, whilst in the case where $n$ is even, the top right continues the same behaviour but the bottom right quadrant diverges to negative infinity.
 
 These are examples of functions whose domain does not include the whole real line (because of $x=0$ and $y=0$): these are asymptotes. The domains are all real numbers (excluding $x=0$ and $y=0$ respectively), but the two respective ranges are: $(-\infty,0)\cup(0,\infty)$ and $(0,\infty)$.
+
+**Example (Exam 2020)** Write down the domain and range of $f(x)=(x-3)^{-4}$.
+
+The domain is restricted by division by zero at $x=3$, so $x=3$ is excluded from the domain: $\{x\space\epsilon\space\mathbb{R}:x\ne3\} = (-\infty,3)\cup(3,\infty)$.
+
+The range produces arbitrarily small numbers as $x$ approaches $\pm\infty$ and arbitrarily large numbers as $x$ approaches $3$. The power is even, so these numbers are positive thus the range is $\{x\space\epsilon\space\mathbb{R}:x\gt0\}=(0,\infty)$.
+
+### Periodic functions
+
+A function is periodic if there is a number, $p\gt0 : f(x+p)=f(x)$, for all $x$ in the domain of $f$.
+The smallest such number is called the period of $f$.
+#### Trigonometry functions
+
+The basic functions are $\sin$ and $\cos$. These are $\frac{\pi}{2}$ out of phase, but are otherwise identical. Both also have the domain $(-\infty,\infty)$ and range $[-1,1]$.
+
+They are defined by the following power series:
+$$
+\sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \ldots
+$$
+$$
+\cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \ldots
+$$
+The quotient of these two is defined as $\tan x = \frac{\sin x}{\cos x}$. As it's a rational function, it's undefined at some points, when $\cos x = 0$, i.e. $x=(n+\frac{1}{2})\pi, n\space\epsilon\space\mathbb{z}$. Thus its domain is defined as $\{x\space\epsilon\space\mathbb{R}:x\ne(n+\frac{1}{2})\pi,n\space\epsilon\space\mathbb{z}\}$. Its range is in all the real numbers, $y\space\epsilon\space\mathbb{R}$.
+
+**Example** Sketch the graph of $\csc x = \frac{1}{\sin x}$ *(cosec x is the British version of csc x)*, and state its domain and range.
+![[Csc graph.excalidraw]]
+Domain : $\{x\space\epsilon\space\mathbb{R}:x\ne n\pi,n\space\epsilon\space\mathbb{Z}\}$
+Range : $\{y\space\epsilon\space\mathbb{R}:y\le-1\space\text{or}\space y\ge1\}$ or $(-\infty,-1]\cup[1,\infty)$
+
+## Even & Odd Functions
+
+An even function has reflective symmetry: $f(-x)=f(x)$, for all $x$ in the domain of $f$.
+![[Even f(x).excalidraw]]
+
+An odd function has rotational symmetry: $f(-x)=f(x)$ for all $x$ in the domain of $f$.
+![[Odd f(x).exalidraw]]
+
+To identify a function as odd, even, or neither: replace every instance of $x$ with $-x$, if the original is returned then $f$ is even, if the negative of $f$ is returned then $f$ is odd. If neither occurs, then the function is neither even nor odd.
+
+**Example** Identify $g(x)$ as odd or even or neither, where $g(x)=2x^3+x$.
+$$
+\implies g(-x) = 2(-x)^3+(-x)
+\implies g(-x) = -2x^3-x=-g(x)
+$$
+Thus the function is odd.

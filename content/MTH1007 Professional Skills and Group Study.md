@@ -31,3 +31,8 @@ Module Co-ordinator: MMura@lincoln.ac.uk (Manuel Mura)
 ## Weeks Content
 ### Week 1
 -->
+### Week 2
+https://blackboard.lincoln.ac.uk/ultra/courses/_191988_1/cl/outline
+![[Word-tasks.pdf]]
+![[Excel-tasks(1).pdf]]
+![[PS_Plagiarism(1).pdf]]

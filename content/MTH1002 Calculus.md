@@ -28,8 +28,13 @@ Read **Calculus by J. Stewart** (for the syllabus), **Calculus by M. Spivak** (f
 *Automatically generated into Anki*
 ## Weeks Content
 ### Week 1
-![[MTH1002_Notes_1.pdf]]
-
-![[MTH1002M_Calculus_Practical_1.pdf]]
+[[MTH1002_Notes_1.pdf]]
+[[MTH1002M_Calculus_Practical_1.pdf]]
 
 [[Answers to Calculus Practical 1]]
+___
+### Week 2
+![[MTH1002_Notes_2.pdf]]
+![[MTH1002M_Calculus_Practical_2.pdf]]
+
+[[Answers to Calculus Practical 2]]

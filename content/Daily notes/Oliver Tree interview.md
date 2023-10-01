@@ -1,0 +1,6 @@
+ - Failure isn't a negative word - it's a beautiful step towards success
+ - Know your sources and make sure it's not something that'll cause grief to people
+ - It's not that complicated: there's a very high change that someone else felt those feelings and done those things at some point
+ - Art turns negative things into positive things
+ - People can be dicks. Just take a deep breath and realise they're irrelevant: you can evolve, devolve, anything
+ - Be present - it'll be over shortly

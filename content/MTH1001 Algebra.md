@@ -8,6 +8,8 @@ tags:
 # Algebra
 Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303)
 *Base module before moving into more abstract algebra, like group theory etc.*
+
+Read **[[A Concrete Introduction to Higher Algebra]]** (for the syllabus)
 ## Course Components
 1. Coursework Assignment (15%)
 2. In-Class Assignment (25%)
@@ -31,12 +33,15 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 *Automatically generated into Anki*
 ## Weeks Content
 ### Week 1
-![[Algebra_notes_week_01.pdf]]
-
-![[Algebra_slides_week_01_handout.pdf]]
-
-![[General Information MTH1001.pdf]]
-
-![[Practical_1.pdf]]
+[[Algebra_slides_week_01_handout.pdf]]
+[[Algebra_notes_week_01.pdf]]
+[[Practical_1.pdf]]
 
 [[Answers to Algebra Practical 1]]
+___
+### Week 2
+![[Algebra_slides_week_02_handout.pdf]]
+![[Algebra_notes_week_02.pdf]]
+![[Practical_2.pdf]]
+
+[[Answers to Algebra Practical 2]]

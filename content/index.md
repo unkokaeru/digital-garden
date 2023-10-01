@@ -38,8 +38,10 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 ## 📜 Quest Log
 
  - [ ] [[Homework Optics 1]]
- - [ ] Get Dune from the library (813.54, Fiction in English)
- - [ ] 44 72 62 76 20 44 72 7a 74 76 70 20 72 20 73 66 66 20 73 72 6a 62 76 6b 20 77 66 69 20 6e 79 76 65 20 6a 79 76 20 74 66 64 76 6a 20 66 6d 76 69 3f 20 2d 20 7a 65 74 63 6c 75 76 20 72 20 73 63 72 65 62 76 6b 2c 20 72 20 6b 69 76 72 6b 2c 20 76 6b 74 2e 20 28 6e 72 6b 74 79 20 4e 7a 65 76 20 52 73 66 6c 6b 20 5a 6b 29
+ - [ ] Wipe my laptop then reinstall essentials (this'll probably take a few days, though, so I'm not sure when to do it - unless I only wipe the C drive and keep the D drive?) [[Wiping my laptop - what to keep]]
+ - [ ] Read or listen to "The Intelligent Investor" ([[University Finances#Taxes]])
+ - [ ] Read or listen to "What Everyone Needs to Know about Tax : An Introduction to the UK Tax System" ([[University Finances#Taxes]])
+ - [ ] Minimalism books?
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 

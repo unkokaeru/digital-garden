@@ -1,4 +1,4 @@
->1. Pursue your goals with aggressive determination.
+--->1. Pursue your goals with aggressive determination.
 >2. Prioritize completion instead of striving for unattainable perfection.
 >3. Embrace the principles of simplicity and flow in your actions.
 >4. Seek balance and acceptance in all aspects of life.

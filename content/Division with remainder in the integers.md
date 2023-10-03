@@ -31,7 +31,7 @@ So we define the greatest common divisor of $a$ and $b$ if:
 Now the GCD is **not unique** (although isn't that much of a big deal; the magnitude is still unique): if $d$ is a GCD of $a$ and $b$ then $-d$ is another GCD, but there are no more GCDs. The GCD of $0$ and and integer $a$ now exists, and equals $a$ because $D(0) \cap D(a) = D(a)$. Including when $a = 0$.
 
 ## Euclid's Algorithm
-Euclid's Algorithm is an efficient method for computing the greatest common divisor of two numbers, $a$ and $b$. The main principle behind the algorithm is that the greatest common divisor of $a$ and $b$ is the same as the greatest common divisor of $b$ and $a \mod b$.
+[Euclid's Algorithm](Euclidean%20Algorithm) is an efficient method for computing the greatest common divisor of two numbers, $a$ and $b$. The main principle behind the algorithm is that the greatest common divisor of $a$ and $b$ is the same as the greatest common divisor of $b$ and $a \mod b$.
 
 The Euclidean Algorithm starts with a pair of positive integers and forms a new pair that consists of the lesser number and the remainder of the Euclidean division (also called division with remainder) of the greater by the lesser. This process repeats until the pair is $(0, d)$ where $d$ is the greatest common divisor.
 

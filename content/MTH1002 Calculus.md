@@ -10,7 +10,7 @@ Read **Calculus by J. Stewart** (for the syllabus), **Calculus by M. Spivak** (f
 4. Final Exams (60%)
 ## Outline Syllabus
  - [[Functions]]
- - Complex numbers
+ - [[Complex numbers]]
  - Limits and continuity
  - Differentiation
  - Curve sketching

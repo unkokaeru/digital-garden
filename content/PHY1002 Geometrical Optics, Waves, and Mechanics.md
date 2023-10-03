@@ -20,7 +20,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 ## Outline Syllabus
 - **[Mechanics](History%20of%20Mechanics.md)** (*taught by Theodoros*): Motion in one, two and three dimensions, Newton's laws. Work, kinetic and potential energy. Conservation laws. Rotation and angular momentum. Newton's law of gravity. Simple harmonic motion, pendulum.
 - **[Waves](History%20of%20Waves.md)** (*taught by Theodoros*): Simple wave motion, periodic waves, sound waves, waves in three dimensions. Diffraction. Doppler effect. Superposition of waves. Waves on strings. Wave packets and group velocity.
-- **[Geometrical Optics](History%20of%20Geometrical%20Optics.md)** (*taught by Andrei: A combination of mathematics and technical drawing*): [[Huygens's construction]], [[Fermat's Principle (1662)]], [[Reflection]] and [[Refraction]]. Mirrors and lenses. Interference and diffraction at single and multiple slits. Fraunhofer and Fresnel diffraction, diffraction gratings.
+- **[Geometrical Optics](History%20of%20Geometrical%20Optics.md)** (*taught by Andrei: A combination of mathematics and technical drawing*): [[Huygens's construction]], [[Fermat's Principle (1662)]], [[Reflection]] and [[Refraction]]. [[Mirrors and lenses]]. Interference and diffraction at single and multiple slits. Fraunhofer and Fresnel diffraction, diffraction gratings.
 ## Learning Outcomes
 - [ ] **LO1** Mathematically solve simple problems of mechanics, optics and waves.
 - [ ] **LO2** Construct multi-step solutions of problems of mechanics, optics and waves.
@@ -29,12 +29,16 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 *Automatically generated into Anki*
 ## Weeks Content
 ### Week 1
- - [ ] [[Homework Optics 1]]
+[[Wk1_optics.pdf]]
+[[Geometrical Optics W1.pdf]]
+[[Optics Problems Week1.pdf]]
 
-![[Geometrical Optics W1.pdf]]
-
-![[Optics Problems Week1.pdf]]
-
-![[Wk1_optics.pdf]]
-
+[[Homework Optics 1]]
 [[Answers to Optics Practical 1]]
+### Week 2
+![[Wk2_optics.pdf]]
+![[Geometrical Optics W2.pdf]]
+![[Optics Problems Week2.pdf]]
+
+[[Homework Optics 2]]
+[[Answers to Optics Practical 2]]

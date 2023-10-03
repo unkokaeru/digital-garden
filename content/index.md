@@ -16,7 +16,7 @@ showToc: "false"
 
 This Knowledge Cottage is not a creation in isolation, but a homely haven built from the wisdom of many before me. The concepts of the [[Memory Palace]], the [[Digital Garden]], and the [[Zettelkasten]] have influenced the design of this cottage.
 
-Their principles of association, organic growth, and interconnected knowledge have guided the design and nurturing of this dynamic knowledge hearth. I acknowledge and thank the brilliant minds behind these concepts for their invaluable contribution to this cottage's homely wisdom.
+Their principles of association, organic growth, and interconnected knowledge have guided the design and nurturing-- of this dynamic knowledge hearth. I acknowledge and thank the brilliant minds behind these concepts for their invaluable contribution to this cottage's homely wisdom.
 ## 📚 Timeworn Study
 *As you wander through the welcoming cottage and ascend the creaking stairs, you find yourself entering the timeworn study, a realm of knowledge and memories waiting to be discovered.*
 
@@ -37,12 +37,7 @@ Resting quietly in the corner of the study, you'll find the [[Sleep|old journal 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 📜 Quest Log
 
- - [ ] [[Homework Optics 1]]
- - [ ] Wipe my laptop then reinstall essentials (this'll probably take a few days, though, so I'm not sure when to do it - unless I only wipe the C drive and keep the D drive?) [[Wiping my laptop - what to keep]]
- - [ ] Read or listen to "The Intelligent Investor" ([[University Finances#Taxes]])
- - [ ] Read or listen to "What Everyone Needs to Know about Tax : An Introduction to the UK Tax System" ([[University Finances#Taxes]])
- - [ ] Minimalism books?
-
+ - [ ] Re-create my Anki flashcards (after evaluating whether or not Anki is still the best thing to use)
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 
 [[Imp Cave (September)]]

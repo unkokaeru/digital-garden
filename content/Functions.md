@@ -112,3 +112,93 @@ $$
 \implies g(-x) = -2x^3-x=-g(x)
 $$
 Thus the function is odd.
+## Exponential Functions
+
+Exponential functions are functions in which the variable is in the exponent. The general form of an exponential function is:
+$$f(x) = a \cdot b^x$$
+where $a$ and $b$ are constants, and $b > 0$.
+
+### Historical Background
+
+Exponential functions have been studied since ancient times. The concept of an exponential function was first introduced by the Swiss mathematician Johann Bernoulli in the 17th century. The exponential function and its inverse, the logarithm, have been fundamental in the development of mathematics, especially in calculus and complex analysis.
+
+### Equations and Properties
+
+The base $b$ of the exponential function determines its behaviour:
+
+- If $0 < b < 1$, the function is decreasing.
+- If $b > 1$, the function is increasing.
+
+The domain of an exponential function is all real numbers $\mathbb{R}$, and its range is all positive real numbers $(0, \infty)$.
+
+### Examples
+
+1. $f(x) = 2^x$
+   - Domain: $\mathbb{R}$
+   - Range: $(0, \infty)$
+
+2. $f(x) = \frac{1}{3}^x$
+   - Domain: $\mathbb{R}$
+   - Range: $(0, \infty)$
+
+## Piece-wise Defined Functions
+
+Piece-wise defined functions are functions that are defined by different formulas over different intervals of their domain.
+
+### Absolute Value Function
+
+The absolute value function is defined as:
+$$f(x) = |x| = 
+\begin{cases} 
+x & \text{if } x \geq 0 \\
+-x & \text{if } x < 0 
+\end{cases}$$
+
+- Domain: $\mathbb{R}$
+- Range: $[0, \infty)$
+
+### Signum Function
+
+The signum function, often denoted as $sgn(x)$, is defined as:
+$$sgn(x) = 
+\begin{cases} 
+1 & \text{if } x > 0 \\
+0 & \text{if } x = 0 \\
+-1 & \text{if } x < 0 
+\end{cases}$$
+
+- Domain: $\mathbb{R}$
+- Range: \{-1, 0, 1\}
+
+## Hyperbolic Functions
+
+Hyperbolic functions are analogs of the trigonometric functions for the hyperbola, just as the trigonometric functions are for the circle.
+
+### Definitions
+
+1. Hyperbolic Sine: $\sinh(x) = \frac{e^x - e^{-x}}{2}$
+2. Hyperbolic Cosine: $\cosh(x) = \frac{e^x + e^{-x}}{2}$
+3. Hyperbolic Tangent: $\tanh(x) = \frac{\sinh(x)}{\cosh(x)}$
+
+### Properties
+
+- $\cosh^2(x) - \sinh^2(x) = 1$
+- The domain of $\sinh(x)$ and $\cosh(x)$ is $\mathbb{R}$, and their range is also $\mathbb{R}$.
+- The domain of $\tanh(x)$ is $\mathbb{R}$, and its range is (-1, 1).
+
+## Composition of Two Functions
+
+Given two functions $f$ and $g$, the composition of $f$ with $g$ is defined as:
+$$(f \circ g)(x) = f(g(x))$$
+
+### Example
+
+Let $f(x) = x^2$ and $g(x) = 3x + 1$. Then:
+$$(f \circ g)(x) = f(3x + 1) = (3x + 1)^2$$
+
+### Properties
+
+- The domain of $f \circ g$ is the set of all $x$ in the domain of $g$ such that $g(x)$ is in the domain of $f$.
+- The range of $f \circ g$ is the range of $f$.
+
+In conclusion, understanding the various types of functions and their properties is crucial for a deeper understanding of mathematics. Whether it's the simple polynomial or the more complex hyperbolic functions, each has its unique characteristics and applications.

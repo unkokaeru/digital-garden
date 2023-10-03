@@ -21,6 +21,8 @@ Module Co-ordinator: BVorselaars@lincoln.ac.uk (Bart Vorselaars)
 *Automatically generated into Anki*
 ## Weeks Content
 ### Week 1
-![[exercises-session1.pdf]]
-
-![[slides-session1.pdf]]
+[[slides-session1.pdf]]
+[[exercises-session1.pdf]]
+### Week 2
+![[slides-session2.pdf]]
+![[exercises-session2.pdf]]

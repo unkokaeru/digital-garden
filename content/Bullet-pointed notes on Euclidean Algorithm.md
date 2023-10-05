@@ -1,0 +1,39 @@
+- **Euclidean Algorithm and Its Extensions**
+  - **Euclidean Algorithm**
+    - Classical method to determine the GCD of two integers.
+    - GCD of two integers also divides their difference.
+    - **Procedure**:
+      - Given two integers $a$ and $b$ where $a > b$, divide $a$ by $b$.
+      - Replace $a$ with $b$ and $b$ with the remainder.
+      - Repeat until $b$ is 0. The non-zero remainder is the GCD.
+    - **Example**:
+      - GCD of 252 and 105 is 21.
+  - **Variant: Negative Remainders**
+    - Can use negative remainders to simplify calculations.
+    - **Procedure**:
+      - Divide $a$ by $b$.
+      - If remainder > $b/2$, subtract $b$ from remainder and add 1 to quotient.
+    - **Example**:
+      - For $a = 57$ and $b = 21$: $57 = 21 \times 2 + 15$.
+  - **Extended Euclidean Algorithm**
+    - Enhancement of the Euclidean Algorithm.
+    - Computes GCD and coefficients of Bézout's identity.
+    - **Bézout's Identity**:
+      - For integers $a$ and $b$, there are integers $x$ and $y$ such that: $ax + by = \text{GCD}(a, b)$.
+    - **Procedure**:
+      - Start with $a$ and $b$ where $a > b$. Initialize coefficient pairs.
+      - Divide $a$ by $b$, get quotient $q$ and remainder $r$.
+      - Update coefficients and repeat until $b$ is 0.
+- **Least Common Multiple (LCM)**
+  - Smallest positive integer divisible by both $a$ and $b$.
+  - Denoted as $\text{LCM}(a, b)$ or $[a,b]$.
+  - Computed using: $\text{LCM}(a, b) = \frac{|a \times b|}{\text{GCD}(a, b)}$.
+- **Proofs of the Four Arithmetical Lemmas**
+  - **Lemma 1**: If $a | b$ and $a | c$, then $a | (b + c)$.
+    - **Proof**: If $b = ak$ and $c = al$, then $b + c = a(k + l)$.
+  - **Lemma 2**: If $a | b$, then $a | bc$ for all integers $c$.
+    - **Proof**: If $b = ak$, then $bc = a(kc)$.
+  - **Lemma 3**: If $a | b$ and $c | d$, then $ac | bd$.
+    - **Proof**: If $b = ak$ and $d = cl$, then $bd = ac(kl)$.
+  - **Lemma 4**: If $a | b$ and $b | a$, then $a = \pm b$.
+    - **Proof**: If $b = ak$ and $a = bl$, then $a = a(kl)$ implies $a = \pm b$.

@@ -1,0 +1,7 @@
+Given the following notes, please produce flashcards in the specified format:
+
+Note 1: [Your first note here]
+Note 2: [Your second note here]
+...
+
+Flashcard format: STARTI [Basic] Question: {Question} Back: {Answer}. ENDI

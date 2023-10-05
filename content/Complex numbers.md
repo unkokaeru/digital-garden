@@ -1,7 +1,21 @@
-# Complex Numbers
+# Complex Numbers ($\mathbb{C}$)
+*Note that sometimes $j$ is used instead of $i$, especially in physics/engineering.*
 
 Complex numbers are an extension of the real numbers and can be represented in the form $a + bi$, where $a$ and $b$ are real numbers, and $i$ is the imaginary unit with the property that $i^2 = -1$.
 
+They appear most notably when solving quadratic equations, where in lower levels of mathematics education you may stop, here we continue:
+
+**Example: The quadratic formula give the solutions of the quadratic equation $z^2-4z+5=0$ as $2\pm\frac{\sqrt{-4}}{2}$**
+
+Continuing this by using the definition aforementioned, we can show that the full answer can be denoted by $2\pm i$.
+## Separation of Real and Imaginary Parts
+
+Complex numbers are in the form $z=a+bi$, where $a,b\space\epsilon\space\mathbb{R}$. $a$ and $b$ are the real and imaginary parts, respectively, of $z$, and are often denoted as $\Re(z)$ and $\Im(z)$.
+
+If $a=0$, then $z$ is purely imaginary.
+If $b=0$, then $z$ is real.
+
+A complex number written as the sum of a real and an imaginary term is in standard form ($a+bi$).
 ## Arithmetic of Complex Numbers
 
 ### Addition and Subtraction
@@ -13,12 +27,27 @@ $$
 $$
 z_1 - z_2 = (a - c) + (b - d)i
 $$
+*Note: ensure that you keep the real and imaginary separate!*
+
+**Example: $(2+3i) + (1-2i)$**
+$$
+(2+3i)+(1-2i)=3+i
+$$
+**Example: $(2+3i) - (1-2i)$**
+$$
+(2+3i)-(1-2i)=1+5i
+$$
 
 ### Multiplication
 
-The product of $z_1$ and $z_2$ is:
+The product of $z_1$ and $z_2$, by using the definition of $i$, is:
 $$
 z_1 \times z_2 = (ac - bd) + (ad + bc)i
+$$
+
+**Example: $(2+3i)(1-2i)$**
+$$
+(2+3i)(1-2i)=2-4i+3i-6(i^2)=2-i+6=8-i
 $$
 
 ### Division
@@ -27,11 +56,19 @@ The quotient of $z_1$ by $z_2$ is:
 $$
 \frac{z_1}{z_2} = \frac{a + bi}{c + di} = \frac{(a + bi)(c - di)}{c^2 + d^2}
 $$
-*This is simply multiplying numerator and denominator by the conjugate of the denominator*
+*This is simply multiplying numerator and denominator by the [conjugate](Complex%20numbers#Conjugate) of the denominator*
+
+**Example: $\frac{2+3i}{1-2i}$**
+$$
+\frac{2+3i}{1-2i}=\frac{2+3i}{1-2i}\cdot\frac{1+2i}{1+2i}=\frac{7i-4}{5}=-\frac{4}{5}+\frac{7}{5}i
+$$
 
 ## Geometric Interpretation
 
 Complex numbers can be represented geometrically on the complex plane, with the real part on the x-axis and the imaginary part on the y-axis. The distance from the origin to the point $(a, b)$ is the magnitude (or modulus) of the complex number, denoted as $|z|$.
+
+These graphs are often called Argand diagrams, for example:
+![[Argand Diagram Example.excalidraw]]
 
 ### Modulus and Argument
 
@@ -44,6 +81,9 @@ The argument (or angle) of $z$, denoted as $arg(z)$, is the angle $\theta$ such 
 $$
 \tan(\theta) = \frac{b}{a}
 $$
+These are both derived from simple trigonometry in collusion with the Argand diagram. Note also that the argument is not unique, since it's derived using a periodic function.
+
+In this course, we hence define it as $0\le\theta\lt2\pi$ for simplicity through convention. Ensure that the angle is pointing in the right direction, though - for example, the bottom left quadrant opposed to the top right quadrant (simply add $\pi$ if needed).
 
 ## Polar Form
 
@@ -103,6 +143,12 @@ The product of a complex number and its conjugate is always a real number:
 $$
 z \times \bar{z} = |z|^2
 $$
+The derivation of the latter equation is as follows:
+$$
+z\times \bar{z}=(a+bi)(a-bi)=a^2+b^2=|z|^2\text{ by Pythagoras and the Difference of Two Squares}
+$$
+
+*Note that this is sometimes denoted as $z^\star=a-ib$, especially in physics.*
 
 ## Applications
 

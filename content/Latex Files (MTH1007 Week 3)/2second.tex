@@ -1,0 +1,100 @@
+% A simple article to illustrate document structure.
+\documentclass{article}
+
+\begin{document}
+
+% ARTICLE TITLE, AUTHOR, ABSTRACT 
+
+\title{How to Structure a LATEX Document}
+
+\author{Andrew Roberts\\ %doublebackslash forces new line
+        School of Computing,\\
+		University of Leeds,\\
+		Leeds,\\
+		United Kingdom,\\
+		LS2 1HE\\
+		\texttt{andyr@comp.leeds.ac.uk}}  %\texttt formats the text to a typewriter style font
+
+\date{32/11/16} %joke:-), can use \date{\today} \today is replaced with the current date
+
+\maketitle %necessary command to make title
+
+\begin{abstract}
+In this article, I shall discuss some of the fundamental topics in
+producing a structured document.  This document itself does not go into
+much depth, but is instead the output of an example of how to implement
+structure.
+\end{abstract}
+
+\section{\label{intro} Introduction} %\label{..} are optional "markers" for cross-referencing
+
+This small document is designed to illustrate how easy it is to create a
+well structured document within LATEX, see \cite{lamport94}.  You should quickly be able to
+see how the article looks very professional, despite the content being
+far from academic.  Titles, section headings, justified text, text
+formatting etc., is all there, and you would be surprised when you see
+just how little markup was required to get this output.
+
+\section{\label{str} Structure}
+One of the great advantages of LATEX is that all it needs to know is
+the structure of a document, and then it will take care of the layout
+and presentation itself.  So, here we shall begin looking at how exactly
+you tell LATEX what it needs to know about your document.
+
+\subsection{\label{top} Top Matter}
+The first thing you normally have is a title of the document, as well as
+information about the author and date of publication.  In LATEX terms,
+this is all generally referred to as \emph{top matter}.
+
+\subsubsection{\label{ai} Article Information}
+
+ See the commands at the beginning for title, etc.
+
+\subsubsection{\label{auth} Author Information}
+
+It is common to not only include the author name, but to insert new
+lines after and add things such
+as address and email details.
+
+
+
+\subsection{\label{sect} Sectioning Commands}
+The commands for inserting sections are fairly intuitive.  Of course,
+certain commands are appropriate to different document classes.
+For example, a book has chapters but a article doesn't.
+
+Numbering of the sections is performed automatically by LATEX, so don't
+bother adding them explicitly, just insert the heading you want between
+the curly braces.
+
+If you don't want sections number, then add an asterisk (*) after the
+(sub)section command, but before the first curly brace, e.g.,
+
+\subsection*{A Title Without Numbers}
+
+
+\subsection{\label{lbls} Labels} Use labels if you want cross-referencing. Like ``We discussed author info in Subsection~\ref{auth}.''  This is a really useful feature of LATEX, everything is  taken care of, even if you change structure, add more (sub)sections, etc. The same applies to bibliography citing, which has different format \cite{lamport94}, see below, --- even if you later add more bibliography, all references will be correct.
+
+NOTE: for labels to become known to LATEX, building procedure should be done \textbf{twice}.
+
+%Create the environment for the bibliography.  Since there are only two 
+%references, set the label width to be one character (I shall follow
+%convention as use the number '9'.  This is because it helps to remind
+%that it is the maximum number of refs that is now permitted by that
+%width).
+\begin{thebibliography}{9} %number in brackets indicates maximum thickness
+% of number; so if there are less than 10, put 9, if less than 100, put 99k
+
+%The \bibitem is to start a new reference.
+%Ensure that the cite_key=label in braces after \bibitem,  is
+%unique.  Then refer in the text like  \cite{lamport94}, see above.
+
+\bibitem{lamport94}
+	  Leslie Lamport,  \emph{LATEX: A Document Preparation System}. 	  Addison Wesley, Massachusetts, 	  2nd Edition, 	  1994.
+
+\bibitem{b2}
+A. U. Thor, How to write, \emph{J. Good Writing}, \textbf{12}, no. 3 (2001), 12--45.
+
+\end{thebibliography} %Must end the environment
+
+\end{document}  %End of document.

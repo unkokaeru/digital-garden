@@ -4,7 +4,7 @@
 
 For any integers $a$ and $b$, if $d$ is their greatest common divisor (GCD), then there exist integers $x$ and $y$ such that:
 
-\[ ax + by = d \]
+$ax + by = d$
 
 In other words, the GCD of two integers can always be expressed as a linear combination of those integers.
 

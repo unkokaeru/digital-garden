@@ -18,7 +18,11 @@ Module Co-ordinator: BVorselaars@lincoln.ac.uk (Bart Vorselaars)
 - [ ] **LO2** Implement simple numerical algorithms using technical computing.
 - [ ] **LO3** Maintain a well structured computational laboratory log-book.
 ## Flashcards
-*Automatically generated into Anki*
+*Automatically ported into Anki*
+TARGET DECK
+MTH1006 Computer Algebra and Technical Computing
+
+ - STARTI [Basic] What is the MTH1006 module? Back: Computer Algebra and Technical Computing. <!--ID: 1696359397852--> ENDI
 ## Weeks Content
 ### Week 1
 [[slides-session1.pdf]]

@@ -37,7 +37,19 @@ Resting quietly in the corner of the study, you'll find the [[Sleep|old journal 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 📜 Quest Log
 
- - [ ] Re-create my Anki flashcards (after evaluating whether or not Anki is still the best thing to use)
+ - [ ] Update access card (once every 5 days! So, Monday & Friday?)
+ - [ ] Correct the [[Euclidean algorithm]] notes (the four arithmetical lemmas and leading those to prove [[Bezout's Lemma]])
+ - [ ] Practical Work
+	 - [ ] [[Answers to Algebra Practical 2]]
+	 - [ ] [[Answers to Calculus Practical 2]]
+	 - [ ] [[Answers to Optics Practical 2]]
+ - [ ] Assignments Work
+	 - [ ] Algebra assignment (**To Be Released**)
+	 - [ ] Calculus assignment ([Released at 15:00](https://www.webassign.net/v4cgi/student.pl))
+	 - [ ] Optics assignment (Submit [here](https://blackboard.lincoln.ac.uk/ultra/courses/_192465_1/cl/outline) - questions and answers here: [[Optics Coursework 1]])
+ - [ ] Household chores
+	 - [ ] Clean everything (incl. vacuum, wipes, etc.)
+	 - [ ] Buy underwear, toilet wipes, and *secret stuff* (for Maicey, in notes app)
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 
 [[Imp Cave (September)]]

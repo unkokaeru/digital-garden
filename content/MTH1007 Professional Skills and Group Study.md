@@ -1,6 +1,8 @@
 # Professional Skills and Group Study
 Module Co-ordinator: MMura@lincoln.ac.uk (Manuel Mura)
 *General skills for post graduation*
+
+[[IEEE-Referencing-Guide.pdf]]
 ## Course Components
  1. Individual Portfolio (50%): *LO2, LO3*
 	- Latex Coursework (20%)
@@ -28,11 +30,17 @@ Module Co-ordinator: MMura@lincoln.ac.uk (Manuel Mura)
 - [ ] **LO4** Communicate scientific information related to your programme of study effectively by means of a written document and presentation.
 ## Flashcards
 *Automatically generated into Anki*
+TARGET DECK
+MTH1007 Professional Skills and Group Study
+
+ - STARTI [Basic] What is the MTH1007 module? Back: Professional Skills and Group Study. <!--ID: 1696359411213--> ENDI
 ## Weeks Content
 ### Week 1
 -->
 ### Week 2
-https://blackboard.lincoln.ac.uk/ultra/courses/_191988_1/cl/outline
-![[Word-tasks.pdf]]
-![[Excel-tasks(1).pdf]]
-![[PS_Plagiarism(1).pdf]]
+[[Word-tasks.pdf]]
+[[Excel-tasks(1).pdf]]
+[[PS_Plagiarism(1).pdf]]
+### Week 3
+![[Week3-Latex.pdf]]
+[[Latex Files (MTH1007 Week 3)]]

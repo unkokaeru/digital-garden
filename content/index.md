@@ -50,6 +50,7 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
  - [ ] Household chores
 	 - [ ] Clean everything (incl. vacuum, wipes, etc.)
 	 - [ ] Buy underwear, toilet wipes, and *secret stuff* (for Maicey, in notes app)
+
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 
 [[Imp Cave (September)]]

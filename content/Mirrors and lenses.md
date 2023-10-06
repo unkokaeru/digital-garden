@@ -1,4 +1,5 @@
 # Mirrors and Lenses
+[[Mirrors and lenses (useful equations etc.)]]
 
 ## Introduction
 Mirrors and lenses have played a vital role in shaping our understanding of light and optics. From the ancient Egyptians using polished metal mirrors to the telescopes and cameras of the modern era, the principles governing their operation remain consistent.
@@ -120,7 +121,8 @@ Mirrors and lenses have played a vital role in shaping our understanding of ligh
 - A lightweight lens featuring a series of concentric rings, which reduces both weight and required material.
 
 ### Reflecting Telescope (Newtonian Focus)
-- Uses a concave mirror to collect light and produce an image.
+- Uses a concave mirror to collect light and produce an image; works due to the geometric nature of a parabola.
+![[Pasted image 20231006085003.png]]
 
 ---
 

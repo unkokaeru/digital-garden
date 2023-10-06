@@ -44,8 +44,6 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 	 - [ ] [[Answers to Calculus Practical 2]]
 	 - [ ] [[Answers to Optics Practical 2]]
  - [ ] Assignments Work
-	 - [ ] Algebra assignment (**To Be Released**)
-	 - [ ] Calculus assignment ([Released at 15:00](https://www.webassign.net/v4cgi/student.pl))
 	 - [ ] Optics assignment (Submit [here](https://blackboard.lincoln.ac.uk/ultra/courses/_192465_1/cl/outline) - questions and answers here: [[Optics Coursework 1]])
  - [ ] Household chores
 	 - [ ] Clean everything (incl. vacuum, wipes, etc.)

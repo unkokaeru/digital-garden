@@ -35,7 +35,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 	- [ ] Wave packets and group velocity.
 - **[Geometrical Optics](History%20of%20Geometrical%20Optics.md)** (*taught by Andrei: A combination of mathematics and technical drawing*):
 	- [x] [[Huygens's construction]], [[Fermat's Principle (1662)]], [[Reflection]] and [[Refraction]].
-	- [x] [[Mirrors and lenses]]. [[Interference and diffraction]] at single and multiple slits.
+	- [ ] [[Mirrors and lenses]]. [[Interference and diffraction]] at single and multiple slits.
 	- [ ] Fraunhofer and Fresnel diffraction, diffraction gratings.
 ## Learning Outcomes
 - [ ] **LO1** Mathematically solve simple problems of mechanics, optics and waves.

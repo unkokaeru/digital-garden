@@ -10,16 +10,17 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 *Base module before moving into more abstract algebra, like group theory etc.*
 
 Read **[[A Concrete Introduction to Higher Algebra]]** (for the syllabus)
+[[Algebra Memorisation Points]]
 ## Course Components
 1. Coursework Assignment (15%)
 2. In-Class Assignment (25%)
 3. Final Exams (60%)
 ## Outline Syllabus
- - [ ] [Division with remainder](Division%20with%20remainder%20in%20the%20integers) in the [[integers]], including the [[Euclidean algorithm]], [[Bezout's lemma]], [[divisibility]] and [factorisations](Prime%20Factorisation).
- - [ ] Writing decimal numbers in a different base, and back. Periodic numbers
- - [ ] Division with remainder for polynomials, including the Euclidean algorithm, and Bezout's lemma.
+ - [ ] [Division with remainder](Division%20with%20remainder%20in%20the%20integers) in the [[integers]], including the [[Euclidean algorithm]], [[Bézout's Lemma]], [[divisibility]] and [factorisations](Prime%20Factorisation).
+ - [ ] [[Writing decimal numbers in a different base, and back]]. [[Periodic numbers]].
+ - [ ] Division with remainder for polynomials, including the Euclidean algorithm, and Bézout's lemma.
  - [ ] Irreducible polynomials.
- - [ ] Polynomial roots and factorisation over the complex numbers (Fundamental Theorem of Algebra), over the reals (conjugate roots), and over the rationals (Rational Root Test).
+ - [ ] Polynomial roots and factorisation over the complex numbers (Fundamental Theorem of Algebra), over the reals (conjugate roots), and over the rational numbers (Rational Root Test).
  - [ ] The coefficients of a polynomial as symmetric functions of the roots.
  - [ ] Polynomial equations and systems of equations which enjoy special symmetries: self reciprocal polynomials, symmetric systems.
  - [ ] Solving congruences in the integers, the Chinese remainder theorem, congruences with polynomials.
@@ -47,6 +48,14 @@ ___
 ### Week 2
 [[Algebra_slides_week_02_handout.pdf]]
 [[Algebra_notes_week_02.pdf]]
-![[Practical_2.pdf]]
+[[Practical_2.pdf]]
 
 [[Answers to Algebra Practical 2]]
+___
+### Week 3
+![[Algebra_slides_week_03_handout.pdf]]
+![[Algebra_notes_week_03.pdf]]
+![[Practical_3.pdf]]
+
+[[Answers to Algebra Practical 3]]
+___

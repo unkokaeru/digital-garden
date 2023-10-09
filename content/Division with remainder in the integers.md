@@ -53,3 +53,12 @@ function EuclidGCD(a, b)
 ```
 
 This algorithm is particularly efficient because it rapidly reduces the size of the numbers. This reduction is based on the observation that, if $r$ is the remainder of $a$ divided by $b$, then the common divisors of $a$ and $b$ are precisely the same as the common divisors of $b$ and $r$. Thus we can use the remainder operation to successively reduce the pair of numbers until we reach a pair where the second number is $0$. At this point, the other number will be the greatest common divisor.
+## Least Common Multiple
+Let $a,b\space\epsilon\space\mathbb{z}$. An integer $m$ (also denoted \[a,b])is called a least common multiple of $a$ and $b$ if
+ - $a$ and $b$ divide $m$, and
+ - if $c$ is any integer which is a multiple of both $a$ and $b$, then $m|c$.
+
+There is a theorem that relates this number with the greatest common divisor:
+$$
+\frac {ab}{(a,b)}=[a,b]\implies(a,b)\cdot[a,b]=a\cdot b
+$$

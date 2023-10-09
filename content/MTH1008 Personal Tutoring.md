@@ -114,3 +114,7 @@
     (c) A function used for curve fitting will include at least one adjustable parameter. In the case of the hyperbolic tangent, we could have $f(t) = a\tanh\left(\frac{t-b}{c}\right)$, where $a$, $b$ and $c$ are the adjustable parameters and $t$ is a time.
         (i) What would be the effect of changing each of these parameters on the graph of $f(t)$?
         (ii) If $t$ is measured in years, what units would $b$ and $c$ be measured in?
+# Tutorial Week 3: Algebra, Trigonometry, and General Revision
+[[Y3_Revision.pdf]]
+![[Week_3_Tutorial.pdf]]
+![[Tutorial_week_3.pdf]]

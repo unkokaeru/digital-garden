@@ -37,17 +37,15 @@ Resting quietly in the corner of the study, you'll find the [[Sleep|old journal 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 📜 Quest Log
 
- - [ ] Correct the [[Euclidean algorithm]] notes (the four arithmetical lemmas and leading those to prove [[Bezout's Lemma]])
- - [ ] Ancestry??
- - [ ] Find a Yanga alternative :)
- - [ ] Practical Work
-	 - [ ] [[Answers to Algebra Practical 2]]
-	 - [ ] [[Answers to Calculus Practical 2]]
+ - [ ] Correct the [[Euclidean algorithm]] notes (the four arithmetical lemmas and leading those to prove [[Bézout's Lemma]])
  - [ ] Assignments Work
 	 - [ ] Optics assignment (Submit [here](https://blackboard.lincoln.ac.uk/ultra/courses/_192465_1/cl/outline) - questions and answers here: [[Optics Coursework 1]])
+	 - [ ] [[Homework Optics 1]]
+	 - [ ] [[Homework Optics 2]]
+	 - [ ] [[Homework Optics 3]]
  - [ ] Household chores
 	 - [ ] Clean everything (incl. vacuum, wipes, etc.)
-	 - [ ] Buy toilet wipes and a boo basket for my partner
+	 - [ ] Buy a boo basket for my partner
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 

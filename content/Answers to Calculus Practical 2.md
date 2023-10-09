@@ -78,17 +78,26 @@ $\frac{z_2}{z_1}=\frac{-5+14i}{13}=-\frac{5}{13}+\frac{14}{13}i$
 $\bar{z_1}\bar{z_2}=(3+2i)(1-4i)=11-10i$
 ### Question 6
 $1+i : (r,\theta) = (\sqrt{2},\frac{\pi}{4})$
-$-1+i : (r,\theta) = (\sqrt{2},\frac{5\pi}{4})$
-$-1-i : (r,\theta) = (\sqrt{2},-\frac{5\pi}{4})$
+$-1+i : (r,\theta) = (\sqrt{2},\frac{3\pi}{4})$
+$-1-i : (r,\theta) = (\sqrt{2},\frac{5\pi}{4})$
 $\sqrt{3}+i:(r,\theta) = (2,\frac{\pi}{6})$
-$\sqrt{3}-i:(r,\theta) = (2,-\frac{\pi}{6})$
-$-\sqrt{3}-i:(r,\theta) = (2,-\frac{7\pi}{6})$
+$\sqrt{3}-i:(r,\theta) = (2,\frac{11\pi}{6})$
+$-\sqrt{3}-i:(r,\theta) = (2,\frac{4\pi}{3})$
 ### Question 7
 $$\frac{1+i}{i(2-3i)}+\frac{2}{i}=\frac{i(1+i)+2i(2-3i)}{3i-2}=\frac{5i+5}{3i-2}$$
 $$
-\implies\frac{5i+5}{3i-2}=
+\implies\frac{5i+5}{3i-2}=\frac{25i-5}{13}=-\frac{5}{13}+\frac{25}{13}i
 $$
 
-$\frac{1}{3+2i}+\frac{1}{2-i}=$
+$$\frac{1}{3+2i}+\frac{1}{2-i}=\frac{41}{65}+\frac{3}{65}i$$
 ### Question 8
--->
+Show that the product of two odd functions, $f(x)$ and $g(x)$, is always an even function.
+
+Let $f(x),g(x)$ be such that $f(-x)=-f(x),g(-x)=-g(x)$.
+Thus, if we take the product of the two functions: $h(x)=f(x)g(x)$, prove that $h(-x)=h(x)$.
+$$
+h(-x)=f(-x)\cdot g(-x)=-f(x)\cdot-g(x)=f(x)\cdot g(x)=h(x)
+$$
+$$
+\therefore h(-x)=h(x)\space\blacksquare
+$$

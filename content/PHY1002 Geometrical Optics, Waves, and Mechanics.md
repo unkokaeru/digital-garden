@@ -95,6 +95,7 @@ PHY1002 Geometrical Optics, Waves, and Mechanics
 
 [[Homework Optics 1]]
 [[Answers to Optics Practical 1]]
+___
 ### Week 2
 [[Wk2_optics.pdf]]
 [[Geometrical Optics W2.pdf]]
@@ -103,3 +104,11 @@ PHY1002 Geometrical Optics, Waves, and Mechanics
 [[Homework Optics 2]]
 [[Answers to Optics Practical 2]]
 [[Optics Coursework 1]]
+___
+### Week 3
+![[Wk3_optics.pdf]]
+![[Geometrical Optics W3.pdf]]
+
+[[Homework Optics 3]]
+[[Answers to Optics Practical 2]]
+[[Rev_problems.pdf]]

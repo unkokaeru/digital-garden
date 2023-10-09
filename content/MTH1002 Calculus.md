@@ -56,3 +56,10 @@ ___
 [[MTH1002M_Calculus_Practical_2.pdf]]
 
 [[Answers to Calculus Practical 2]]
+___
+### Week 3
+[[MTH1002_Notes_3.pdf]]
+[[MTH1002_Calculus_Practical_3.pdf]]
+
+[[Answers to Calculus Practical 3]]
+___

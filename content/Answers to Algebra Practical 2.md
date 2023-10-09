@@ -109,6 +109,87 @@ Express the fraction $\frac{1}{77}$ as a difference $\frac{a}{7}-\frac{b}{11}$, 
 $$
 \frac{1}{77}=\frac{a}{7}-\frac{b}{11}=\frac{11a-7b}{77}\therefore11a-7b=1
 $$
-This is a linear combination, thus requires the Euclidean algorithm, then the extended Euclidean algorithm, then the LCM to find the general solutions for $a,b$.
+This is a linear combination, thus requires the Euclidean algorithm, then the extended Euclidean algorithm, then the LCM to find the general solutions for $a,b$, as shown below:
+$$
+(11,-7)=(11,7):11=7\cdot2-3\implies7=3\cdot2+1\implies3=1\cdot3+0\therefore(11,-7)=1\implies \text{coprime}
+$$
+Therefore, by Bézout's Lemma, we can say that there exists infinite solutions for $11a-7b=1$. To find $(a_0,b_0)$, we use the extended Euclidean algorithm:
+$$
+1=7-3(2)
+$$
+$$
+\implies1=7+(2)(11-7(2))=7(-3)+11(2)=11(2)-7(3)=1
+$$
+$$
+\therefore (a_0,b_0)=(2,3)
+$$
+To find all solutions, we need to find $(c,d)$ such that:
+$$
+11(2+cn)-7(3+dn)=1:n\space\epsilon\space\mathbb{Z}
+$$
+For this, we'll find $[11,7]$, then use that to find $(c,d)$ such that they'll always cancel each other out:
+$$
+LCM=[11,7]:LCM\cdot1=11\cdot7\implies[11,7]=77
+$$
+$$
+\therefore (c,d)=(7,11)
+$$
+Therefore, the solutions for $a,b$ are:
+$$
+a=2+7n,b=3+11n:n\space\epsilon\space\mathbb{Z},a,b\space\epsilon\space\mathbb{Z}^+
+$$
+To fit this with the question, the expression of the two difference is as follows:
+$$
+\text{Solution One:} \frac{1}{77}=\frac{2}{7}-\frac{3}{11}
+$$
+$$
+\text{Solution Two:} \frac{1}{77}=\frac{9}{7}-\frac{14}{11}
+$$
+Calculating these gives the required result.
+### Question 8
+There is a currency: the "unit". There exists two division, a small coin worth 13 units, and a big coin worth 17 units.
 
--->
+How do you pay for an item worth 7 units?
+
+First, we can formulate the question mathematically:
+$$
+13s+17b=7:s,b\space\epsilon\space\mathbb{Z}
+$$
+In other words, what combination of small coins, $s$, and big coins, $b$, gives a value of 7? Any integer is allowed here, as a negative answer is simply some coins returned as change.
+
+This is a linear combination, so can be solved using a combination of Euclid's algorithm, Euclid's extended algorithm, and Bézout's Lemma, as shown below:
+$$
+(13,17):17=13\cdot1+4\implies13=4\cdot3+1\implies4=1\cdot4+0\implies\text{coprime}
+$$
+$$
+1=13+4(-3)\implies1=13+(17+13(-1))(-3)\implies1=13(4)+17(-3)
+$$
+$$
+\therefore(s_0,b_0)=(4,-3):\text{Pay with four small coins, receieve three big coins change.}
+$$
+For all solutions,
+$$
+13(4+17n)+17(-3-13n)=7:n\space\epsilon\space\mathbb{Z}
+$$
+$$
+\therefore (s,b)=(4+17n,-3-13n)
+$$
+### Question 9
+In the same country as Q8, how many different ways is it possible to pay for an item worth 700 units without having to receive any change?
+
+Mathematically, how many solutions $s,b$ of the equation $13s+17b=700$ are $s,b\ge0$?
+$$
+(s,b)=(400+1700n,-300-1300n):n\space\epsilon\space\mathbb{Z}
+$$
+$$
+\implies400+1700n\ge0,300+1300n\le0
+$$
+$$
+\implies 300+1300n\le0\le400+1700n
+$$
+$$
+\implies-\frac{4}{17}\le n\le-\frac{3}{13}
+$$
+$$
+\therefore\text{there are no positive integer solutions: you always require change.}
+$$

@@ -58,4 +58,5 @@ ___
 ![[Practical_3.pdf]]
 
 [[Answers to Algebra Practical 3]]
+[[Algebra Coursework 1]]
 ___

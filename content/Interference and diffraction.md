@@ -1,0 +1,3 @@
+- Interference occurs whenever waves combine - either constructively or destructively, depending on whether or not they arrive in phase or not, respectively.
+- In [[Young's double slit experiment]], this was demonstrated when light passes through the two slits - they both travel the same distance and thus arrive in phase, so have constructive interference (in the center). As you move out, the distances will become different and create destructive interference, then back into constructive when the distance results in interference in phase. The distance between these nodes is therefore also related to the nature of the wave creating them.
+- *continue*

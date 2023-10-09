@@ -84,24 +84,48 @@
 # Tutorial Week 2: Vectors and Hyperbolic Functions
 
 1. How do we define the scalar product of two vectors $\mathbf{a}$ and $\mathbf{b}$?
+	$|\underline{a}||\underline{b}|\cos\theta$.
 
 2. If the scalar product of two vectors is zero, what does this tell us about the vectors?
+	Perpendicular vectors
 
 3. What is the scalar product of two parallel vectors?
+	$|\underline{a}||\underline{b}|$
 
 4. Show that, if $\mathbf{a} = a_1\mathbf{e}_1 + a_2\mathbf{e}_2 + a_3\mathbf{e}_3$ and $\mathbf{b} = b_1\mathbf{e}_1 + b_2\mathbf{e}_2 + b_3\mathbf{e}_3$, then $\mathbf{a} \cdot \mathbf{b} = a_1b_1 + a_2b_2 + a_3b_3$.
+	Multiply the two vectors out, then all perpendicular vectors are 0, so you're left with the required result.
 
 5. Find $\mathbf{a} \cdot \mathbf{b}$ if 
    (a) $\mathbf{a} = 3\mathbf{e}_1 + 4\mathbf{e}_2$ and $\mathbf{b} = \mathbf{e}_1 - 2\mathbf{e}_2 + 3\mathbf{e}_3$ 
+   $$\underline{a}\cdot\underline{b}=-5$$
    (b) $\mathbf{a} = \begin{bmatrix} 4 \\ 2 \\ 1 \end{bmatrix}$ and $\mathbf{b} = \begin{bmatrix} 3 \\ -4 \\ -3 \end{bmatrix}$.
+$$
+12-8-3=1
+$$
 
 6. Find the angle between the vectors $\mathbf{a}$ and $\mathbf{b}$.
+$$
+\cos\theta=\frac{\underline{a}\cdot\underline{b}}{|\underline{a}||\underline{b}|}\implies\cos\theta=-\frac{16}{\sqrt{37}\sqrt{84}}\implies\theta=1.86\ldots^c= 106.7^\circ
+$$
 
 7. Line $l$ has the equation $\mathbf{r} = \begin{bmatrix} 2 \\ 0 \\ 4 \end{bmatrix} + \lambda \begin{bmatrix} 1 \\ 2 \\ -1 \end{bmatrix}$. Point $A$ and point $B$ have coordinates $(4, 4, 2)$ and $(1, 0, 3)$ respectively. Find the acute angle between $l$ and the line segment $AB$.
+$$
+\underline{AB}:\mathbf{r} = \begin{bmatrix} 4 \\ 4 \\ 2 \end{bmatrix} + \lambda \begin{bmatrix} 3 \\ 4 \\ -1 \end{bmatrix}
+$$
+$$
+\cos\theta=\frac{\underline{a}\cdot\underline{b}}{|\underline{a}||\underline{b}|}\implies\cos\theta=-\frac{12}{\sqrt{6}\sqrt{26}}\implies\cos\theta=2.86^c=0.28^c\text{ (acute angle)}
+$$
 
-8. Show that the lines $\mathbf{r}_1 = (\mathbf{e}_1 + 6\mathbf{e}_2 + 2\mathbf{e}_3) + \lambda(\mathbf{e}_1 + 2\mathbf{e}_2 + 2\mathbf{e}_3)$ and $\mathbf{r}_1 = (3\mathbf{e}_1 - \mathbf{e}_2 + \mathbf{e}_3) + \mu(4\mathbf{e}_1 - 3\mathbf{e}_2 + \mathbf{e}_3)$ are perpendicular.
+8. Show that the lines $\mathbf{r}_1 = (\mathbf{e}_1 + 6\mathbf{e}_2 + 2\mathbf{e}_3) + \lambda(\mathbf{e}_1 + 2\mathbf{e}_2 + 2\mathbf{e}_3)$ and $\mathbf{r}_2 = (3\mathbf{e}_1 - \mathbf{e}_2 + \mathbf{e}_3) + \mu(4\mathbf{e}_1 - 3\mathbf{e}_2 + \mathbf{e}_3)$ are perpendicular.
+Work out the dot product of the two direction vectors = 0.
 
-9. Show that $\cosh(x) - \cos(y) = 2\sinh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)$.
+9. Show that $\cosh(x) - \cosh(y) = 2\sinh\left(\frac{x+y}{2}\right)\sinh\left(\frac{x-y}{2}\right)$.
+$$
+2\cdot\frac{e^\frac{x+y}{2}-e^{-\frac{x+y}{2}}}{2}\cdot\frac{e^\frac{x-y}{2}-e^{-\frac{x-y}{2}}}{2}\implies\frac{1}{2}\left(e^x-e^y-e^{-y}+e^{-x}\right)
+$$
+$$
+\implies\frac{e^x+e^{-x}}{2}-\frac{e^y-e^{-y}}{2}\implies\cosh x-\cosh y
+$$
 
 10. Find all real solutions of the following hyperbolic equations:
     (a) $\cosh(x) - 5\sinh(x) - 5 = 0$

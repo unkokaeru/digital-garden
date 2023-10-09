@@ -39,13 +39,13 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 
  - [ ] Correct the [[Euclidean algorithm]] notes (the four arithmetical lemmas and leading those to prove [[Bézout's Lemma]])
  - [ ] Assignments Work
-	 - [ ] Optics assignment (Submit [here](https://blackboard.lincoln.ac.uk/ultra/courses/_192465_1/cl/outline) - questions and answers here: [[Optics Coursework 1]])
 	 - [ ] [[Homework Optics 1]]
 	 - [ ] [[Homework Optics 2]]
 	 - [ ] [[Homework Optics 3]]
  - [ ] Household chores
 	 - [ ] Clean everything (incl. vacuum, wipes, etc.)
 	 - [ ] Buy a boo basket for my partner
+	 - [ ] Buy light soy sauce
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 

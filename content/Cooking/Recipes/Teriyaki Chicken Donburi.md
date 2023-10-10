@@ -27,4 +27,4 @@ An authentic, flavourful **Teriyaki Chicken Donburi** dish that will leave you w
 5. **Garnish:** Add the pea shoots, carrot and spring onions to the bowls and garnish with the toasted sesame seeds.
 
 ## Note(s)/Tip(s)
-Eat donburi the authentic way by stirring all the ingredients together. To add more protein and a velvety richness to the dish, consider adding a fried egg.
+Eat donburi the aukthentic way by stirring all the ingredients together. To add more protein and a velvety richness to the dish, consider adding a fried egg.

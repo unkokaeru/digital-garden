@@ -1,4 +1,4 @@
-# MATLAB Logbook
+	# MATLAB Logbook
 
 ## Personal Details
 - **Name:** William Fayers
@@ -128,7 +128,97 @@ Today, I worked on several MATLAB exercises:
 - *Hopefully I'll get used to multiplying by explicitly saying * too! It's pretty tricky to remember, especially with things like $2\pi$ being written as `2*pi`.*
 
 ---
-## Week 3 (xx/xx/2023 - xx/xx/2023)
+## Week 3 (09/10/2023 - 15/10/2023)
+
+### Summary
+- *Plotted sin(x), cos(x), and various quadratic functions, refining with legends and specific styles.*
+- *Worked with vector indexing, extracting and calculating using elements.*
+- *Tackled mathematical series and fractional sums using vector operations.*
+- *Manipulated and merged strings, making specific modifications.*
+- *Evaluated a range of Boolean expressions and made string comparisons.*
+
+### Exercises
+#### 3.1 Plotting
+[[Plotting Code Output (MATLAB)]]
+1. **Plotting sin(x) and cos(x)**
+    - Create a script that plots the function $y = \sin(x)$ for $x \in [-2\pi, 2\pi]$ using an interval in $x$ of $\frac{\pi}{50}$.
+    - On the same figure plot $y = \cos(x)$ with a dashed, red line.
+    - The x-axis should be in the range $-2\pi$ to $2\pi$.
+    - Include a legend.
+    - Save the [resulting plots](Q3.1.1.png) as `.png` files with the name as the exercise number.
+
+2. **Plotting Quadratic Curves**
+    - Plot the four curves $y = x^2 + c$ for $c = 0, 2, 4, 6$, with $x \in [-5, 5]$ (use at least 100 points).
+    - Hint: get help on the command `hold`.
+
+3. **Custom Plot of $y(x) = e^{-x^2}$**
+    - Create a plot for $x$ in the range -0.5 to 1.5 with the following features:
+        - The curve should be a black broken line.
+        - Label the y-axis as 'This is the y axis'.
+        - x-values range: -0.5 to 1.5.
+        - y-values range: 0 to 1.
+        - Title: 'Plot of the function $y(x)$. Author: [Your name]'
+#### 3.2 Vector indexing – one element
+[[Vector Indexing - One Element Code Output (MATLAB)]]
+1. **Vector Creation and Indexing**
+    - (a) Create a vector of 5 elements ranging from 2 to 4 (equally spaced), and store in variable `v`.
+    - (b) Store the first element in `x`.
+    - (c) Store the last element in `y`.
+    - (d) Store the third element in `z`.
+    - (e) Calculate $x + y + z$. Verify your answer by hand.
+#### 3.3 Vector operations
+[[Vector Operations Code Output (MATLAB)]]
+1. **Mathematical Series**
+    - (a) Calculate $\sum_{k=1}^{50} k$
+    - (b) Calculate $\sum_{k=1}^{20} k^2$
+
+2. **Vector-based Sums**
+    - (a) Find the sum: $\frac{3}{1} + \frac{5}{2} + \frac{7}{3} + \frac{9}{4}$
+    - (b) Calculate: $\frac{2}{1} + \frac{4}{2} + \frac{8}{3} + \frac{16}{4} + \frac{32}{5} + \frac{64}{6} + \frac{128}{7} + \frac{256}{8}$
+
+3. **Vector and Scalar Variables**
+    - (a) Set a scalar variable `maxx` to the maximum of the vector `x`.
+    - (b) Set a vector variable `cosx` to the $\cos(x)$ for all values of `x`.
+    - (c) Set a scalar variable `meanx` to the average of `x`.
+#### 3.4 Strings
+[[String Code Output (MATLAB)]]
+1. **String Manipulations**
+    - (a) Create a string ‘this is a string’ and store in variable `s`.
+    - (b) Create a string named `s1` with contents ‘this is ‘.
+    - (c) Create a string named `s2` with contents ‘a string’.
+    - (d) Combine the two strings in a new variable `stot`.
+    - (e) Change the first element of `stot` to 'T'.
+    - (f) Add an exclamation mark to the end of `stot`.
+#### 3.5 Boolean algebra
+[[Boolean Algebra Code Output (MATLAB)]]
+1. **Boolean Comparisons**
+    - Determine the following:
+        - (a) $1 > 0$
+        - (b) $3 \geq 4$
+        - (c) $(3 > 4)$ or $(3 < 4)$
+        - (d) $8 \neq 9$
+        - (e) $3 = 3 + 1$
+        - (f) not false
+        - (g) true and (true or false)
+
+2. **Variable Comparisons**
+    - Set a variable `n` equal to $\pi$.
+    - Set `b1` equal to $(n > 3)$.
+    - Set variable `b2` equal to 'not `b1`'. What is the content of variable `b2`?
+
+3. **String Comparisons**
+    - Create a string named `s` with contents 'hi'.
+    - Determine if it is equal to the following using `strcmp`:
+        - (a) 'Hii'
+        - (b) 'hi'
+        - (c) 'Hi'
+        - (d) 'hi '
+
+### Reflection
+- *This session was again very simple, although I did notice I needed a few minutes to relearn the commands from the last few weeks - this week I think I'll do some independent work from a library book to keep me from forgetting everything.*
+
+---
+## Week 4 (xx/xx/2023 - xx/xx/2023)
 
 ### Summary
 - *Enter your summary here...*

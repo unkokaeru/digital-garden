@@ -28,5 +28,8 @@ MTH1006 Computer Algebra and Technical Computing
 [[slides-session1.pdf]]
 [[exercises-session1.pdf]]
 ### Week 2
-![[slides-session2.pdf]]
-![[exercises-session2.pdf]]
+[[slides-session2.pdf]]
+[[exercises-session2.pdf]]
+### Week 3
+![[slides-session3.pdf]]
+![[exercises-session3.pdf]]

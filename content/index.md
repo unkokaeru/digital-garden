@@ -38,14 +38,13 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 ## 📜 Quest Log
 
  - [ ] Correct the [[Euclidean algorithm]] notes (the four arithmetical lemmas and leading those to prove [[Bézout's Lemma]])
- - [ ] Assignments Work
-	 - [ ] [[Homework Optics 1]]
-	 - [ ] [[Homework Optics 2]]
-	 - [ ] [[Homework Optics 3]]
- - [ ] Household chores
-	 - [ ] Clean everything (incl. vacuum, wipes, etc.)
-	 - [ ] Buy a boo basket for my partner
-	 - [ ] Buy light soy sauce
+ - [ ] Catch up with [[Interference and diffraction]]!!!
+ - [ ] Practice my [[MTH1001 Algebra]] - I think I'm doing something subtly wrong with the extended Euclidean algorithm
+ - [ ] [[Homework Optics 1]]
+ - [ ] [[Homework Optics 2]]
+ - [ ] [[Homework Optics 3]]
+ - [ ] Boo basket!!
+ - [ ] Add [[Music Management]] into the Timeworn Study
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 

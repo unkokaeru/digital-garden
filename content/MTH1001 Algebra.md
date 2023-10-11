@@ -17,8 +17,9 @@ Read **[[A Concrete Introduction to Higher Algebra]]** (for the syllabus)
 3. Final Exams (60%)
 ## Outline Syllabus
  - [ ] [Division with remainder](Division%20with%20remainder%20in%20the%20integers) in the [[integers]], including the [[Euclidean algorithm]], [[Bézout's Lemma]], [[divisibility]] and [factorisations](Prime%20Factorisation).
+ - [ ] [[Arithmetic and Geometric Progressions]].
  - [ ] [[Writing decimal numbers in a different base, and back]]. [[Periodic numbers]].
- - [ ] Division with remainder for polynomials, including the Euclidean algorithm, and Bézout's lemma.
+ - [ ] [[Division with remainder for polynomials]], including the [[Euclidean algorithm]], and [[Bézout's lemma]].
  - [ ] Irreducible polynomials.
  - [ ] Polynomial roots and factorisation over the complex numbers (Fundamental Theorem of Algebra), over the reals (conjugate roots), and over the rational numbers (Rational Root Test).
  - [ ] The coefficients of a polynomial as symmetric functions of the roots.
@@ -53,9 +54,9 @@ ___
 [[Answers to Algebra Practical 2]]
 ___
 ### Week 3
-![[Algebra_slides_week_03_handout.pdf]]
-![[Algebra_notes_week_03.pdf]]
-![[Practical_3.pdf]]
+[[Algebra_slides_week_03_handout.pdf]]
+[[Algebra_notes_week_03.pdf]]
+[[Practical_3.pdf]]
 
 [[Answers to Algebra Practical 3]]
 [[Algebra Coursework 1]]

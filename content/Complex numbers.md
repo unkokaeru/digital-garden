@@ -149,11 +149,58 @@ z\times \bar{z}=(a+bi)(a-bi)=a^2+b^2=|z|^2\text{ by Pythagoras and the Differenc
 $$
 
 *Note that this is sometimes denoted as $z^\star=a-ib$, especially in physics.*
+## Complex Numbers and Their Connection to Trigonometric Functions
 
-## Applications
+Complex numbers, which have both a real and an imaginary component, can be expressed in terms of trigonometric functions. This representation is particularly useful when dealing with problems in physics and engineering where phase angles are involved.
 
-Complex numbers have applications in various fields of science and engineering, especially in electrical engineering, fluid dynamics, and quantum mechanics.
+- Euler's formula, named after the 18th-century Swiss mathematician Leonhard Euler, provides a profound connection between complex numbers and trigonometry. It states:
+  - $e^{i\theta} = \cos(\theta) + i\sin(\theta)$
 
----
+Using Euler's formula, the trigonometric functions sine and cosine can be defined in terms of complex exponentials:
+  - $\cos(\theta) = \frac{e^{i\theta} + e^{-i\theta}}{2}$
+  - $\sin(\theta) = \frac{e^{i\theta} - e^{-i\theta}}{2i}$
 
-This note provides a comprehensive overview of complex numbers, their properties, and their applications. Complex numbers play a crucial role in advanced mathematics and its applications in various scientific fields.
+Historically, Euler's formula was groundbreaking as it provided a bridge between the seemingly unrelated worlds of exponentials and trigonometry. This formula not only simplified many mathematical operations involving complex numbers but also paved the way for advancements in fields like electrical engineering and quantum mechanics.
+
+## De Moivre's Theorem & Derivation of Double Angle Formulas
+
+Named after Abraham de Moivre, a French mathematician of the 18th century, De Moivre's theorem is a powerful tool in the world of complex numbers. It provides a method to raise complex numbers to integer powers.
+
+- Consider the expression $(\cos\theta + i\sin\theta)^2$. Using De Moivre's theorem, this can be simplified to:
+  - $\cos2\theta + i\sin2\theta$
+
+To understand this better, we can equate the real and imaginary parts after expanding the original expression:
+  - The real part, $\cos2\theta$,  is equal to $\cos^2\theta - \sin^2\theta$
+  - The imaginary part, $\sin2\theta$, is $2\sin\theta\cos\theta$
+  - These are both respectively double angle formulae
+
+De Moivre's theorem was instrumental in the development of complex number theory and has applications in various fields, from physics to engineering.
+
+The theorem is generalised as the following...
+$$
+(\cos\theta+i\sin\theta)^n=\cos n\theta+i\sin n\theta
+$$
+
+## The Beauty of Argument and Modulus in Complex Numbers
+
+In the complex plane, every number has a magnitude (modulus) and a direction (argument). The Argand diagram, named after Jean-Robert Argand, a French amateur mathematician of the 19th century, is a graphical representation of complex numbers where the x-axis represents the real part and the y-axis represents the imaginary part.
+
+- The argument of a complex number is the angle it makes with the positive real axis. For instance, the argument in the Argand diagram for a certain complex number might be $\tan^{-1}\left(\frac{1}{1}\right) = \frac{\pi}{4} = \frac{5\pi}{4}$.
+
+## Multiplication and Division in the Complex Realm
+
+Complex numbers might seem intimidating at first, but their operations are elegantly simple, especially when expressed in exponential form; they can also assist with rotating complex numbers (as we add powers when multiplying two exponentials, we would add arguments - increasing or decreasing the angle of the complex number).
+
+- Multiplying complex numbers in exponential form is more straightforward and intuitive than in their standard form. It involves multiplying their magnitudes and adding their arguments.
+  - **Example**: If $z_1 = r_1e^{i\theta_1}$ and $z_2 = r_2e^{i\theta_2}$, then $z_1 \times z_2 = r_1r_2e^{i(\theta_1+\theta_2)}$
+
+- For division, the process is just as elegant. For instance, to divide two complex numbers $z_1$ and $z_2$, represented in exponential form as $r_1e^{i\theta_1}$ and $r_2e^{i\theta_2}$ respectively, the result is:
+  - $\frac{z_1}{z_2} = \frac{r_1e^{i\theta_1}}{r_2e^{i\theta_2}}$
+
+## Roots of Complex Numbers: A Glimpse into Advanced Mathematics
+
+Finding the roots of complex numbers is a topic that delves deep into the heart of mathematics. The nth root of a complex number is essentially the number which, when raised to the power of n, gives the original number.
+
+- For a complex number $z$ and its nth root $w$, the general formula is:
+  - $z^n = w$
+  - The argument of the nth root is given by $\frac{\text{arg}(w) + 2k\pi}{n}$ for $k = 0, 1, \ldots, n-1$

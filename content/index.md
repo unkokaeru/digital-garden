@@ -24,6 +24,8 @@ From the yellowed pages of a [[Cooking|stained cookbook]], filled with savoured 
 
 Venture into the study, where a [[Academic Notes|worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[Reading Log|ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
 
+The harmonious rhythm of the study doesn't end there. Lying atop the polished oak table, the [[Music Management|gilded music box]] tinkles with melodies old and new, a meticulous archive of my musical journeys and orchestrations, managed with great care.
+
 Behind a well-worn drawer, you'll find the [[University Finances|leather-bound chequebook]], barely touched, a record of my university finances. The [[Philosophy and Psychology|antique chest, brass-clad and filled with generations of family heirlooms]], houses a selection of my favourite philosophies and psychologies. 
 
 In the cosy corner of the study, a [[Vinyls|vintage record player, spinning melodious tales]], houses my cherished vinyl collection. Adjacent to it, you'll find the [[Games|well-loved game cabinet]], brimming with tales of friendly competition and shared amusement.
@@ -37,14 +39,32 @@ Resting quietly in the corner of the study, you'll find the [[Sleep|old journal 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 📜 Quest Log
 
- - [ ] Correct the [[Euclidean algorithm]] notes (the four arithmetical lemmas and leading those to prove [[Bézout's Lemma]])
- - [ ] Catch up with [[Interference and diffraction]]!!!
- - [ ] Practice my [[MTH1001 Algebra]] - I think I'm doing something subtly wrong with the extended Euclidean algorithm
- - [ ] [[Homework Optics 1]]
- - [ ] [[Homework Optics 2]]
- - [ ] [[Homework Optics 3]]
  - [ ] Boo basket!!
- - [ ] Add [[Music Management]] into the Timeworn Study
+ - [ ] ODEON!!
+ - [ ] Typeracer??
+ - [ ] University Work
+	 - [ ] Calculus: [[MTH1002 Calculus]]
+		 - [ ] [[Answers to Calculus Practical 3]]
+		 - [ ] Do some extra reading - combining new knowledge into existing notes
+		 - [ ] Do some extra practice
+	 - [ ] Algebra: [[MTH1001 Algebra]]
+		 - [ ] [[Answers to Algebra Practical 3]]
+		 - [ ] Do some extra reading - combining new knowledge into existing notes (this includes reading the lecture notes and their "optional" parts)
+		 - [ ] Do some extra practice
+	 - [ ] Optics: [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
+		 - [ ] [[Answers to Optics Practical 2]]
+		 - [ ] [[Homework Optics 1]]
+		 - [ ] [[Homework Optics 2]]
+		 - [ ] [[Homework Optics 3]]
+		 - [ ] Practice [[Interference and diffraction]]!!
+		 - [ ] Do some extra reading - combining new knowledge into existing notes
+		 - [ ] Do some extra practice
+	 - [ ] Computing: [[MTH1006 Computer Algebra and Technical Computing]]
+		 - [ ] Do some extra MATLAB practice (update logbook!)
+	 - [ ] Professional Skills: [[MTH1007 Professional Skills and Group Study]]
+		 - [ ] Complete Latex exercises
+		 - [ ] Create Latex flashcards
+		 - [ ] Python?
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 

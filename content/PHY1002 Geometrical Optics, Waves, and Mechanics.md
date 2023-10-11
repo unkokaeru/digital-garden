@@ -106,8 +106,8 @@ ___
 [[Optics Coursework 1]]
 ___
 ### Week 3
-![[Wk3_optics.pdf]]
-![[Geometrical Optics W3.pdf]]
+[[Wk3_optics.pdf]]
+[[Geometrical Optics W3.pdf]]
 
 [[Homework Optics 3]]
 [[Answers to Optics Practical 2]]

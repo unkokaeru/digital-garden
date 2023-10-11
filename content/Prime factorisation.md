@@ -5,4 +5,5 @@ For $D(24)$ the Hasse diagram is shown below - numbers below others in the tree 
 This is a simple example, but $D(120)$ is much more complex, shown below in three dimensions (the third being projected into 2D). These factors are thus $2^2\times5\times3$.
 ![[3d Hasse Diagram.excalidraw]]
 
-An even more difficult example would be $D(300)$. *Do this later*
+### Unique Factorisations
+-->

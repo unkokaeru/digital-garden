@@ -11,7 +11,7 @@ Read **Calculus by J. Stewart** (for the syllabus), **Calculus by M. Spivak** (f
 ## Outline Syllabus
  - [x] [[Functions]]
  - [ ] [[Complex numbers]]
- - [ ] Limits and continuity
+ - [ ] [[Limits and Continuity]]
  - [ ] Differentiation
  - [ ] Curve sketching
  - [ ] Series

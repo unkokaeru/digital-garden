@@ -42,22 +42,24 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
  - [ ] Boo basket!!
  - [ ] ODEON!!
  - [ ] Typeracer??
+ - [ ] [[Music Management]] - what to do now? Check through messages, make a to-do list.
  - [ ] University Work
 	 - [ ] Calculus: [[MTH1002 Calculus]]
 		 - [ ] [[Answers to Calculus Practical 3]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
 	 - [ ] Algebra: [[MTH1001 Algebra]]
-		 - [ ] [[Answers to Algebra Practical 3]]
+		 - [ ] [[Answers to Algebra Practical 3]] - check them with the [answers](Practical_3_with_solutions.pdf), too.
 		 - [ ] Do some extra reading - combining new knowledge into existing notes (this includes reading the lecture notes and their "optional" parts)
 		 - [ ] Do some extra practice
 	 - [ ] Optics: [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
-		 - [ ] [[Answers to Optics Practical 2]]
+		 - [x] [[Answers to Optics Practical 3]]
 		 - [ ] [[Homework Optics 1]]
 		 - [ ] [[Homework Optics 2]]
 		 - [ ] [[Homework Optics 3]]
 		 - [ ] Practice [[Interference and diffraction]]!!
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
+		 - [ ] *Fresnel equations!*
 		 - [ ] Do some extra practice
 	 - [ ] Computing: [[MTH1006 Computer Algebra and Technical Computing]]
 		 - [ ] Do some extra MATLAB practice (update logbook!)

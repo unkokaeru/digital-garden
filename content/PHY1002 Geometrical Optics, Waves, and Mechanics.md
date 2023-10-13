@@ -108,7 +108,8 @@ ___
 ### Week 3
 [[Wk3_optics.pdf]]
 [[Geometrical Optics W3.pdf]]
+[[Optics Problems Week3.pdf]]
 
 [[Homework Optics 3]]
-[[Answers to Optics Practical 2]]
+[[Answers to Optics Practical 3]]
 [[Rev_problems.pdf]]

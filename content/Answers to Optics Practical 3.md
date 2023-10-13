@@ -33,6 +33,9 @@ I_1=\left(\frac{1-1.5}{1+1.5}\right)^2\cdot I_0=0.04\cdot I_0
 $$
 We can then continue this equation to find the following intensities whilst the light travels through the slab of glass:
 $$
-I_2=\left(\frac{1.5-1}{1.5+1}\right)^2\cdot(0.04\cdot I_0)=0.0016\cdot I_0
+I_2=\left(\frac{1.5-1}{1.5+1}\right)^2\cdot(0.96\cdot I_0)=0.0384\cdot I_0
 $$
-*Note: I'm not sure if my interpretation of the second half of the question is correct - that first we calculate the interface into the glass in terms of $I_0$, then out of the glass in terms of $I_0$. This is notably just the square.*
+Thus, the remaining intensity out of the slab of glass would be $0.96-0.0384$, therefore:
+$$
+I_{\text{final}}=0.9216\cdot I_{\text{initial}}
+$$

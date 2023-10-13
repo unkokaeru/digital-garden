@@ -42,6 +42,7 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
  - [ ] Boo basket!!
  - [ ] ODEON!!
  - [ ] Typeracer??
+ - [ ] I want to do random research, too - maybe add some of that to this list? Especially considering my pedagogy research.
  - [ ] [[Music Management]] - what to do now? Check through messages, make a to-do list.
  - [ ] University Work
 	 - [ ] Calculus: [[MTH1002 Calculus]]

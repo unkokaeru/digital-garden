@@ -85,5 +85,15 @@ $$
 \omega^3=\omega^2\cdot\omega^1=e^{i\frac{4\pi}{3}}\cdot e^{i\frac{2\pi}{3}}=e^{i2\pi}=e^{i0}=e^0=1\space\blacksquare
 $$
 $$
-1+\omega+\omega^2=1+e^{i\frac{4\pi}{3}}+e^{i\frac{2\pi}{3}}=
+1+\omega+\omega^2=e^{i0}+e^{i\frac{4\pi}{3}}+e^{i\frac{2\pi}{3}}
+$$
+Converting each complex number into the form $a + bi$ gives the following:
+$$
+e^{i0}:\tan0=\frac{a_1}{b_1},1^2=a_1^2+b_1^2\therefore a_1=0,b_1=\pm1
+$$
+$$
+e^{i\frac{4\pi}{3}}:\tan\frac{4\pi}{3}=\frac{a_2}{b_2},1^2=a_2^2+b_2^2\therefore a_1=\pm\frac{\sqrt{3}}{2},b_2=\pm\frac{1}{2}
+$$
+$$
+e^{i\frac{2\pi}{3}}:\tan\frac{2\pi}{3}=\frac{a_3}{b_3},1^2=a_3^2+b_3^2\therefore a_3=
 $$

@@ -1,0 +1,151 @@
+\documentclass{article}
+
+\begin{document}
+
+\title{Mathematical formulae in LATEX}
+
+
+\date{}
+
+\maketitle
+
+
+%Mathematical formalae in LATEX are between $ signs.
+%(Some manuals also say between \( and \), which
+%produces the same result, this is actually better as
+%parenthesis match, but $..$ is simpler.)
+
+In accordance to maths
+writing standards, letters become italicized, operations +, =, etc. have proper spaces around them, Greek letters can be used, many special symbols, etc. Simplest: $x+y=z-\alpha$.
+
+\ %here \ just to add extra vertical space, empty line
+
+Many symbols can be used in maths formulae directly
+from the keyboard: %here \ just creates more space
+
+$+$  $-$  $=$  $!$  $/$  $($  $)$  $[$  $]$  $<$  $>$  $|$  $'$  $:$
+
+but curly braces are produced by $\{ .. \}$
+
+\
+
+Non-strict inequalities: $\leq$  and $\geq$. E.g.: $2x+1\leq 3$.
+
+\
+
+\textbf{Most common constructs:}
+
+\
+
+\textbf{Power exponents (=superscripts):} for example,  $x^{2}$;
+
+\
+
+more: $(x-y)^{a^{2}-bz}$.
+
+\
+
+\textbf{Indices (=subscripts):}  
+$x_{i}$ or $a_{i,j}$, or $b_{i_{1}}$.
+
+\
+
+Subscripts and superscripts can be combined: $a_{ij}^{2}=a^2_{ij}$.
+
+\
+
+\textbf{Fractions:} 
+$\frac{1}{2}$ or $\frac{x-2}{(x^{2}-b)(a+b)}$.
+
+\
+
+
+\textbf{Roots:} 
+  $\sqrt{x-a}$, or $\sqrt[3]{-1}$,  or even $\sqrt[4]{\frac{a+b}{c+\sqrt{d}}}$.
+
+\
+
+\textbf{Integrals:} 
+$\int f(x)dx$ or $\int_{1}^{y}(x^{2}+1)dx$.
+%note limits of integration given as sub- and superscripts 
+
+\
+
+\textbf{Displayed formulae:} A big formula looks better in so-called displaystyle: between double-dollars: for example, the formulae above become
+$$
+\frac{x-2}{(x^2-b)(a+b)}
+\qquad                       %\qquad adds space
+\sqrt[4]{\frac{a+b}{c+\sqrt{d}}}\qquad \int_{1}^{y}(x^{2}+1)dx.
+$$
+
+If you want displaystyle but not displayed: $\displaystyle{\frac{x-2}{(x^2-b)(a+b)}}$.
+
+\
+
+\textbf{Spaces in formulae:} LATEX does not recognize spaces in formulae. If needed, one can add %\quad# 
+or %qquad 
+(as in the last displayed), 
+or smaller spaces %\, 
+or %\;.
+
+\
+
+\textbf{Brackets:} Without them, formulae can become ambiguous.
+
+We already have the ( ) [ ] symbols `from keyboard'. So why the need for more brackets?
+Example:
+
+`normal'                     brackets may be ugly:
+$$(\frac{x^2}{y^3});$$	
+better use  resizable
+                    brackets for large expressions:
+$$\left(\frac{x^2}{y^3}\right).$$	
+
+The \verb#\left...# and \verb#\right...# commands provide  automatic sizing of brackets. You must enclose the expression that you want in brackets with these commands. The dots after the command should be replaced with one of the characters depending on the style of bracket you want: (..) or [..].
+
+
+NOTE: remember, curly braces are only by \{ or \}! Example: $\{x$ such that $x^2>4\}$.
+
+
+\
+
+\textbf{Greek letters:} $\alpha$,  $\beta$, $\gamma$, $\delta$, ... $\Omega$, $\omega$ (see manuals for more).
+
+\
+
+
+\textbf{Plain text within formula:} The easiest is to use \mbox{..} -- remember to add spaces if needed. Example: $\{x\mbox{ such that } x^2>9\}$.
+
+\
+
+\textbf{Unions and intersections:} $A\cup B$, $A\cap B$.
+
+In displaystyle better use big ones:
+$$\bigcup_{i=1}^{n} B_i,\qquad  \bigcap _{j=1}^{m}D_j.$$
+
+\
+
+\textbf{Product, sums:} Summation sign $\sum $. Product sign $\prod$. Can have indices:
+$$
+\sum_{i=1}^{n}a_i=a_1+a_2+\cdots +a_n.
+$$
+
+Product:
+$$
+\prod_{i=1}^{m}b_i=b_1\cdot b_2\cdots b_m.
+$$
+
+Note  nice dots.  %given by \cdots
+Another version of dots % \ldots,
+gives like
+$a_1,a_2,\ldots ,a_n$.
+
+\
+
+\textbf{Infinity symbol:} $\infty$. E.g.
+$$
+\sum_{i=1}^{\infty }b_i=b_1+ b_2+\cdots
+$$
+
+
+\end{document}  %End of document.

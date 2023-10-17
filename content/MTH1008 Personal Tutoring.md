@@ -142,3 +142,6 @@ $$
 [[Y3_Revision.pdf]]
 ![[Week_3_Tutorial.pdf]]
 ![[Tutorial_week_3.pdf]]
+# Tutorial Week 4: Algebra and Complex Numbers
+![[Tutorial_week_4.pdf]]
+![[Week_4_Tutorial.pdf]]

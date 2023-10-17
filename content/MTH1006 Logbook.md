@@ -221,13 +221,67 @@ Today, I worked on several MATLAB exercises:
 ## Week 4 (xx/xx/2023 - xx/xx/2023)
 
 ### Summary
-- *Enter your summary here...*
+- Today, I worked on three main tasks in MATLAB:
+	1. **Output Commands**:
+	   - Used `disp` command to display strings.
+	   - Created scripts to output numerical values as strings.
+	2. **Conditional Branching**:
+	   - Practiced with `if` statements to evaluate and display conditions.
+	   - Developed a script to compare temperatures between two days.
+	3. **Functions**:
+	   - Completed some modules in Matlab Academy under Matlab Fundamentals.
+	   - Created and modified a function `area_circle` to calculate the area of a circle, and adjusted it to handle different input types and scenarios.
 
 ### Exercises
-- *Enter your exercises here...*
+#### 4.1 Output
+[[Output Code Output (MATLAB)]]
+1. Output the string `This string has been written to the screen` using the `disp` command.
+2. Write a script that sets the variable $x$ to $\sqrt{3}$ and then outputs a string from $x$. Hint: use `num2str`.
+3. Write a script that sets a number to the variable $T$ and subsequently outputs the text `The temperature is ...` where the dots have to be replaced by the actual number contained in $T$. For example, if $T = 37$, the output should be `The temperature is 37`.
+#### 4.2 Conditional Branching
+[[Conditional Branching Code Output (MATLAB)]]
+1. Write a script that sets $x$ to a value. Then use the `if` statement to test if the number is larger than $0$. If it is larger than zero, then write to the screen that `This number is larger than zero`. Run the script with a positive and with a negative number.
+   
+2. 
+    (a) Write a script that sets the variable `Saturday` to $15$, and the variable `Sunday` to $17$. 
+    (b) Add at the end an `if` statement that displays the string `Saturday is colder` if `Saturday < Sunday`.
+    (c) Add another `if` statement, which displays the string `Sunday is colder`, if `Sunday < Saturday`.
+    (d) Add another `if` statement, which displays the string `Both days have the same temperature`, if the two variables are equal.
+    (e) Change the first line of the script so that `Saturday` equals $18$ and make sure the script runs as expected.
+    (f) Do the same for `Saturday` equal to $17$.
 
+3. Create a script named `testnumber.m`:
+    (a) At the start of the script, set a variable $z$ to $2 + 3i$.
+    (b) Add an `if` statement to test if the imaginary part of $z$ is unequal to $0$ (this implies it is a complex number). If this is the case, then multiply $z$ by its complex conjugate (see help of `conj`), take the square root of this and store the result in $l$. Also set a string named `s` to `this is a complex number`.
+    (c) Add another `if` statement, such that if the number $z$ is not complex (imaginary part is $0$), then just square the number and take the square root of it, and store the result in $l$. In this case, also set the string named `s` to `this is a real number`.
+    (d) How would you test if the number is a integer (whole) number? Implement this as well in the script, including an appropriate string.
+    (e) Test the script by changing the value of $z$ in the beginning of the script to (i) a real number and (ii) an integer.
+#### 4.3 Functions
+[[Functions Code Output (MATLAB)]]
+1. Go to [Matlab Academy](https://matlabacademy.mathworks.com), login using the credentials you created during week $1$, and open the course Matlab Fundamentals. Complete:
+    (a) ~~Increasing automation with functions: Creating and Calling Functions (15.1)~~
+    (b) ~~Increasing automation with functions: Function Files (15.2)~~
+    (c) ~~Increasing automation with functions: Workspaces (15.3)~~
+
+2. In this exercise a user-defined function will be created:
+    (a) Start by creating a new file, named `area_circle`, using `edit area_circle` in the command line.
+    (b) Add the following code into this file: 
+        ```
+        function A=area_circle(r) 
+	        % Calculates the area of a circle given the radius 
+	        A=pi*r^2; 
+        end
+        ```
+        Notice that $r$ is the input argument and $A$ is the output argument.
+    (c) Calculate the area of a circle of radius $4$, by calling the function from the command line by typing `>> area_circle(4)`.
+    (d) Call the function for $r = 2$ (instead of $4$).
+    (e) Within the function definition, change the input argument $r$ to $R$, and also change the formula to $A=\pi R^2$. Test if the function still works by calling it from the command line.
+    (f) Change the output argument $A$ to `area` and make a similar change in the formula. Test if the function still works by calling it from the command line.
+    (g) Change the comment in the function and observe this comment by typing `help area_circle` in the command line.
+    (h) Now call the function for a vector `radii=[3,4,5]`. Does the function work? If not, adjust the function, by replacing `^` with `.^` and test it again.
+    (i) Finally, change the function so that a diameter is expected as an input argument. Change the symbol $R$ to $d$ for this, and adjust the formula accordingly.
 ### Reflection
-- *Enter your reflection here...*
+- *Unfortunately I did not get time to do some independent work last week as I planned, and yet again did it display to me how much I should be doing it - it's so hard to remember everything when you only use it once a week!*
 
 ---
 (Continue in the same format for the remaining weeks)

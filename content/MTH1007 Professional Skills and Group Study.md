@@ -97,6 +97,12 @@ MTH1007 Professional Skills and Group Study
 ### Week 4
 [[Latex Files (MTH1007 Week 3 and 4)]]
 
-![[Latex-instructions(1).pdf]]
+[[Latex-instructions(1).pdf]]
 [[Professional Skills and Group Study Coursework 1]]
-![[assessment.pdf]]
+[[assessment.pdf]]
+### Week 5
+**[[03-Loopy loops.ipynb]]**
+[[Image-task.png]]
+[[SU.jpg]]
+[[UoL-logo.jpg]]
+[[architecture.jpg]]

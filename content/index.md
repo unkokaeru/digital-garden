@@ -39,14 +39,15 @@ Resting quietly in the corner of the study, you'll find the [[Sleep|old journal 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 📜 Quest Log
 
+ - [ ] Play around with Anki add-ons!
  - [ ] Boo basket!!
  - [ ] I want to do random research, too - maybe add some of that to this list? Especially considering my pedagogy research.
  - [ ] [[Music Management]] - what to do now? Check through [[messages]], make a to-do list.
-	 - [ ] University Work
+ - [ ] University Work
 	 - [ ] Catch up with [[MTH1008 Personal Tutoring]] work
 	 - [ ] Calculus: [[MTH1002 Calculus]]
 		 - [ ] [[Answers to Calculus Practical 3]]
-		 - [ ] Notes on lectures :)
+		 - [x] Notes on lectures :)
 		 - [ ] [[Answers to Calculus Practical 4]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice

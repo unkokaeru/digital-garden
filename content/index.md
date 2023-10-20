@@ -39,42 +39,28 @@ Resting quietly in the corner of the study, you'll find the [[Sleep|old journal 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 📜 Quest Log
 
- - [ ] Play around with Anki add-ons!
  - [ ] Boo basket!!
+ - [ ] Estimate the value of my cards.
  - [ ] I want to do random research, too - maybe add some of that to this list? Especially considering my pedagogy research.
+ - [ ] Collect deliveries!
  - [ ] [[Music Management]] - what to do now? Check through [[messages]], make a to-do list.
  - [ ] University Work
-	 - [ ] Catch up with [[MTH1008 Personal Tutoring]] work
 	 - [ ] Calculus: [[MTH1002 Calculus]]
-		 - [ ] [[Answers to Calculus Practical 3]]
-		 - [x] Notes on lectures :)
-		 - [ ] [[Answers to Calculus Practical 4]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
-		 - [x] Update flashcards!
 	 - [ ] Algebra: [[MTH1001 Algebra]]
-		 - [ ] [[Answers to Algebra Practical 3]] - check them with the [answers](Practical_3_with_solutions.pdf), too.
-		 - [ ] Notes on lectures :)
-		 - [ ] [[Answers to Algebra Practical 4]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes (this includes reading the lecture notes and their "optional" parts)
 		 - [ ] Do some extra practice
-		 - [x] Update flashcards!
 	 - [ ] Optics/Mechanics: [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
-		 - [x] [[Answers to Optics Practical 3]]
-		 - [x] Notes on lectures :)
-		 - [ ] [[Answers to Mechanics Practical 1]]
-		 - [ ] [[Homework Optics 1]]
-		 - [ ] [[Homework Optics 2]]
-		 - [ ] [[Homework Optics 3]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
 	 - [ ] Computing: [[MTH1006 Computer Algebra and Technical Computing]]
-		 - [x] Lecture work!
 		 - [ ] Do some extra MATLAB practice (update logbook!)
 	 - [ ] Professional Skills: [[MTH1007 Professional Skills and Group Study]]
-		 - [x] [[Professional Skills and Group Study Coursework 1]]
-		 - [x] Create Latex flashcards
+		 - [ ] Do next week's work (Python practice!)
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 
 [[Imp Cave (September)]]
+
+[[ChatGPT Prompts]]

@@ -23,7 +23,7 @@ The formula for the critical angle (θc) can be derived from Snell's law.
 3. Therefore, sin(θ2) becomes sin(90) = 1.
 4. Plugging this into Snell's law gives: n1 * sin(θ1) = n2 * 1
 5. Solving for the critical angle (θ1, which we'll now call θc) gives: sin(θc) = n2/n1
-6. Therefore, the formula for the critical angle is: θc = sin^-1(n2/n1)
+6. Therefore, the formula for the critical angle is: $θ_c = sin^{-1}\frac{n_2}{n_1}$
 
 ## Applications of the Critical Angle
 

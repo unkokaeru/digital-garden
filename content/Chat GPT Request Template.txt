@@ -1,4 +1,0 @@
-Create a well formatted, logical, detailed Obsidian note on mirrors and lenses, including at least the following topics:
- - 
-
-Include (where relevant) historical background, equations, latex (including instead of raw symbols, as well as using things like \frac and \mathbb{Z}), examples.

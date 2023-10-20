@@ -12,7 +12,7 @@ Read **Calculus by J. Stewart** (for the syllabus), **Calculus by M. Spivak** (f
  - [x] [[Functions]]
  - [x] [[Complex numbers]]
  - [x] [[Limits and Continuity]]
- - [ ] Differentiation
+ - [ ] [[Differentiation]]
  - [ ] Curve sketching
  - [ ] Series
  - [ ] Integration and the fundamental theorem of calculus

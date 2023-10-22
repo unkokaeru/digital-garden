@@ -101,8 +101,12 @@ MTH1007 Professional Skills and Group Study
 [[Professional Skills and Group Study Coursework 1]]
 [[assessment.pdf]]
 ### Week 5
+**[[01_basic_training.ipynb]]**
+***[[01-Exercises.ipynb]]***
+**[[02_Logic_and_Loops.ipynb]]**
+***[[02-Exercises_1.ipynb]]***
 **[[03-Loopy loops.ipynb]]**
-**[[03-Exercises.ipynb]]**
+***[[03-Exercises.ipynb]]***
 [[Image-task.png]]
 [[SU.jpg]]
 [[UoL-logo.jpg]]

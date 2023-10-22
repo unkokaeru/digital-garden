@@ -40,24 +40,37 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 ## 📜 Quest Log
 
  - [ ] Boo basket!!
- - [ ] Estimate the value of my cards.
+ - [ ] Estimate the value of my trading cards.
+ - [ ] Ancestry?
  - [ ] I want to do random research, too - maybe add some of that to this list? Especially considering my pedagogy research.
  - [ ] Collect deliveries!
  - [ ] [[Music Management]] - what to do now? Check through [[messages]], make a to-do list.
  - [ ] University Work
+	 - [ ] [[MTH1008 Personal Tutoring]]
 	 - [ ] Calculus: [[MTH1002 Calculus]]
+		 - [ ] Download this week's work :)
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
 	 - [ ] Algebra: [[MTH1001 Algebra]]
+		 - [ ] Write notes based on the topics
+		 - [ ] Update notes during the lectures
+		 - [ ] Write flashcards based on the notes
+		 - [ ] Complete [[Answers to Algebra Practical 5]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes (this includes reading the lecture notes and their "optional" parts)
 		 - [ ] Do some extra practice
-	 - [ ] Optics/Mechanics: [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
+	 - [ ] Mechanics: [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
+		 - [ ] Write notes based on the topics
+		 - [ ] Update notes during the lectures
+		 - [ ] Write flashcards based on the notes
+		 - [ ] Complete [[Answers to Mechanics Practical 2]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
 	 - [ ] Computing: [[MTH1006 Computer Algebra and Technical Computing]]
+		 - [ ] Download this week's work :)
 		 - [ ] Do some extra MATLAB practice (update logbook!)
 	 - [ ] Professional Skills: [[MTH1007 Professional Skills and Group Study]]
-		 - [ ] Do next week's work (Python practice!)
+		 - [ ] Complete the lecture work
+		 - [ ] Write flashcards based on the notes
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 

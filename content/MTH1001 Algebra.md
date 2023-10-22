@@ -155,8 +155,15 @@ ___
 [[Algebra Coursework 1]]
 ___
 ### Week 4
-![[Algebra_slides_week_04_handout.pdf]]
-![[Algebra_notes_week_04.pdf]]
-![[Practical_4.pdf]]
+[[Algebra_slides_week_04_handout.pdf]]
+[[Algebra_notes_week_04.pdf]]
+[[Practical_4.pdf]]
 
 [[Answers to Algebra Practical 4]]
+___
+### Week 5
+![[Algebra_slides_week_05_handout.pdf]]
+![[Algebra_notes_week_05.pdf]]
+[[Practical_5.pdf]]
+
+[[Answers to Algebra Practical 5]]

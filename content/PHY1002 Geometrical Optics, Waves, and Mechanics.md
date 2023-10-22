@@ -235,7 +235,13 @@ ___
 [[Rev_problems.pdf]]
 ___
 ### Week 4
-![[Week4_Lect.pdf]]
-![[Practical1.pdf]]
+[[Week4_Lect.pdf]]
+[[Practical1.pdf]]
 
 [[Answers to Mechanics Practical 1]]
+___
+### Week 5
+![[Week5_Lect.pdf]]
+![[Practical2.pdf]]
+
+[[Answers to Mechanics Practical 2]]

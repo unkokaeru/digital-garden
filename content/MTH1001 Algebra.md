@@ -21,16 +21,16 @@ Read **[[A Concrete Introduction to Higher Algebra]]** (for the syllabus)
  - [x] [[Writing decimal numbers in a different base, and back]]. [[Periodic numbers]].
  - [x] [[Division with remainder for polynomials]], including the [[Euclidean algorithm]], and [[Bézout's lemma]].
  - [x] [[Remainder, Factor Theorems, Ruffini’s Rule, and Polynomial Algebra]]
- - [ ] Irreducible polynomials.
- - [ ] Polynomial roots and factorisation over the complex numbers (Fundamental Theorem of Algebra), over the reals (conjugate roots), and over the rational numbers (Rational Root Test).
+ - [x] [[Irreducible polynomials]].
+ - [x] [[Polynomial roots and factorisation]] over the complex numbers ([[Fundamental Theorem of Algebra]]), over the reals (conjugate roots), and over the rational numbers (Rational Root Test).
  - [ ] The coefficients of a polynomial as symmetric functions of the roots.
  - [ ] Polynomial equations and systems of equations which enjoy special symmetries: self reciprocal polynomials, symmetric systems.
  - [ ] Solving congruences in the integers, the Chinese remainder theorem, congruences with polynomials.
  - [ ] The integers modulo n and some applications.
 ## Learning Outcomes
-- [ ] **LO1** Find roots and factorise polynomials
-- [ ] **LO2** Perform the Euclidean algorithm on integers and on polynomials
-- [ ] **LO3** Apply Euclidean algorithm to questions about integers and polynomials
+- [x] **LO1** Find roots and factorise polynomials
+- [x] **LO2** Perform the Euclidean algorithm on integers and on polynomials
+- [x] **LO3** Apply Euclidean algorithm to questions about integers and polynomials
 - [ ] **LO4** Solve congruences and systems of congruences.
 ## Flashcards
 *Automatically ported into Anki*
@@ -131,6 +131,33 @@ MTH1001 Algebra
 - STARTI [Basic] Question: Describe the multiplication and addition steps in Ruffini's Rule. Back: Multiply the number you just wrote below the line by $c$. Write the result below the next coefficient in the first row. Then, add the coefficient from the first row and the result you obtained. Write this sum below the line. Continue this process for all coefficients in the first row. <!--ID: 1697624934260--> ENDI
 - STARTI [Basic] Question: How do you interpret the results of Ruffini's Rule? Back: The numbers in the second row represent the coefficients of the quotient polynomial in descending order. The rightmost number in the second row represents the remainder. If the remainder is 0, $P(x)$ is divisible by $x - c$. If not, it's the remainder when dividing $P(x)$ by $x - c$. <!--ID: 1697624934269--> ENDI
 - STARTI [Basic] Question: In the given example, what is the quotient polynomial and remainder when dividing $P(x) = x^3 - 6x^2 + 11x - 6$ by $x - 1$ using Ruffini's Rule? Back: The quotient polynomial is $x^2 - 5x + 6$ and the remainder is 0. <!--ID: 1697624934278--> ENDI
+- STARTI [Basic] Question: What is an irreducible polynomial? Back: An irreducible polynomial is a non-constant polynomial that cannot be expressed as the product of two non-constant polynomials. It's analogous to prime numbers in the integers. <!--ID: 1698051503475--> ENDI
+- STARTI [Basic] Question: How is an irreducible polynomial mathematically defined over a field $F$? Back: A polynomial $p(x)$ over a field $F$ is irreducible over $F$ if it cannot be written as the product of two non-constant polynomials from $F[x]$. <!--ID: 1698051503493--> ENDI
+- STARTI [Basic] Question: What is the status of constant polynomials in terms of reducibility? Back: Constant polynomials are neither reducible nor irreducible by convention. <!--ID: 1698051503505--> ENDI
+- STARTI [Basic] Question: Are polynomials of degree 1 reducible or irreducible? Back: Polynomials of degree 1 are always irreducible, trivially. <!--ID: 1698051503517--> ENDI
+- STARTI [Basic] Question: Is the polynomial $x^2 + 1$ reducible over the real numbers? Back: No, $x^2 + 1$ is irreducible in the real numbers, but it is reducible in the complex numbers as $(x+i)(x-i)$. <!--ID: 1698051503528--> ENDI
+- STARTI [Basic] Question: Why is the concept of irreducibility important? Back: Irreducibility is central in polynomial factorization, algebraic number theory, and various areas of algebra. It provides insights into the structure and properties of polynomials and their roots. <!--ID: 1698051503539--> ENDI
+- STARTI [Basic] Question: How can we determine if a quadratic polynomial is reducible? Back: For a quadratic polynomial $p(x)=ax^2+bx+c$ with integer coefficients, it is reducible if and only if $b^2-4ac$ is a square in $F$. <!--ID: 1698051503550--> ENDI
+- STARTI [Basic] Question: What does the Rational Root Theorem state? Back: If a polynomial $p(x) = a_nx^n + \dots + a_1x + a_0$ with integer coefficients has a rational root $\frac{p}{q}$, then $p$ divides $a_0$ and $q$ divides $a_n$. <!--ID: 1698051503562--> ENDI
+- STARTI [Basic] Question: Does the polynomial $p(x) = x^2 - 2$ have any rational roots? Back: No, $p(x) = x^2 - 2$ doesn't have rational roots. It is irreducible over the rationals but has roots $\sqrt{2}$ and $-\sqrt{2}$ which are irrational. <!--ID: 1698051503575--> ENDI
+- STARTI [Basic] Question: How did we check for the rational roots of $p(x) = x^2 - 2$? Back: We used the discriminant: $b^2-4ac\implies 0-4\cdot1\cdot(-2)\implies8>0$ which showed there are no rational roots. <!--ID: 1698051503586--> ENDI
+- STARTI [Basic] Question: What should one remember when determining if a polynomial is irreducible? Back: Always test for potential roots using tools like the Rational Root Theorem, but remember this is just one step in determining irreducibility. <!--ID: 1698051503598--> ENDI
+- STARTI [Basic] Question: What is the Unique Factorisation Theorem for polynomials? Back: Every non-constant polynomial over a field $F$ is a product of irreducible polynomials, in an essentially unique way (up to permuting factors and multiplying them by non-zero constants). <!--ID: 1698054122915--> ENDI
+- STARTI [Basic] Question: How can the polynomial $2x^2+10x+12$ be factored? Back: It can be factored in multiple ways such as: $2(x+2)(x+3)$, $(2x+4)(x+3)$, $(x+2)(2x+6)$, and $(3x+6)(\frac{2}{3}x+2)$. <!--ID: 1698054122939--> ENDI
+- STARTI [Basic] Question: How many distinct roots can a polynomial of degree $n \ge 0$ have in a field $F$? Back: A polynomial of degree $n \ge 0$ can have at most $n$ distinct roots in a field $F$. <!--ID: 1698054122957--> ENDI
+- STARTI [Basic] Question: Does a polynomial of degree 0 have any roots? Back: No, a polynomial of degree 0 has no roots since $x^0$ is always equal to 1. <!--ID: 1698054122972--> ENDI
+- STARTI [Basic] Question: How can one prove that a polynomial of degree $n \ge 0$ can have at most $n$ distinct roots? Back: Using the Factor Theorem and induction, one can deduce that any polynomial can be expressed in terms of its roots. This method will allow us to find at most $n$ distinct roots for the polynomial. <!--ID: 1698054122989--> ENDI
+- STARTI [Basic] Question: What does the Interpolation Theorem state? Back: For distinct elements $b_1,\ldots, b_n$ of a field $F$ and arbitrary elements $c_1,\ldots,c_n$ of the same field, there exists a unique polynomial $f(x) \in F[x]$ of degree at most $n-1$ that satisfies $f(b_1) = c_1$, $f(b_2) = c_2$, ..., $f(b_n) = c_n$. <!--ID: 1698054123005--> ENDI
+- STARTI [Basic] Question: Who is credited with the Fundamental Theorem of Algebra? Back: Argand, 1806. <!--ID: 1698054123022--> ENDI
+- STARTI [Basic] Question: What does the Fundamental Theorem of Algebra guarantee? Back: Every non-constant polynomial has at least one root in the complex number system. <!--ID: 1698054123037--> ENDI
+- STARTI [Basic] Question: State the Fundamental Theorem of Algebra. Back: For every non-constant polynomial \( p(z) \) with complex coefficients, there exists a complex number \( c \) such that \( p(c) = 0 \). Every polynomial of degree \( n \geq 1 \) has at least one complex root and, considering multiplicity, has exactly \( n \) complex roots. <!--ID: 1698054123053--> ENDI
+- STARTI [Basic] Question: What is the implication about the magnitude of a non-constant polynomial from the proof sketch? Back: There exists some radius \( R \) such that \( |p(z)| \rightarrow \infty \) as \( |z| \rightarrow \infty \), for all \( |z| > R \). <!--ID: 1698054123065--> ENDI
+- STARTI [Basic] Question: What does Rolle's Theorem for Complex Polynomials state in the proof sketch? Back: If \( p(z) \) doesn't have a root in the disc of radius \( R \), then neither does its derivative. This is a contradiction since the derivative should have a root. <!--ID: 1698054123074--> ENDI
+- STARTI [Basic] Question: What is the implication about complex roots for polynomials with real coefficients? Back: Complex Roots Come in Pairs: If a polynomial has real coefficients and one non-real complex root, then its complex conjugate is also a root. <!--ID: 1698054123082--> ENDI
+- STARTI [Basic] Question: What does the degree of a polynomial indicate about its roots? Back: A polynomial of degree \( n \) will have exactly \( n \) roots in the complex numbers, considering multiplicity. <!--ID: 1698054123090--> ENDI
+- STARTI [Basic] Question: What is the relationship between roots and factors of a polynomial? Back: If \( c \) is a root of \( p(z) \), then \( (z - c) \) is a factor of \( p(z) \). Using division, \( p(z) \) can be expressed as \( p(z) = (z-c)q(z) \) where \( q(z) \) is of degree \( n-1 \). <!--ID: 1698054123099--> ENDI
+- STARTI [Basic] Question: How can you show that the polynomial \( p(z) = z^2 + 1 \) has no real roots but two complex roots? Back: By evaluating and realizing that no real value will satisfy this equation. The roots are \( i \) and \( -i \). <!--ID: 1698054123107--> ENDI
+- STARTI [Basic] Question: How do you find all roots, real or complex, of the polynomial \( p(z) = z^3 - 6z^2 + 11z - 6 \)? Back: Factorize or use appropriate root-finding methods. <!--ID: 1698054123116--> ENDI
 ## Weeks Content
 ### Week 1
 [[Algebra_slides_week_01_handout.pdf]]

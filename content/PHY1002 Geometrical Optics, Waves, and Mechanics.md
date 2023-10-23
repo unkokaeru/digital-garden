@@ -19,6 +19,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 4. Final Exams (50%)
 ## Outline Syllabus
 - **[Mechanics](Classical%20Mechanics.md)** (*taught by Theodoros*):
+		- Pre-requisite(s): [Calculus](MTH1002%20Calculus) & [Vectors](MTH1008%20Personal%20Tutoring).
 	- [ ] [[Motion in one, two and three dimensions]].
 	- [ ] Newton's laws.
 	- [ ] Work, kinetic and potential energy.

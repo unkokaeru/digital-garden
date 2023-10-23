@@ -145,3 +145,8 @@ $$
 # Tutorial Week 4: Algebra and Complex Numbers
 ![[Tutorial_week_4.pdf]]
 ![[Week_4_Tutorial.pdf]]
+
+
+# Tutorial Week 5: Arbitrary Bases and Limits
+![[Tutorial_week_5.pdf]]
+![[Tutorial_5.pdf]]

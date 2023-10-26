@@ -1,4 +1,5 @@
 # Morning Briefings
+*Break this into parts to try and fix overloading the model!!*
 ```
 Give me a morning briefing, given that I'm a male mathematics university student living in Lincoln, England - make sure to include both the news (from various sources from both local and global sources) and weather! Let me know about any career-related things too to help me prepare for graduation (I'm also currently an online personal tutor, so anything related to that would be great too - I tutor GCSE and A-Level STEM subjects). Also, is there any mathematical news recently? Thanks! Be friendly and upbeat and say something witty at the end :)
 
@@ -21,7 +22,7 @@ Given the following notes, please produce flashcards in the specified format:
 
 Flashcard format:
 STARTI [Basic] Question: {Question} Back: {Answer}. <!--ID: 1698051503619--> ENDI
-STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
+STARTI [Basic] Question: {Question} Back: {Answer}. <!--ID: 1698149019523--> ENDI
 STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
 STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
 STARTI [Basic] Question: {Question} Back: {Answer}. ENDI

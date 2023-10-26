@@ -12,7 +12,7 @@ Read **Calculus by J. Stewart** (for the syllabus), **Calculus by M. Spivak** (f
  - [x] [[Functions]]
  - [x] [[Complex numbers]]
  - [x] [[Limits and Continuity]]
- - [ ] [[Differentiation]]
+ - [x] [[Differentiation]]
  - [ ] Curve sketching
  - [ ] Series
  - [ ] Integration and the fundamental theorem of calculus
@@ -27,7 +27,7 @@ Read **Calculus by J. Stewart** (for the syllabus), **Calculus by M. Spivak** (f
 ## Flashcards
 *Automatically ported into Anki*
 TARGET DECK
-MTH1002 Calculus
+University::MTH1002 Calculus
 
  - STARTI [Basic] What is the MTH1002 module? Back: Calculus. <!--ID: 1696359377577--> ENDI
  - STARTI [Basic] Question: What is a function? Back: A function is a mathematical rule that transforms an element from one set into an element of another set. Specifically, a function \(f\) from a set \(X\) to a set \(Y\) assigns a unique element \(y \in Y\) to each element \(x \in X\). <!--ID: 1696411385679--> ENDI
@@ -87,6 +87,22 @@ MTH1002 Calculus
 - STARTI [Basic] Question: Give an example using the function \( g(x) = \sin(x) \). Back: Over the interval \([0, \pi]\), \( g(0) = 0 \) and \( g(\pi) = 0 \). But for any \( k \) value between 0 (exclusive) and 1, IVT guarantees a \( c \) in the interval where \( g(c) = k \). <!--ID: 1697621520261--> ENDI
 - STARTI [Basic] Question: How is the IVT useful in root-finding algorithms? Back: The IVT is used to determine that if a continuous function changes sign over an interval, then it has a root in that interval. Algorithms like the bisection method utilize this property to approximate roots. <!--ID: 1697621520272--> ENDI
 - STARTI [Basic] Question: Why is the Intermediate Value Theorem important in analysis and calculus? Back: The IVT is a foundational tool in analysis and calculus that links continuity and the behavior of functions over intervals, ensuring that continuous functions exhibit predictable behaviors, making them amenable to various mathematical and computational techniques. <!--ID: 1697621520284--> ENDI
+- STARTI [Basic] Question: What is the definition of differentiation? Back: Differentiation is a fundamental concept in calculus dealing with the rate at which a function changes. The derivative of a function provides the slope of the tangent line to the curve of that function at any given point. <!--ID: 1698314479005--> ENDI
+- STARTI [Basic] Question: How is the derivative of a function at a point defined using the limit definition? Back: The derivative of a function at a point is defined as the limit of the average rate of change of the function over a small interval around that point as the interval's width approaches zero, formally given by \(f'(x) = \lim_{{h \to 0}} \frac{f(x + h) - f(x)}{h}\). <!--ID: 1698314479016--> ENDI
+- STARTI [Basic] Question: How is the derivative of the function \(f(x) = x^2\) found using the limit definition? Back: The derivative is found as follows: \(f'(x) = \lim_{{h \to 0}} \frac{(x+h)^2 - x^2}{h} = \lim_{{h \to 0}} (2x + h) = 2x\). <!--ID: 1698314479022--> ENDI
+- STARTI [Basic] Question: What is the Constant Rule in differentiation? Back: The Constant Rule states that the derivative of a constant is zero, represented as \(\frac{d}{dx} c = 0\), where \(c\) is a constant. <!--ID: 1698314479029--> ENDI
+- STARTI [Basic] Question: What is the Power Rule in differentiation? Back: The Power Rule states that for any real number \(n\), \(\frac{d}{dx} x^n = nx^{n-1}\). <!--ID: 1698314479034--> ENDI
+- STARTI [Basic] Question: What is the Product Rule in differentiation? Back: The Product Rule states that for functions \(f(x)\) and \(g(x)\), \(\frac{d}{dx} [f(x) \cdot g(x)] = f'(x)g(x) + f(x)g'(x)\). <!--ID: 1698314479039--> ENDI
+- STARTI [Basic] Question: Using the Product Rule, how would you differentiate \(y = x^2 \sin(x)\)? Back: Differentiate \(y\) as follows: \[\frac{d}{dx} (x^2 \sin(x)) = x^2 \cdot \frac{d}{dx}(\sin(x)) + \sin(x) \cdot \frac{d}{dx}(x^2) = x^2 \cdot \cos(x) + 2x \cdot \sin(x)\]. <!--ID: 1698314479045--> ENDI
+- STARTI [Basic] Question: How do you find the equation of the tangent line to the curve \(y = x^2\) at the point \((1,1)\)? Back: The derivative at \(x = 1\) is \(2(1) = 2\). So, the slope of the tangent is \(2\). Using the point-slope form \(y - y_1 = m(x - x_1)\), the equation of the tangent line is \(y - 1 = 2(x - 1)\) or \(y = 2x\). <!--ID: 1698314479050--> ENDI
+- STARTI [Basic] Question: What does the derivative \(\frac{d}{dx} x\) equal to? Back: The derivative \(\frac{d}{dx} x\) equals to \(1\). <!--ID: 1698314479056--> ENDI
+- STARTI [Basic] Question: How is the derivative of the function \(f(x) = x^2\) at a general point \(x\) denoted? Back: The derivative is denoted as \(f'(x)\) or \(\frac{df}{dx}\), and is equal to \(2x\). <!--ID: 1698314479061--> ENDI
+- STARTI [Basic] Question: What is the formula for Logarithmic Differentiation? Back: Begin by writing \(y=f(x)\), then take natural logarithms of both sides and simplify \(\ln(f(x))\) using the laws of logarithms. Differentiate both sides of the equation with respect to \(x\), then solve for \(\frac{dy}{dx}\). <!--ID: 1698314479067--> ENDI
+- STARTI [Basic] Question: Differentiate the function \(y = 3x^2 - 4x + 7\). Back: The derivative is found as \(y' = 6x - 4\). <!--ID: 1698314479073--> ENDI
+- STARTI [Basic] Question: What is the Product Rule in logarithms? Back: The Product Rule in logarithms is given by \(\ln(ab) = \ln a + \ln b\). <!--ID: 1698314479079--> ENDI
+- STARTI [Basic] Question: What is the Quotient Rule in logarithms? Back: The Quotient Rule in logarithms is given by \(\ln\left(\frac{a}{b}\right) = \ln a - \ln b\). <!--ID: 1698314479084--> ENDI
+- STARTI [Basic] Question: What is the Exponent Rule in logarithms? Back: The Exponent Rule in logarithms is given by \(\ln(a^r) = r\ln a\). <!--ID: 1698314479090--> ENDI
+- STARTI [Basic] Question: How do you use implicit differentiation to find \(\frac{dy}{dx}\) for the equation \(x^2 + y^2 = 25\)? Back: To find \(\frac{dy}{dx}\), differentiate both sides of the equation to get \(2x + 2y\frac{dy}{dx} = 0\). Then, solve for \(\frac{dy}{dx}\) to obtain \(\frac{dy}{dx} = -\frac{x}{y}\). <!--ID: 1698314479096--> ENDI
 ## Weeks Content
 ### Week 1
 [[MTH1002_Notes_1.pdf]]
@@ -107,7 +123,13 @@ ___
 [[Answers to Calculus Practical 3]]
 ___
 ### Week 4
-![[MTH1002_Notes_4.pdf]]
-![[MTH1002_Calculus_Practical_4.pdf]]
+[[MTH1002_Notes_4.pdf]]
+[[MTH1002_Calculus_Practical_4.pdf]]
 
 [[Answers to Calculus Practical 4]]
+___
+### Week 5
+![[MTH1002_Notes_5.pdf]]
+![[MTH1002_Calculus_Practical_5.pdf]]
+
+[[Answers to Calculus Practical 5]]

@@ -20,7 +20,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 ## Outline Syllabus
 - **[Mechanics](Classical%20Mechanics.md)** (*taught by Theodoros*):
 		- Pre-requisite(s): [Calculus](MTH1002%20Calculus) & [Vectors](MTH1008%20Personal%20Tutoring).
-	- [ ] [[Motion in one, two and three dimensions]].
+	- [x] [[Motion in one, two and three dimensions]].
 	- [ ] Newton's laws.
 	- [ ] Work, kinetic and potential energy.
 	- [ ] Conservation laws.
@@ -45,7 +45,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 ## Flashcards
 *Automatically generated into Anki*
 TARGET DECK
-PHY1002 Geometrical Optics, Waves, and Mechanics
+University::PHY1002 Geometrical Optics, Waves, and Mechanics
 
  - STARTI [Basic] What is the PHY1002 module? Back: Geometrical Optics, Waves, and Mechanics. <!--ID: 1696359438075--> ENDI
  - STARTI [Basic] Question: What is Huygens's Principle? Back: Huygens's Principle, also known as Huygens's construction, is a method of analysis applied in wave theory. It proposes that each point on a wave front is a source of secondary wavelets that spread out forward at the speed of the wave. The new position of the wave front is given by the surface tangent to these secondary wavelets. <!--ID: 1696412994723--> ENDI
@@ -209,6 +209,28 @@ PHY1002 Geometrical Optics, Waves, and Mechanics
 - STARTI [Basic] Question: How did Einstein's theory of relativity contribute to our understanding of motion? Back: Einstein provided a new framework for understanding motion at very high speeds or strong gravitational fields. His equation, \( E = mc^2 \), linked energy and mass. <!--ID: 1697560691972--> ENDI
 - STARTI [Basic] Question: Describe the difference between instantaneous velocity and average velocity using a real-world example. Back: Instantaneous velocity is the speed at a specific instant, while average velocity is the total distance covered over a period divided by the time taken. For example, a car's speedometer shows its instantaneous velocity, but its average velocity would consider its entire journey's time and distance. <!--ID: 1697560691985--> ENDI
 - STARTI [Basic] Question: Regarding a ball thrown vertically upwards and then coming down, at what point of its motion does it have maximum potential energy? And maximum kinetic energy? Back: It has maximum potential energy at its highest point. It has maximum kinetic energy just before hitting the ground or just after being released. <!--ID: 1697560691996--> ENDI
+- STARTI [Basic] Question: Define displacement in one dimension. Back: Displacement is the change in position of a particle. In one dimension, it's typically represented as a scalar with a sign indicating direction given by \( s = s_f - s_i \), where \( s_f \) is the final position and \( s_i \) is the initial position. <!--ID: 1698228595998--> ENDI
+- STARTI [Basic] Question: What is the formula for average velocity? Back: Average velocity is given by \( v_{avg} = \frac{\Delta s}{\Delta t} = \frac{s_f - s_i}{t_f - t_i} \). <!--ID: 1698228596013--> ENDI
+- STARTI [Basic] Question: Define instantaneous velocity. Back: Instantaneous velocity is given by \( v(t) = \frac{ds}{dt} \). <!--ID: 1698228596028--> ENDI
+- STARTI [Basic] Question: What is acceleration? Back: Acceleration is the rate of change of velocity, given by \( a = \frac{dv}{dt} \). <!--ID: 1698228596039--> ENDI
+- STARTI [Basic] Question: Describe the dot notation in calculus. Back: The dot notation represents differentiation with respect to time. For example, \( \dot{s} \) is the first derivative of \( s \) with respect to \( t \), representing velocity, while \( \dot{v} \) or \( \ddot{s} \) represents acceleration, the second derivative of \( s \) with respect to \( t \). <!--ID: 1698228596051--> ENDI
+- STARTI [Basic] Question: What is a primitive function? Back: A primitive function (or antiderivative) of a function \( f \) is a function \( F \) such that \( F'(x) = f(x) \). In mechanics, this often involves finding displacement when given velocity or finding velocity when given acceleration by integrating. <!--ID: 1698228596062--> ENDI
+- STARTI [Basic] Question: Provide the SUVAT equation for displacement based on initial velocity, acceleration, and time. Back: \( s = ut + \frac{1}{2} a t^2 \). <!--ID: 1698228596074--> ENDI
+- STARTI [Basic] Question: Provide the SUVAT equation relating final velocity, initial velocity, acceleration, and displacement. Back: \( v^2 = u^2 + 2as \). <!--ID: 1698228596085--> ENDI
+- STARTI [Basic] Question: Define the displacement vector in 2D or 3D motion. Back: Displacement Vector is \( \mathbf{s} = \langle s_x, s_y, s_z \rangle \). <!--ID: 1698228596096--> ENDI
+- STARTI [Basic] Question: How is the velocity vector defined in 2D or 3D motion? Back: Velocity Vector is \( \mathbf{v} = \langle v_x, v_y, v_z \rangle \), where each component is defined as \( v_x = \frac{ds_x}{dt}, v_y = \frac{ds_y}{dt}, v_z = \frac{ds_z}{dt} \). <!--ID: 1698228596108--> ENDI
+- STARTI [Basic] Question: How do SUVAT equations apply in 2D or 3D motion? Back: In 2D or 3D motion with constant acceleration, the SUVAT equations apply to each dimension independently. <!--ID: 1698228596119--> ENDI
+- STARTI [Basic] Question: What did Aristotle believe about motion? Back: Aristotle believed that objects in the heavens moved in perfect circles and had different physics than objects on Earth. He also thought heavier objects fell faster than lighter ones and that motion required continuous application of force. ENDI
+- STARTI [Basic] Question: What were Galileo Galilei's contributions to understanding motion? Back: Galileo contradicted Aristotle by showing that objects fall at the same rate regardless of their weight (in the absence of air resistance) and laid the groundwork for understanding uniformly accelerated motion. ENDI
+- STARTI [Basic] Question: Describe Sir Isaac Newton's contributions to motion. Back: Newton formulated three laws of motion that became the foundation of classical mechanics. He introduced the concept of force and showed that the motion of objects on Earth and in space can be described by the same set of laws. His equation, \( F = ma \), linked force, mass, and acceleration. <!--ID: 1698228596146--> ENDI
+- STARTI [Basic] Question: How did Albert Einstein reshape our understanding of motion? Back: Einstein's theory of relativity provided a framework for understanding motion at very high speeds or in strong gravitational fields. His equation, \( E = mc^2 \), established the relationship between energy and mass. <!--ID: 1698228596158--> ENDI
+- STARTI [Basic] Question: Explain the significance of quantum mechanics in understanding motion. Back: Quantum mechanics, developed by scientists like Max Planck, Niels Bohr, and Werner Heisenberg, explains motion at the atomic and subatomic levels, introducing concepts like wave-particle duality and the uncertainty principle. <!--ID: 1698228596168--> ENDI
+- STARTI [Basic] Question: Calculate the acceleration of a car that accelerates uniformly from rest to 60 m/s over 10 seconds. Back: Using the formula \( a = \frac{\Delta v}{\Delta t} \), the acceleration is \( a = \frac{60 \text{ m/s}}{10 \text{ seconds}} = 6 \text{ m/s}^2 \). <!--ID: 1698228596180--> ENDI
+- STARTI [Basic] Question: How far does an object fall from rest under gravity in 4 seconds, ignoring air resistance? Back: Using the formula \( s = \frac{1}{2} g t^2 \), where \( g \) is approximately \( 9.81 \text{ m/s}^2 \), the distance is \( s = \frac{1}{2} \times 9.81 \times 4^2 = 78.48 \text{ meters} \). <!--ID: 1698228596191--> ENDI
+- STARTI [Basic] Question: Calculate the maximum height of a projectile launched at 30° with an initial speed of 50 m/s. Back: Using the formula \( h = \frac{u^2 \sin^2(\theta)}{2g} \), where \( u \) is the initial speed, \( \theta \) is the launch angle, and \( g \) is gravity, the maximum height is determined by this formula. <!--ID: 1698228596203--> ENDI
+- STARTI [Basic] Question: Find the resultant velocity of a plane heading due east at 150 km/h with a wind blowing from the north at 50 km/h. Back: Using vector addition, the resultant velocity can be found using the Pythagorean theorem. <!--ID: 1698228596214--> ENDI
+- STARTI [Basic] Question: Find the position of a drone after 5 seconds that starts at point A(2,3,4) and moves with a velocity of \( \mathbf{v} = \langle 3, -2, 1 \rangle \text{ m/s} \). Back: The new position is determined by \( B(x,y,z) = A + 5\mathbf{v} \). <!--ID: 1698228596226--> ENDI
+- STARTI [Basic] Question: Find the particle's acceleration at t = 2 seconds given by \( \mathbf{v}(t) = \langle t^2, 2t, 3t^3 \rangle \text{ m/s} \). Back: Acceleration is the derivative of the velocity function, \( \mathbf{a}(t) = \frac{d\mathbf{v}}{dt} \). Compute the derivative and evaluate at \( t = 2 \) seconds. <!--ID: 1698228596237--> ENDI
 ## Weeks Content
 ### Week 1
 [[Wk1_optics.pdf]]

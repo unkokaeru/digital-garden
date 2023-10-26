@@ -31,7 +31,7 @@ Module Co-ordinator: MMura@lincoln.ac.uk (Manuel Mura)
 ## Flashcards
 *Automatically generated into Anki*
 TARGET DECK
-MTH1007 Professional Skills and Group Study
+University::MTH1007 Professional Skills and Group Study
 
  - STARTI [Basic] What is the MTH1007 module? Back: Professional Skills and Group Study. <!--ID: 1696359411213--> ENDI
 - STARTI [Basic] Question: How do you start a document in LaTeX? Back: \documentclass[options]{class}. <!--ID: 1697561087392--> ENDI
@@ -104,10 +104,24 @@ MTH1007 Professional Skills and Group Study
 **[[01_basic_training.ipynb]]**
 ***[[01-Exercises.ipynb]]***
 **[[02_Logic_and_Loops.ipynb]]**
-***[[02-Exercises_1.ipynb]]***
+***[[02-Exercises.ipynb]]***
 **[[03-Loopy loops.ipynb]]**
 ***[[03-Exercises.ipynb]]***
 [[Image-task.png]]
 [[SU.jpg]]
 [[UoL-logo.jpg]]
 [[architecture.jpg]]
+[[DALL-E Flowers.png]]
+[[question4task.jpg]]
+### Week 6
+[[Poster Presentation.pptx]]
+[[Ethics-Week6.pdf]]
+
+**[[04-Projectile Motion.ipynb]]**
+***[[04-Exercises.ipynb]]***
+*[[grid_functions.py]]*
+[[landscape.gif]]
+[[splash.gif]]
+[[turtle2.gif]]
+[[crashed_turtle.gif]]
+[[Fairytale-Fantasy-Castle-Landscape.gif]]

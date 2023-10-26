@@ -80,6 +80,14 @@ Here are some additional recommendations:
 - **Category/Genre:** Biography
 - **Why I want to read it:** A biography of Srinivasa Ramanujan, a self-taught mathematician from India. It's inspiring and informative.
 - **Date added to antilibrary:** [[2023.09.23 (Saturday)]]
+
+## The Strange Case of Dr Jekyll and Mr Hyde
+
+- **Author:** Robert Louis Stevenson
+- **Category/Genre:** Fiction / Novella / Gothic Fiction
+- **Why I want to read it:** A classic tale that delves into the duality of human nature, exploring the battle between good and evil within an individual's soul. It's also a touchstone for discussions about identity and the subconscious.
+- **Link**: [https://proxy.library.lincoln.ac.uk/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=314148&site=ehost-live&ebv=EB&ppid=pp_4](https://proxy.library.lincoln.ac.uk/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=314148&site=ehost-live&ebv=EB&ppid=pp_4)
+- **Date added to antilibrary:** [[2023.10.26 (Thursday)]]
 # Reading Log
 
 ## Book Title 1

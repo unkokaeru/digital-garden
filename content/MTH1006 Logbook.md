@@ -218,7 +218,7 @@ Today, I worked on several MATLAB exercises:
 - *This session was again very simple, although I did notice I needed a few minutes to relearn the commands from the last few weeks - this week I think I'll do some independent work from a library book to keep me from forgetting everything.*
 
 ---
-## Week 4 (xx/xx/2023 - xx/xx/2023)
+## Week 4 (16/10/2023 - 22/10/2023)
 
 ### Summary
 - Today, I worked on three main tasks in MATLAB:
@@ -282,6 +282,105 @@ Today, I worked on several MATLAB exercises:
     (i) Finally, change the function so that a diameter is expected as an input argument. Change the symbol $R$ to $d$ for this, and adjust the formula accordingly.
 ### Reflection
 - *Unfortunately I did not get time to do some independent work last week as I planned, and yet again did it display to me how much I should be doing it - it's so hard to remember everything when you only use it once a week!*
+---
+## Week 5 (23/10/2023 - 29/10/2023)
+### Summary
+ - *Made an Anki deck for MTH1006*
+- *I developed functions for temperature conversions and plotted exponential curves, incorporating error checks for complex numbers.*
+- *Determined the volume of a cone using its radius and height.*
+- *Calculated various summations, both simple and squared, and expanded to geometric series.*
+- *Crafted functions to evaluate the sum of series, involving squares, cubes, and factorial denominators, and cross-checked manually.*
+- *Implemented a break mechanism in loops to cap the summation based on a set threshold.*
+### Exercises
+#### 5.1 Functions and scripts
+[[Functions and Scripts Code Output (MATLAB)]]
+1. **Celsius to Fahrenheit:**
+	- (a) Write a script that converts a temperature in Celsius to Fahrenheit using the formula:
+      $$
+      F = \frac{9}{5} C + 32
+      $$
+      Subsequently output: `The temperature is ... degrees Celsius, which corresponds to ... degrees Fahrenheit.`
+	- (b) Test with: $0^\circ C$, $25^\circ C$, $37.77^\circ C$.
+	- (c) Create a function to convert $C$ in Celsius to Fahrenheit. Test: $32^\circ F = 0^\circ C$ and $100^\circ F \approx 37.8^\circ C$.
+
+2. **Volume of a Cone:**
+    - The volume of a cone is:
+      $$
+      V = \frac{1}{3} \pi r^2 h
+      $$
+      Write a function with inputs $r$ and $h$, and output the volume. Test for $r = 4$ and $h = 6.1$.
+
+3. **Plotting Curves:**
+    - (a) Create a function to plot curves of the form:
+      $$
+      y = c \exp(ax)
+      $$
+      where $x \in [-3, 3]$ with at least 100 points. Inputs: $c$ and $a$.
+    - (b) Create a script to plot curves for:
+      - $c = 1, a = 0$
+      - $c = 1, a = 1$
+      - $c = 1, a = -1$
+      - $c = -1, a = -1$
+      - $c = -1, a = 1$
+    - (c) Modify function: If $a$ or $c$ is complex, show error message.
+    - (d) Test for $c = 2, a = 3 - 2i$, $c = \sqrt{15} - i, a = 12$, $c = \sqrt{2}, a = -\pi$.
+
+#### 5.2 Loops
+[[Loops Code Output (MATLAB)]]
+1. **Summations:**
+    - (a) Calculate:
+      $$
+      \sum_{k=1}^{50} k
+      $$
+    - (b) Calculate:
+      $$
+      \sum_{k=1}^{20} k^2
+      $$
+
+2. Find:
+   $$
+   \frac{3}{1} + \frac{5}{2} + \frac{7}{3} + \frac{9}{4}
+   $$
+
+3. Calculate:
+   $$
+   1 + x + x^2 + \ldots + x^{10} \text{ for } x = 0.4
+   $$
+$$
+\implies\frac{a(1-r^n)}{1-r}:a=1,r=0.4\therefore\frac{1-0.4^{11}}{1-0.4}
+$$
+
+2. **Functions with Sums:**
+    - (a) Function for:
+      $$
+      S = \sum_{k=1}^{n} k^2
+      $$
+      Test for $n = 1$, $n = 0$, $n = 3$.
+    - (b) Function for:
+      $$
+      S = \sum_{k=0}^{n} x^k
+      $$
+      Test: $(n = 1, x = 1)$, $(n = 0, x = -1)$, $(n = 3, x = 2)$.
+    - (c) Function for:
+      $$
+      S2 = \sum_{k=0}^{n} k^2 \text{ and } S3 = \sum_{k=0}^{n} k^3
+      $$
+      Test: $n = 1$ and $n = 2$.
+    - (d) Function for:
+      $$
+      S = \sum_{\substack{k=0\\ k \neq m}}^{n} \frac{k^2}{k!}
+      $$
+      Test: $(n = 1, m = 1)$, $(n = 2, m = 0)$, $(n = 2, m = 1)$. Check answers by hand.
+
+3. **Loop with Break:**
+   Create a script: set $x = 2$ and compute:
+   $$
+   S = \sum_{k=0}^{n} x^k
+   $$
+   The sum should not exceed 1,000,000. Break if adding next term exceeds this limit. Test for $n = 10$ and $n = 100$.
+### Reflection
+ - *I did some independent work this week, too, for example learning about sprintf/fprintf which has really helped, as well as integrating the commands into my Anki workflow as flashcards so I don't forget them.*
+ - *A good week for MATLAB!*
 
 ---
 (Continue in the same format for the remaining weeks)

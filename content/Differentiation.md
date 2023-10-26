@@ -87,6 +87,33 @@ There are various ways to denote the derivative of a function, as shown above in
 
    $$ \frac{d}{dx} \left( \frac{f(x)}{g(x)} \right) = \frac{f'(x)g(x) - f(x)g'(x)}{[g(x)]^2} $$
 
+
+## Logarithmic Differentiation
+*Related to [[implicit differentiation]].*
+
+Begin by writing $y=f(x)$, where $f(x)$ is the function to be differentiated. We then take natural logarithms of both sides, and simplify $\ln(f(x))$ using the [[laws of logarithms]]. Then, differentiate both sides of the equation with respect to $x$, then solving the resulting equation for $\frac{dy}{dx}$.
+
+**Example:** Differentiate $\frac{x^2\sin x}{\cos 2x}$.
+$$
+y=\frac{x^2\sin x}{\cos 2x}\implies\ln y=\ln\left(\frac{x^2\sin x}{\cos 2x}\right)
+$$
+$$
+\implies \ln y=2\ln x+\ln \sin x-\ln\cos2x
+$$
+$$
+\implies\frac{d}{dx}\left(\ln y\right)=\frac{d}{dx}\left(2\ln x+\ln\sin x-\ln\cos2x\right)
+$$
+$$
+\implies\frac{1}{y}\frac{dy}{dx}=\frac{2}{x}+\frac{\cos x}{\sin x}+2\frac{\sin 2x}{\cos 2x}
+$$
+$$
+\implies\frac{dy}{dx}=\frac{2y}{x}+\cot x+2\tan2x:y=\frac{x^2\sin x}{\cos2x}
+$$
+$$
+\therefore\frac{dy}{dx}=2\frac{x\sin x}{\cos2x}+\cot x+2\tan2x
+$$
+## Higher Order Derivatives
+- For functions that require differentiation multiple times, we use notation like $f''(x)$ or $f^{(iv)}(x)$ to denote the second, third, fourth, etc., derivatives respectively.
 ## Basic Derivatives:
 
 1. $\frac{d}{dx} x = 1$

@@ -35,7 +35,7 @@ Read **[[A Concrete Introduction to Higher Algebra]]** (for the syllabus)
 ## Flashcards
 *Automatically ported into Anki*
 TARGET DECK
-MTH1001 Algebra
+University::MTH1001 Algebra
 
  - STARTI [Basic] What is the MTH1001 module? Back: Algebra. <!--ID: 1696359359405--> ENDI
  - STARTI [Basic] What is a lemma? Back: A small "theorem" used to prove bigger theorems. <!--ID: 1696415920874--> ENDI

@@ -1,0 +1,16 @@
+- [[Warhammer!]] (**TOTAL: £232-426**)
+	- Warhammer 40k Necron Canoptek Wraiths (Set of 3): £20-30
+	- Warhammer 40k Necron Warriors Collection (Set of 20): £40-80 (assuming two sets)
+	- Warhammer 40k Metal Necron Scarabs (Set of 8): £40-96
+	- Warhammer 40k C'tan Shard of the Deceiver: £30-40
+	- Warhammer 40k Necron Catacomb Command Base (in original packaging): £15-20
+	- Warhammer 40k 7th Edition Necron Monolith (partially painted, set of 3): £60-90 (assuming three)
+	- Warhammer 40k Chaos Space Marine Land Raider: £20-30
+	- Warhammer 40k Chaos Space Marine Helbrute (partially painted): £15-20
+	- Warhammer 40k Chaos Space Marine Chaos Bikers (partially painted, set of 5): £25-30
+	- Warhammer 40k Dice Cube Set: £2-5
+	- Warhammer 40k Citadel Chaos Paints (partially used, set of 8): £10-15
+	- Warhammer 40k Citadel Chaos Black Spray Paint (partially used): £5-10
+	- Warhammer 40k Chaos Space Marine Rule Set (7th Edition): £10-20
+- [Mindstorms!](https://photos.google.com/share/AF1QipN8maCiYw0wmz3vxrki9LFNLF1R00kkMWEjjdNdWDmtB4sQppRQRUY_VcYY_eiQlQ) (**TOTAL: £100-200**)
+	- I couldn't figure out the price very accurately, as it isn't often sold, nevermind as a whole set - this figure is based off its original price.

@@ -20,7 +20,7 @@ Module Co-ordinator: BVorselaars@lincoln.ac.uk (Bart Vorselaars)
 ## Flashcards
 *Automatically ported into Anki*
 TARGET DECK
-MTH1006 Computer Algebra and Technical Computing
+University::MTH1006 Computer Algebra and Technical Computing
 
  - STARTI [Basic] What is the MTH1006 module? Back: Computer Algebra and Technical Computing. <!--ID: 1696359397852--> ENDI
 - STARTI [Basic] Question: How do you create a row vector in MATLAB? Back: A = [1, 2, 3, 4]. <!--ID: 1697560853468--> ENDI
@@ -73,6 +73,14 @@ MTH1006 Computer Algebra and Technical Computing
 - STARTI [Basic] Question: How to compute the sin of an angle in radians? Back: sin(angle). <!--ID: 1697560853942--> ENDI
 - STARTI [Basic] Question: How to compute the cosine of an angle in radians? Back: cos(angle). <!--ID: 1697560853954--> ENDI
 - STARTI [Basic] Question: How to compute the tangent of an angle in radians? Back: tan(angle). <!--ID: 1697560853966--> ENDI
+- STARTI [Basic] Question: What does the MATLAB command "fprintf" do? Back: It writes formatted data to a file or to the command window. <!--ID: 1698149276865--> ENDI
+- STARTI [Basic] Question: In MATLAB, how do you use "fprintf" to print a number with two decimal places? Back: fprintf('%.2f', number) <!--ID: 1698149276875--> ENDI
+- STARTI [Basic] Question: What does the MATLAB command "sprintf" do? Back: It formats data into a string instead of printing it. <!--ID: 1698149276884--> ENDI
+- STARTI [Basic] Question: In MATLAB, how do you use "sprintf" to format a number as a string with two decimal places? Back: str = sprintf('%.2f', number) <!--ID: 1698149276889--> ENDI
+- STARTI [Basic] Question: When using "fprintf" in MATLAB, what does "%d" represent? Back: An integer. <!--ID: 1698149276895--> ENDI
+- STARTI [Basic] Question: When using "sprintf" in MATLAB, what does "%s" represent? Back: A string. <!--ID: 1698149276900--> ENDI
+- STARTI [Basic] Question: How can you print a new line using "fprintf" in MATLAB? Back: Use the newline character "\n". Example: fprintf('This is line one.\nThis is line two.\n') <!--ID: 1698149276906--> ENDI
+- STARTI [Basic] Question: In MATLAB, how can you use "fprintf" to display a string variable named "text"? Back: fprintf('%s', text) <!--ID: 1698149276911--> ENDI
 ## Weeks Content
 ### Week 1
 [[slides-session1.pdf]]
@@ -84,5 +92,8 @@ MTH1006 Computer Algebra and Technical Computing
 [[slides-session3.pdf]]
 [[exercises-session3.pdf]]
 ### Week 4
-![[slides-session4.pdf]]
-![[exercises-session4.pdf]]
+[[slides-session4.pdf]]
+[[exercises-session4.pdf]]
+### Week 5
+![[slides-session5.pdf]]
+![[exercises-session5.pdf]]

@@ -129,7 +129,10 @@ ___
 [[Answers to Calculus Practical 4]]
 ___
 ### Week 5
-![[MTH1002_Notes_5.pdf]]
-![[MTH1002_Calculus_Practical_5.pdf]]
+[[MTH1002_Notes_5.pdf]]
+[[MTH1002_Calculus_Practical_5.pdf]]
 
 [[Answers to Calculus Practical 5]]
+
+[[MTH1002_Coursework.pdf]]
+[[Calculus Coursework 1]]

@@ -118,10 +118,12 @@ University::MTH1007 Professional Skills and Group Study
 [[Ethics-Week6.pdf]]
 
 **[[04-Projectile Motion.ipynb]]**
-***[[04-Exercises.ipynb]]***
+***[[04-Exercises.ipynb]]*** (complete this little game!)
 *[[grid_functions.py]]*
 [[landscape.gif]]
 [[splash.gif]]
 [[turtle2.gif]]
 [[crashed_turtle.gif]]
 [[Fairytale-Fantasy-Castle-Landscape.gif]]
+[[background_1.png]]
+[[flying_turtle.png]]

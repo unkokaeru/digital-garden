@@ -39,11 +39,9 @@ Resting quietly in the corner of the study, you'll find the [[Sleep|old journal 
 The timeworn study extends a warm, inviting whisper, urging you to delve into its corners, each a trove of knowledge and memories, each a narrative yearning to be discovered.
 ## 📜 Quest Log
 
+- [ ] ANKI!!
 - [ ] Shop
-	 - [ ] Bread
 	 - [ ] Mirin
-	 - [ ] Eggs
-	 - [ ] Apples
 	 - [ ] Pasta
 	 - [ ] Short grain rice
 	 - [ ] Boo basket!! (fluffy blanket/socks)
@@ -62,25 +60,19 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 	 - [ ] Energy beverages - healthiness, can I abuse them sensibly, or should I abstain?
 	 - [ ] Making sushi/onigiri
 	 - [ ] [James Rucker](https://www.researchgate.net/profile/James-Rucker-2) on psychedelic therapy
-	 - [ ] Write notes on the videos I watched [yesterday](2023-10-25)
+	 - [ ] Write notes on the [videos](2023-10-25) I watched + HealthyGamerGG Self-Control video
  - University Work
 	 - Calculus: [[MTH1002 Calculus]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
 	 - Algebra: [[MTH1001 Algebra]]
-		 - [ ] Complete [[Answers to Algebra Practical 5]]
-		 - [ ] Do some extra reading - combining new knowledge into existing notes (this includes reading the lecture notes and their "optional" parts): how does Ruffini's Rule work??
+		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
 	 - Mechanics: [[PHY1002 Geometrical Optics, Waves, and Mechanics]]
-		 - [ ] Complete [[Answers to Mechanics Practical 2]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
 	 - Computing: [[MTH1006 Computer Algebra and Technical Computing]]
-		 - [ ] Complete the first [MATLAB Assignment](https://blackboard.lincoln.ac.uk/ultra/courses/_191987_1/cl/outline)
 	 - Professional Skills: [[MTH1007 Professional Skills and Group Study]]
-		 - [ ] Write flashcards based on the notes
-		 - [ ] Hand in the new coursework
-		 - [ ] Complete the lecture work
 
 **Note: below is a list of deprecated parts of this vault that are still available to view as an archive.**
 

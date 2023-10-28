@@ -1,9 +1,13 @@
+**Note: below is a list of corrections to the solutions provided by the lecturer, but everything I have written here is correct, I think.**
+- Question 5a: error in answer, should be $3ax^2+b$ not $ax^2+b$
+- Question 6: easier route through logarithmic differentiation
+
 ![[MTH1002_Calculus_Practical_5.pdf]]
 
 #### Question 1
 ##### Question 1a
 $$
-f(x)=3x^5-2x^2+7x^{-\frac{1}{2}}+2\implies f^\prime(x)=15x^4-6x-\frac{7}{2}x^{-\frac{3}{2}}
+f(x)=3x^5-2x^2+7x^{-\frac{1}{2}}+2\implies f^\prime(x)=15x^4-4x-\frac{7}{2}x^{-\frac{3}{2}}
 $$
 ##### Question 1b
 $$
@@ -75,14 +79,14 @@ $$
 \frac{d}{dx}\left(x^4e^{3x}\tan x\right)\implies\frac{d}{dx}\left(4\ln x+3x+\ln\tan x\right)
 $$
 $$
-\implies\frac{4}{x}+3+2\csc(2x)
+\implies x^4e^{3x}\tan x\cdot(\frac{4}{x}+3+2\csc(2x))
 $$
 ##### Question 4b
 $$
 \frac{d}{dx}\left(\frac{e^{4x}}{x^3\cosh2x}\right)\implies\frac{d}{dx}(4x-3\ln x -\ln\cosh2x)
 $$
 $$
-\implies4-\frac{3}{x}-\tanh2x
+\implies\frac{e^{4x}}{x^3\cosh2x}\cdot(4-\frac{3}{x}-\tanh2x)
 $$
 #### Question 5
 ##### Question 5a
@@ -131,15 +135,16 @@ $$
 $$
 \implies f^\prime(x)=\lim_{h\to0}\left(\frac{}{h}\right)
 $$
-#### Question 6 (to-do)
+Solution: [[Pasted image 20231027195115.png]]
+#### Question 6
 $$
 f(x)=(x-a)(x-b)(x-c)\implies f(x) =\ln(x-a)+\ln(x-b)+\ln(x-c)
 $$
 $$
-\implies f^\prime(x)=\frac{1}{x-a}+\frac{1}{x-b}+\frac{1}{x-c}
+\implies f^\prime(x)=(x-a)(x-b)(x-c)\cdot\left(\frac{1}{x-a}+\frac{1}{x-b}+\frac{1}{x-c}\right)
 $$
 $$
-\therefore\frac{f^\prime(x)}{f(x)}=\frac{\frac{1}{x-a}+\frac{1}{x-b}+\frac{1}{x-c}}{(x-a)(x-b)(x-c)}
+\therefore\frac{f^\prime(x)}{f(x)}=\frac{1}{x-a}+\frac{1}{x-b}+\frac{1}{x-c}\space\square
 $$
 #### Question 7
 ##### Question 7a

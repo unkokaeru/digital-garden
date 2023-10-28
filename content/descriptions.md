@@ -1,3 +1,4 @@
+![[DALL·E 2023-10-27 18.11.38 - Photo of a well-lit room showcasing a collection of Warhammer miniatures carefully painted and arranged on one side, and LEGO Mindstorms creations on .png]]
 - [[Warhammer!]] (**TOTAL: £232-426**)
 	- Warhammer 40k Necron Canoptek Wraiths (Set of 3): £20-30
 	- Warhammer 40k Necron Warriors Collection (Set of 20): £40-80 (assuming two sets)

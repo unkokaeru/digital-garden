@@ -291,6 +291,7 @@ Today, I worked on several MATLAB exercises:
 - *Calculated various summations, both simple and squared, and expanded to geometric series.*
 - *Crafted functions to evaluate the sum of series, involving squares, cubes, and factorial denominators, and cross-checked manually.*
 - *Implemented a break mechanism in loops to cap the summation based on a set threshold.*
+- [[MATLAB Coursework 1 (files)]]
 ### Exercises
 #### 5.1 Functions and scripts
 [[Functions and Scripts Code Output (MATLAB)]]
@@ -381,6 +382,7 @@ $$
 ### Reflection
  - *I did some independent work this week, too, for example learning about sprintf/fprintf which has really helped, as well as integrating the commands into my Anki workflow as flashcards so I don't forget them.*
  - *A good week for MATLAB!*
+ - *I also completed my MATLAB Coursework this week, which was quite fun!*
 
 ---
 (Continue in the same format for the remaining weeks)

@@ -2,7 +2,7 @@
 title: Knowledge Cottage Introduction :)
 showToc: "false"
 ---
-[[My personal philosophies]]
+[[Personal Philosophical Haikus]]
 # 🏡 Knowledge Cottage
 
 *Welcome, wanderer, to the digital dwelling that is the Knowledge Cottage, a homely haven spun from threads of code and connectivity. Here, in this cosy corner of the cyber realm, ideas simmer on the hearth, thoughts take root, and knowledge nurtures like cherished heirlooms. Wisdom's well-woven tapestries drape over the armchair of discourse, and the floorboards of understanding, worn smooth by the footsteps of an inquisitive mind.*
@@ -40,11 +40,11 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 ## 📜 Quest Log
 
 - [ ] ANKI!!
+- [ ] Print off my [[Personal Philosophical Haikus]]
 - [ ] Shop
 	 - [ ] Mirin
 	 - [ ] Pasta
 	 - [ ] Short grain rice
-	 - [ ] Boo basket!! (fluffy blanket/socks)
  - [[Music Management]]
 	 - [ ] Decide which beats go out or need extending etc. - name and cover art. Should it be a single, tape, etc.?
 	 - [ ] Release stuff?

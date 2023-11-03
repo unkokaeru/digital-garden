@@ -23,8 +23,8 @@ Read **[[A Concrete Introduction to Higher Algebra]]** (for the syllabus)
  - [x] [[Remainder, Factor Theorems, Ruffini’s Rule, and Polynomial Algebra]]
  - [x] [[Irreducible polynomials]].
  - [x] [[Polynomial roots and factorisation]] over the complex numbers ([[Fundamental Theorem of Algebra]]), over the reals (conjugate roots), and over the rational numbers (Rational Root Test).
- - [ ] The coefficients of a polynomial as symmetric functions of the roots.
- - [ ] Polynomial equations and systems of equations which enjoy special symmetries: self reciprocal polynomials, symmetric systems.
+ - [x] [[The Rational Root Test and Irreducibility in Quadratic and Cubic Polynomials]].
+ - [x] [[Types of polynomial and symmetric systems]]
  - [ ] Solving congruences in the integers, the Chinese remainder theorem, congruences with polynomials.
  - [ ] The integers modulo n and some applications.
 ## Learning Outcomes
@@ -158,6 +158,25 @@ University::MTH1001 Algebra
 - STARTI [Basic] Question: What is the relationship between roots and factors of a polynomial? Back: If \( c \) is a root of \( p(z) \), then \( (z - c) \) is a factor of \( p(z) \). Using division, \( p(z) \) can be expressed as \( p(z) = (z-c)q(z) \) where \( q(z) \) is of degree \( n-1 \). <!--ID: 1698054123099--> ENDI
 - STARTI [Basic] Question: How can you show that the polynomial \( p(z) = z^2 + 1 \) has no real roots but two complex roots? Back: By evaluating and realizing that no real value will satisfy this equation. The roots are \( i \) and \( -i \). <!--ID: 1698054123107--> ENDI
 - STARTI [Basic] Question: How do you find all roots, real or complex, of the polynomial \( p(z) = z^3 - 6z^2 + 11z - 6 \)? Back: Factorize or use appropriate root-finding methods. <!--ID: 1698054123116--> ENDI
+- STARTI [Basic] Question: What is a biquadratic polynomial? Back: A biquadratic polynomial is a fourth-degree polynomial of the form \( ax^4 + bx^2 + c \) where \( a \neq 0 \). <!--ID: 1699034252912--> ENDI
+- STARTI [Basic] Question: How can you factor the biquadratic polynomial \( x^4 - 6x^2 + 9 \)? Back: It can be factored as \( (x^2 - 3)^2 \). <!--ID: 1699034252920--> ENDI
+- STARTI [Basic] Question: What are the roots of the polynomial \( x^4 - 6x^2 + 9 \)? Back: The roots are \( x = \pm \sqrt{3} \). <!--ID: 1699034252928--> ENDI
+- STARTI [Basic] Question: What is a self-reciprocal polynomial? Back: A self-reciprocal polynomial is one that remains unchanged when \( x \) is replaced by \( \frac{1}{x} \). Mathematically, \( P(x) = x^nP(\frac{1}{x}) \). <!--ID: 1699034252934--> ENDI
+- STARTI [Basic] Question: Is the polynomial \( x^2 + 2x + 1 \) self-reciprocal? Back: No, it is not self-reciprocal because \( 1 + 2x + x^2 \) does not equal \( x^2 + 2x + 1 \). <!--ID: 1699034252940--> ENDI
+- STARTI [Basic] Question: How do you solve a self-reciprocal polynomial such as \( ax^4+bx^3+cx^2+bx+a=0 \)? Back: Divide through by \( x^2 \) and solve for \( x+\frac{1}{x} \), resulting in a quadratic equation that can be solved normally. <!--ID: 1699034252946--> ENDI
+- STARTI [Basic] Question: What formula is used to find the square roots of a complex number \( a + bi \)? Back: \( \sqrt{a + bi} = \pm \left( \sqrt{\frac{a + \sqrt{a^2 + b^2}}{2}} + i\sqrt{\frac{-a + \sqrt{a^2 + b^2}}{2}} \right) \). <!--ID: 1699034252951--> ENDI
+- STARTI [Basic] Question: How can you find the square root of the complex number \( 1 + i \)? Back: \( \sqrt{1 + i} = \sqrt{\frac{1 + \sqrt{2}}{2}} + i\sqrt{\frac{-1 + \sqrt{2}}{2}} \). <!--ID: 1699034252957--> ENDI
+- STARTI [Basic] Question: What is the relationship between the roots and coefficients of a quadratic polynomial \( ax^2 + bx + c \)? Back: The sum of the roots \( \alpha + \beta \) is \( -\frac{b}{a} \) and the product of the roots \( \alpha \beta \) is \( \frac{c}{a} \). <!--ID: 1699034252963--> ENDI
+- STARTI [Basic] Question: What is a symmetric system in the context of systems of equations? Back: A symmetric system is one where switching the variables does not change the system, often represented by a matrix \( A \) where \( A = A^T \). <!--ID: 1699034252969--> ENDI
+- STARTI [Basic] Question: Give an example of a symmetric matrix. Back: The matrix \( \begin{pmatrix} 1 & 2 \\ 2 & 1 \end{pmatrix} \) is symmetric because it is equal to its transpose. <!--ID: 1699034252975--> ENDI
+- STARTI [Basic] Question: What does the Rational Root Test determine? Back: The Rational Root Test is used to identify potential rational roots of a polynomial with integer coefficients. <!--ID: 1699034252981--> ENDI
+- STARTI [Basic] Question: According to the Rational Root Test, what must a rational root $\frac{p}{q}$ of a polynomial with integer coefficients satisfy? Back: $p$ must be a factor of the constant term, and $q$ must be a factor of the leading coefficient. <!--ID: 1699034252986--> ENDI
+- STARTI [Basic] Question: How can you list potential rational roots of a polynomial using the Rational Root Test? Back: List all possible values of $\frac{p}{q}$ where $p$ divides the constant term and $q$ divides the leading coefficient, then test each value. <!--ID: 1699034252992--> ENDI
+- STARTI [Basic] Question: How can the Rational Root Test be used to prove the irrationality of a number? Back: By showing that a polynomial equation like $x^2 - 3 = 0$ has no rational roots, it can prove that numbers such as $\sqrt{3}$ are irrational. <!--ID: 1699034252997--> ENDI
+- STARTI [Basic] Question: What are the possible rational roots of the polynomial $2x^3 - 4x^2 + 3x - 6$ according to the Rational Root Test? Back: The possible rational roots are $\pm \frac{1, 2, 3, 6}{1, 2}$. <!--ID: 1699034253003--> ENDI
+- STARTI [Basic] Question: When is a quadratic polynomial $ax^2 + bx + c = 0$ irreducible over the rationals? Back: It is irreducible over the rationals if its discriminant $b^2 - 4ac$ is not a perfect square. <!--ID: 1699034253009--> ENDI
+- STARTI [Basic] Question: What does irreducibility mean for a polynomial? Back: A polynomial is irreducible if it cannot be factored into polynomials of lower degree with coefficients in the same domain. <!--ID: 1699034253014--> ENDI
+- STARTI [Basic] Question: Can the Rational Root Test indicate irreducibility for cubic polynomials? Back: Yes, if no rational roots are found using the Rational Root Test, it often indicates that a cubic polynomial is irreducible over the rationals, although this is not a definitive test. <!--ID: 1699034253021--> ENDI
 ## Weeks Content
 ### Week 1
 [[Algebra_slides_week_01_handout.pdf]]
@@ -189,8 +208,15 @@ ___
 [[Answers to Algebra Practical 4]]
 ___
 ### Week 5
-![[Algebra_slides_week_05_handout.pdf]]
-![[Algebra_notes_week_05.pdf]]
+[[Algebra_slides_week_05_handout.pdf]]
+[[Algebra_notes_week_05.pdf]]
 [[Practical_5.pdf]]
 
 [[Answers to Algebra Practical 5]]
+___
+### Week 6
+![[Algebra_slides_week_06_handout.pdf]]
+[[Algebra_notes_week_06.pdf]]
+[[Practical_6.pdf]]
+
+[[Answers to Algebra Practical 6]]

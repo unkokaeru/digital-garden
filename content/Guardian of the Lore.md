@@ -1,0 +1,3 @@
+- Character Outside The Door
+	- My Haikus (first page) [[Personal Philosophical Haikus]]
+	- Failure Resume (following pages) [[Failure Resume]]

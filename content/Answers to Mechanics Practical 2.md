@@ -151,10 +151,10 @@ $$
 \vec{r}(t)=\left[(10\text{m}\cdot\text{s}^{-1})t\right]\hat{\textbf{i}}+\left[(-2.5\text{m}\cdot\text{s}^{-2})t^2\right]\hat{\textbf{j}}
 $$
 $$
-\implies\vec{v}(t)=\left[10\text{m}\cdot\text{s}^{-2}\right]\hat{\textbf{i}}+\left[(-5\text{m}\cdot\text{s}^{-3})t\right]\hat{\textbf{j}}
+\implies\vec{v}(t)=\left[10\text{m}\cdot\text{s}^{-1}\right]\hat{\textbf{i}}+\left[(-5\text{m}\cdot\text{s}^{-2})t\right]\hat{\textbf{j}}
 $$
 $$
-\implies\vec{a}(t)=\left[0\text{m}\cdot\text{s}^{-3}\right]\hat{\textbf{i}}+\left[-5\text{m}\cdot\text{s}^{-4}\right]\hat{\textbf{j}}
+\implies\vec{a}(t)=\left[0\text{m}\cdot\text{s}^{-1}\right]\hat{\textbf{i}}+\left[-5\text{m}\cdot\text{s}^{-2}\right]\hat{\textbf{j}}
 $$
 ##### Question 3b
 $$

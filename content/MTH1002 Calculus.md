@@ -13,7 +13,7 @@ Read **Calculus by J. Stewart** (for the syllabus), **Calculus by M. Spivak** (f
  - [x] [[Complex numbers]]
  - [x] [[Limits and Continuity]]
  - [x] [[Differentiation]]
- - [ ] Curve sketching
+ - [x] [[Curve sketching]]
  - [ ] Series
  - [ ] Integration and the fundamental theorem of calculus
  - [ ] Parametric equations and polar coordinates
@@ -103,6 +103,18 @@ University::MTH1002 Calculus
 - STARTI [Basic] Question: What is the Quotient Rule in logarithms? Back: The Quotient Rule in logarithms is given by \(\ln\left(\frac{a}{b}\right) = \ln a - \ln b\). <!--ID: 1698314479084--> ENDI
 - STARTI [Basic] Question: What is the Exponent Rule in logarithms? Back: The Exponent Rule in logarithms is given by \(\ln(a^r) = r\ln a\). <!--ID: 1698314479090--> ENDI
 - STARTI [Basic] Question: How do you use implicit differentiation to find \(\frac{dy}{dx}\) for the equation \(x^2 + y^2 = 25\)? Back: To find \(\frac{dy}{dx}\), differentiate both sides of the equation to get \(2x + 2y\frac{dy}{dx} = 0\). Then, solve for \(\frac{dy}{dx}\) to obtain \(\frac{dy}{dx} = -\frac{x}{y}\). <!--ID: 1698314479096--> ENDI
+- STARTI [Basic] Question: What is the relationship between a function \( f \) and its inverse \( f^{-1} \)? Back: For a function \( f \) and its inverse \( f^{-1} \), the relationships are \( f(f^{-1}(x)) = x \) and \( f^{-1}(f(x)) = x \). The graph of an inverse function is the reflection of the original function's graph across the line \( y = x \). <!--ID: 1699034563116--> ENDI
+- STARTI [Basic] Question: What are the inverse hyperbolic functions for \( \sinh(x) \), \( \cosh(x) \), and \( \tanh(x) \)? Back: The inverse hyperbolic functions for \( \sinh(x) \), \( \cosh(x) \), and \( \tanh(x) \) are \( \text{arsinh}(x) \), \( \text{arcosh}(x) \), and \( \text{artanh}(x) \) respectively. <!--ID: 1699034563124--> ENDI
+- STARTI [Basic] Question: What are critical points of a function? Back: Critical points are points on a graph where the function has local minima, maxima, or saddle points, occurring where the derivative \( f'(x) = 0 \) or where \( f'(x) \) is undefined. <!--ID: 1699034563131--> ENDI
+- STARTI [Basic] Question: What does the Extreme Value Theorem state? Back: The Extreme Value Theorem states that if a function \( f(x) \) is continuous on a closed interval \([a,b]\), then \( f(x) \) attains both a global maximum and minimum on that interval. <!--ID: 1699034563137--> ENDI
+- STARTI [Basic] Question: How does Fermat's Theorem relate to finding local extrema? Back: Fermat's Theorem states that if \( f(x) \) has a local extremum at \( x = c \) and \( f'(c) \) exists, then \( f'(c) = 0 \). It helps in pinpointing where local maxima and minima can occur. <!--ID: 1699034563142--> ENDI
+- STARTI [Basic] Question: What does the Mean Value Theorem guarantee? Back: The Mean Value Theorem guarantees that if \( f(x) \) is continuous on \([a, b]\) and differentiable on \((a, b)\), there exists at least one point \( c \) in \((a, b)\) where \( f'(c) = \frac{f(b) - f(a)}{b - a} \), indicating an instantaneous rate of change equal to the average rate of change over that interval. <!--ID: 1699034563149--> ENDI
+- STARTI [Basic] Question: What is Rolle's Theorem and how is it a special case of the Mean Value Theorem? Back: Rolle's Theorem is a special case of the Mean Value Theorem where \( f(a) = f(b) \). It states that there exists at least one point \( c \) in \( (a, b) \) such that \( f'(c) = 0 \), indicating a horizontal tangent exists at some point when the function values at the endpoints are equal. <!--ID: 1699034563155--> ENDI
+- STARTI [Basic] Question: How do you determine intervals of increase and decrease for a function? Back: To find where the function is increasing or decreasing, find the critical points by solving \( f'(x) = 0 \). Classify these points into intervals and pick a test point within each interval to determine the sign of \( f'(x) \). <!--ID: 1699034563160--> ENDI
+- STARTI [Basic] Question: How can you classify a critical point as a local maximum or minimum? Back: A critical point is a local maximum if \( f'(x) > 0 \) before and \( f'(x) < 0 \) after it. It's a local minimum if \( f'(x) < 0 \) before and \( f'(x) > 0 \) after the critical point. <!--ID: 1699034563166--> ENDI
+- STARTI [Basic] Question: What does the concavity of a function tell you and how do you test for it? Back: Concavity indicates the "direction" of a curve. A function is concave up where \( f''(x) > 0 \) and concave down where \( f''(x) < 0 \). To test for concavity, you check the sign of the second derivative \( f''(x) \). <!--ID: 1699034563173--> ENDI
+- STARTI [Basic] Question: What is a point of inflection and its significance in graph sketching? Back: A point of inflection is where the concavity of the function changes, and is identified where \( f''(x) = 0 \) or is undefined. These points are important in graph sketching as they indicate a change in the "bending direction" of the graph. <!--ID: 1699034563178--> ENDI
+- STARTI [Basic] Question
 ## Weeks Content
 ### Week 1
 [[MTH1002_Notes_1.pdf]]
@@ -136,3 +148,9 @@ ___
 
 [[MTH1002_Coursework.pdf]]
 [[Calculus Coursework 1]]
+___
+### Week 6s
+![[MTH1002_Notes_6.pdf]]
+[[MTH1002_Calculus_Practical_6.pdf]]
+
+[[Answers to Calculus Practical 6]]

@@ -39,7 +39,7 @@ def count_white_pixels(image_path: Path | str, white_threshold: int = 210) -> in
 
 
 def main():
-    input_file = Path("C:\\Users\\wills\\OneDrive\\Desktop\\Q4 and Q5 ATTEMPTS\\architecture.jpg")
+    input_file = Path("C:\\Users\\wills\\Documents\\GitHub\\digital-garden\\content\\Q4 and Q5 ATTEMPTS\\architecture.jpg")
     pixel_count = count_pixels(input_file)
     white_pixel_count = count_white_pixels(input_file)
 

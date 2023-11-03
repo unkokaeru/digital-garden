@@ -21,7 +21,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas, Room 3303
 - **[Mechanics](Classical%20Mechanics.md)** (*taught by Theodoros*):
 		- Pre-requisite(s): [Calculus](MTH1002%20Calculus) & [Vectors](MTH1008%20Personal%20Tutoring).
 	- [x] [[Motion in one, two and three dimensions]].
-	- [ ] Newton's laws.
+	- [x] [[Newton's laws]].
 	- [ ] Work, kinetic and potential energy.
 	- [ ] Conservation laws.
 	- [ ] Rotation and angular momentum.
@@ -231,6 +231,14 @@ University::PHY1002 Geometrical Optics, Waves, and Mechanics
 - STARTI [Basic] Question: Find the resultant velocity of a plane heading due east at 150 km/h with a wind blowing from the north at 50 km/h. Back: Using vector addition, the resultant velocity can be found using the Pythagorean theorem. <!--ID: 1698228596214--> ENDI
 - STARTI [Basic] Question: Find the position of a drone after 5 seconds that starts at point A(2,3,4) and moves with a velocity of \( \mathbf{v} = \langle 3, -2, 1 \rangle \text{ m/s} \). Back: The new position is determined by \( B(x,y,z) = A + 5\mathbf{v} \). <!--ID: 1698228596226--> ENDI
 - STARTI [Basic] Question: Find the particle's acceleration at t = 2 seconds given by \( \mathbf{v}(t) = \langle t^2, 2t, 3t^3 \rangle \text{ m/s} \). Back: Acceleration is the derivative of the velocity function, \( \mathbf{a}(t) = \frac{d\mathbf{v}}{dt} \). Compute the derivative and evaluate at \( t = 2 \) seconds. <!--ID: 1698228596237--> ENDI
+- STARTI [Basic] Question: What does Newton's First Law state? Back: Newton's First Law states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force. This property is known as inertia. <!--ID: 1699032189259--> ENDI
+- STARTI [Basic] Question: How can Newton's Second Law be expressed mathematically? Back: Newton's Second Law can be expressed as \(\vec{F} = m\vec{a}\), where \(\vec{F}\) is the force applied, \(m\) is the mass of the object, and \(\vec{a}\) is the acceleration. <!--ID: 1699032189276--> ENDI
+- STARTI [Basic] Question: What does Newton's Third Law state? Back: Newton's Third Law states that for every action, there is an equal and opposite reaction. Mathematically, this can be expressed as \(\vec{F}_{12} = -\vec{F}_{21}\), where \(\vec{F}_{12}\) is the force applied by object 1 on object 2, and \(\vec{F}_{21}\) is the force applied by object 2 on object 1. <!--ID: 1699032189282--> ENDI
+- STARTI [Basic] Question: What is an orthonormal frame? Back: An orthonormal frame is a set of vectors in a vector space that are mutually orthogonal (perpendicular to each other) and all of unit length, forming a basis for the space. <!--ID: 1699032189289--> ENDI
+- STARTI [Basic] Question: What are the conditions for a set of vectors to be orthonormal? Back: The conditions for a set of vectors to be orthonormal are orthogonality (\(\vec{e}_i \cdot \vec{e}_j = 0\) for \(i \neq j\)) and normality (\(\|\vec{e}_i\| = 1\) for all \(i\)). <!--ID: 1699032189294--> ENDI
+- STARTI [Basic] Question: How do you express a vector in an orthonormal frame? Back: A vector \(\vec{v}\) can be expressed in an orthonormal frame as \(\vec{v} = v^1\vec{e}_1 + v^2\vec{e}_2 + ... + v^n\vec{e}_n\), where \(v^i\) are the components of \(\vec{v}\) in this basis. <!--ID: 1699032189300--> ENDI
+- STARTI [Basic] Question: What simplifies about a matrix representing a transformation in an orthonormal frame? Back: The matrix representing a transformation in an orthonormal frame will be orthogonal, meaning its inverse is simply its transpose, which simplifies computations. <!--ID: 1699032189306--> ENDI
+- STARTI [Basic] Question: How do you find the components of a vector in an orthonormal basis? Back: The components \(v^i\) of a vector \(\vec{v}\) in an orthonormal basis are found by projecting \(\vec{v}\) onto the basis vectors: \(v^i = \vec{v} \cdot \vec{e}_i\). <!--ID: 1699032189312--> ENDI
 ## Weeks Content
 ### Week 1
 [[Wk1_optics.pdf]]
@@ -264,7 +272,13 @@ ___
 [[Answers to Mechanics Practical 1]]
 ___
 ### Week 5
-![[Week5_Lect.pdf]]
-![[Practical2.pdf]]
+[[Week5_Lect.pdf]]
+[[Practical2.pdf]]
 
 [[Answers to Mechanics Practical 2]]
+___
+### Week 6
+![[Week6_Lect.pdf]]
+![[Practical34bis.pdf]]
+
+[[Answers to Mechanics Practical 3]]

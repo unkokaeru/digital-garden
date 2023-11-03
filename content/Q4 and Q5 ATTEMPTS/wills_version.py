@@ -30,7 +30,7 @@ def count_white_pixels(image_path: str) -> int:
 
         return num_white_pixels
 
-input_file = Path("C:\\Users\\wills\\OneDrive\\Desktop\\Q4 and Q5 ATTEMPTS\\architecture.jpg")
+input_file = Path("C:\\Users\\wills\\Documents\\GitHub\\digital-garden\\content\\Q4 and Q5 ATTEMPTS\\architecture.jpg")
 
 pixelCount = count_pixels(input_file)
 whitePixelCount = count_white_pixels(input_file)

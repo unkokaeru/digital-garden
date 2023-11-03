@@ -1,0 +1,6 @@
+- Hobbies (outside the cottage)
+	- [[Craft]]
+	- [[Chess]]
+	- Games
+	- Programming (link with MATLAB etc.)
+	- Reading (link with antilibrary [[Reading Log]])

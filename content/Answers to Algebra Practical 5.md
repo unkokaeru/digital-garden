@@ -114,7 +114,7 @@ $$
 \implies (13)(79)(7)(139)=999271
 $$
 $$
-\implies999271=79\cdot13^3\cdot7:\text{these are prime}\space\square
+\implies999271=139\cdot79\cdot13\cdot7:\text{these are prime}\space\square
 $$
 #### Question 5
 ##### Question 5a
@@ -161,7 +161,7 @@ $$
 $$
 (x^{100}+2x^6+1)=(x-1)(x^{100}+x^{99}+x^{98}+\cdots+x^6+3x^5+3x^4+\cdots+3x+3)+4
 $$
-#### Question 7
+#### Question 7 (may be incorrect)
 Using the following points,
 $$
 f(-1)=-7,\quad f(0)=-3,\quad f(1)=-3,\quad f(2)=-1

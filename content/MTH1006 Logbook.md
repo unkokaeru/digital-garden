@@ -383,7 +383,59 @@ $$
  - *I did some independent work this week, too, for example learning about sprintf/fprintf which has really helped, as well as integrating the commands into my Anki workflow as flashcards so I don't forget them.*
  - *A good week for MATLAB!*
  - *I also completed my MATLAB Coursework this week, which was quite fun!*
+---
+## Week 5 (30/10/2023 - 05/11/2023)
+### Summary
+- I delved into complex mathematical calculations using nested loops, focusing on controlling the iteration criteria.
+- I experimented with conditional branching by customizing a script. I manipulated case-based responses to different input variables.
+- I explored conditional looping, gaining insights into loop termination conditions and avoiding infinite loops. I also applied these concepts to previous exercises for a deeper understanding.
+### Exercises
+#### 6.1 Nested loops
+[[Nested Loops Code Output (MATLAB)]]
+##### Exercise 1
+**(a)** Calculate $10 \sum_{n=1}^{10} 4 \sum_{m=1}^{10} nx^m$ for $x = 0.4$ using a nested `for` loop.
 
+**(b)** Modify the loop to exclude the terms with $n = 7$.
+#### 6.2 Switch Statements
+[[Switch Statements Code Output (MATLAB)]]
+##### Exercise 1
+1. Download the script `switch_test.m` from Blackboard, learning materials.
+    - **(a)** At the beginning of the script, set a variable called `number_of_countries` to a number, signifying the number of countries in the UK.
+    - **(b)** Modify the script so that the correct answer is 4 and not 5.
+    - **(c)** Add another switch option, if the answer is 5: `'The answer is slightly lower'`.
+    - **(d)** Add another switch option, if the answer is -1 or -2: `'The answer cannot be negative!'`. Use the construct with `{}`.
+    - **(e)** Test the script for all possible pathways of execution.
+##### Exercise 2
+- Create a script that:
+  - Sets the variable `name` to a certain value.
+  - By using a `switch` statement, display appropriate messages based on the name.
+	  - If it is your own name, display ’Hello, myself’.
+	  - If it is one of your neighbour’s name, display: ’Hello, neighbour!’.
+	  - If it is any other name, display: ’Hello, Stranger’.
+	  - If it is either your surname or your neighbour surname, display: ’Hello, you should have entered your first name’. 
+  - Test it for all five cases
+##### Exercise 3
+**(a)** Write a function that tests whether an input argument string is a certain letter. If the input string is anything other than a `'Q'`, it prints an error message.
+  
+**(b)** Create a function with a `switch` statement. Test whether the input argument is either 1, 3, or 5, and display the corresponding textual number. If the input is something else, show the message ’Invalid value for the input argument. Test it by calling the function from a script.
+#### 6.3 While loop
+[[While Loop Code Output (MATLAB)]]
+##### Exercise 1
+- Given the following loop: `while x < 20 action end`
+  - **(a)** For what value of $x$ would the action be skipped entirely? *20*
+  - **(b)** What would the action have to include to prevent an infinite loop if $x$ starts at 5? *incrementing x, such that the code would be*  `x = x + 1`  *after init. x*  `x = 5`.
+##### Exercise 2
+- Repeat exercise 5.2.1 but now with a `while` loop.
+##### Exercise 3
+- Repeat exercise 6.1.1a but now with a nested `while` loop.
+##### Exercise 4
+**(a)** Calculate $\sum_{k=1}^{m} k^2$ where $m$ is an integer that makes the sum just exceed 100,000. Hint: use a `while` loop.
+  
+**(b)** Convert the script into a function with input and output arguments.
+
+**(c)** Modify the function so it returns $m$ that doesn't make the sum exceed a certain number (e.g., 100,000).
+### Reflection
+ - The session was okay, again more of the same - the Anki has definitely helped!
 ---
 (Continue in the same format for the remaining weeks)
 

@@ -21,8 +21,8 @@ Colored hand-drawn illustration with soft, fuzzy linework, showcasing a tranquil
 Given the following notes, please produce flashcards in the specified format:
 
 Flashcard format:
-STARTI [Basic] Question: {Question} Back: {Answer}. <!--ID: 1698051503619--> ENDI
-STARTI [Basic] Question: {Question} Back: {Answer}. <!--ID: 1698149019523--> ENDI
+STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
+STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
 STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
 STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
 STARTI [Basic] Question: {Question} Back: {Answer}. ENDI
@@ -41,6 +41,7 @@ Notes:
 Compose an Obsidian note on the specified topic(s), tailored for a first-year undergraduate maths student. Incorporate LaTeX code where possible, using `\frac` and other commands as appropriate. For inline LaTeX equations, enclose with single dollar signs `$...$`, and for centered block equations, use double dollar signs `$$...$$`.
 
 Topics:
+
 
 ```
 

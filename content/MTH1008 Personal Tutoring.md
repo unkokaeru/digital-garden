@@ -150,3 +150,6 @@ $$
 # Tutorial Week 5: Arbitrary Bases and Limits
 ![[Tutorial_week_5.pdf]]
 ![[Tutorial_5.pdf]]
+# Tutorial Week 6: Calculus and Algebra
+[[Tutorial_7.pdf]]
+[[Algebra_Tutorial_week_6.pdf]]

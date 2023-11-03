@@ -12,7 +12,7 @@ Refer to the following links for my workout routines and templates:
 - [Workout Day Template](./Workout%20Day%20Template)
 - [Workout Day Frontmatter Template](./Workout%20Day%20Frontmatter%20Template)
 
-[[Gym History]]
+[[Gym Log]]
 
 ### Warm-up Sets and Formulas
 

@@ -2,7 +2,7 @@
 title: Knowledge Cottage Introduction :)
 showToc: "false"
 ---
-[[Personal Philosophical Haikus]]
+[[My Haikus]]
 
 [[Morning Briefings]]
 # 🏡 Knowledge Cottage, an organised mess
@@ -24,7 +24,7 @@ Their principles of association, organic growth, and interconnected knowledge ha
 
 From the yellowed pages of a [[Cooking|stained cookbook]], filled with savoured memories of my culinary journey, to the [[Wardrobe and Kitchen Contents|bustling pantry stacked with jars of homemade, fragrant preserves]], a catalogue of my wardrobe and kitchen; the timeworn study beckons you to uncover its secrets, each nook and corner teeming with tales as unique and distinct as the faded ink that records them.
 
-Venture into the study, where a [[Academic Notes|worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[Reading Log|ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
+Venture into the study, where a [[Mathematics|worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[Reading|ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
 
 The harmonious rhythm of the study doesn't end there. Lying atop the polished oak table, the [[Music Management|gilded music box]] tinkles with melodies old and new, a meticulous archive of my musical journeys and orchestrations, managed with great care.
 
@@ -32,7 +32,7 @@ Behind a well-worn drawer, you'll find the [[University Finances|leather-bound c
 
 In the cosy corner of the study, a [[Vinyls|vintage record player, spinning melodious tales]], houses my cherished vinyl collection. Adjacent to it, you'll find the [[Games|well-loved game cabinet]], brimming with tales of friendly competition and shared amusement.
 
-The cottage even holds a record of my language learning journey, etched into [[Language Learning (Computing & Foreign)|ancient hieroglyphics, whispering forgotten tales]]. The [[Health|vintage blackboard, covered in scribbles, leaning against the wall]], serves as a simple health log, while the [[Craft|creaky drawer, bulging with dusty photographs]], reveals what I've learned about crafts, particularly crochet. 
+The cottage even holds a record of my language learning journey, etched into [[Language|ancient hieroglyphics, whispering forgotten tales]]. The [[Health|vintage blackboard, covered in scribbles, leaning against the wall]], serves as a simple health log, while the [[Craft|creaky drawer, bulging with dusty photographs]], reveals what I've learned about crafts, particularly crochet. 
 
 And let's not forget the [[Failure Resume|neglected bin, overflowing with discarded dreams and faded hopes]], my very own failure resume. 
 
@@ -45,7 +45,7 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 - [ ] Pack my suitcase with the gingerbread kit, the bag under my desk, the green fluffy blanket, my terrarium, Rose n' rope, nose hair trimmer, physical flashcards, and importantly: lots of spare room!
 - [ ] Buy some mirin.
 - [ ] Re-write the timeworn study for organisation and practicality, as well as updating the existing notes and introducing a [[Chess]] area.
-- [ ] Re-write all of my [[Academic Notes]], including providing mid-term cheat sheets.
+- [ ] Re-write all of my [[Mathematics]], including providing mid-term cheat sheets.
 - [ ] Create physical flashcards for key memory points for my mid-terms.
 - [ ] Catch up on [[Music Management]].
 - [ ] Catch up on my Anki cards.

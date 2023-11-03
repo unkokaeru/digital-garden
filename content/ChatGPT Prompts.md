@@ -15,7 +15,7 @@ Colored hand-drawn illustration with gentle, fuzzy linework of a Japanese forest
 ```
 Colored hand-drawn illustration with soft, fuzzy linework, showcasing a tranquil Japanese zen garden during twilight. Neutral shades of gray, beige, and muted greens dominate the scene. Personified sushi characters meditate amidst the raked sand patterns. A sushi roll with a gentle expression sits by a reflecting pool, while a tuna nigiri with a face contemplates under a minimalist stone lantern.
 ```
-# [[Academic Notes]] Optimisation
+# [[Mathematics]] Optimisation
 ## Flashcards
 ```
 Given the following notes, please produce flashcards in the specified format:

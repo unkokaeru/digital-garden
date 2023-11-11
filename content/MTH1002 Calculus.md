@@ -149,8 +149,15 @@ ___
 [[MTH1002_Coursework.pdf]]
 [[Calculus Coursework 1]]
 ___
-### Week 6s
-![[MTH1002_Notes_6.pdf]]
+### Week 6
+[[MTH1002_Notes_6.pdf]]
 [[MTH1002_Calculus_Practical_6.pdf]]
 
 [[Answers to Calculus Practical 6]]
+___
+### Week 8
+[[MTH1002_Notes_7.pdf]]
+[[MTH1002M_Calculus_Practical_7.pdf]]
+
+[[Answers to Calculus Practical 7]]
+___

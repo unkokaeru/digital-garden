@@ -1,0 +1,22 @@
+*An outline of the main parts of my Vault.*
+
+- [[Welcome to the Knowledge Cottage]]: Personal Research
+	- [[Sleep]] *add a sleep journal*
+	- [[Philosophy and Psychology]] *filter in relevant [[Side Quests]] and existing random notes, [[random thoughts]] too*
+	- [[Mathematics]] *re-write completely*
+	- [[Language]] *plan a language learning journey with milestones*
+	- [[Health]] *add fitness plans, fitness research*
+	- [[Cooking]] *add food plans, cooking research*
+	- [[Pedagogy]] *implement into a single system, again - add to it, also*
+- [[Chess Garden by the Cottage]]: Hobbies
+	- [[Craft]] *do more crochet!*
+	- [[Chess]] *add into my daily workflow*
+	- [[Programming]] *add my projects into here, incl. computer algebra course work*
+	- [[Reading]] *add books, set reading goals, log reading progress, take out books*
+- [[Guardian of the Lore]]: Personal Philosophy
+	- [[My Haikus]]
+	- [[Failure Resume]]
+- [[The Trail of Whispers]]: External-Facing Pages
+	- [[Music Management]] *listen to the music there*
+	- [[Descriptions]]
+- [[The Scholar's Ledger]]: To-Do List (etc.)

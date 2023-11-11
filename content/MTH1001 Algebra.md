@@ -215,8 +215,18 @@ ___
 [[Answers to Algebra Practical 5]]
 ___
 ### Week 6
-![[Algebra_slides_week_06_handout.pdf]]
+[[Algebra_slides_week_06_handout.pdf]]
 [[Algebra_notes_week_06.pdf]]
 [[Practical_6.pdf]]
 
 [[Answers to Algebra Practical 6]]
+___
+### Week 8
+[[Algebra_slides_week_08_handout.pdf]]
+[[Algebra_notes_week_08.pdf]]
+[[Practical_8.pdf]]
+
+[[Answers to Algebra Practical 7]]
+___
+### Week 9
+[[Practical_9.pdf]]

@@ -1,3 +1,5 @@
+**Project abandoned because GPTs were just released, which are now powerful enough to do this all by themselves**
+
 ![[morning-briefing.py]]
 
 ```ccard

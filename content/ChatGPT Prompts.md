@@ -1,3 +1,4 @@
+Now stored in [[GPT Instructions]], after the new update by OpenAI.
 # Morning Briefings
 *Break this into parts to try and fix overloading the model!!*
 ```

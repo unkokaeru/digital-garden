@@ -19,8 +19,6 @@
 
 - **♟️ [[Chess]]**: Command the chessboard, where each piece moves with purpose and strategy reigns supreme. Here, every game is a silent conversation, a battle of wits and patience.
 
-- **🎲 [[Games]]**: Dive into the realm of games, where virtual worlds await to be conquered and the heart races with every turn of the card or roll of the dice.
-
 - **💻 [[Programming]]**: Forge the bridge between logic and creativity. Let each line of code you write with tools like MATLAB unlock new efficiencies and solutions.
 
 - **📖 [[Reading]]**: Journey through the pages of the unexplored—the antilibrary, where each unread book holds a universe of knowledge. Chart your voyages in the [[reading]] log, a testament to the wisdom yet to be discovered.

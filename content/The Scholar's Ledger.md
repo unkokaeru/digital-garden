@@ -1,12 +1,14 @@
+![[new-morning-briefing.py]]
 ## 📜 Quest Log
 [[Side Quests]]
-- [ ] BREAKFAST BURRITOS!!! (Go shopping)
-- [ ] Barclays £175 switch incentive.
+- [ ] Go shopping (burritos? AA batteries? Loads of Quorn? Frozen fruit/veg?)
 - [ ] Re-write [[Mathematics]]: mid-term cheat sheets (like [[MID-TERM 1 (Algebra)]]), physical flashcards.
 - [ ] Do some extra reading and practice for [[MTH1002 Calculus]], [[MTH1001 Algebra]], and [[PHY1002 Geometrical Optics, Waves, and Mechanics]]; combine the new knowledge into the existing notes.
 - [ ] Work on the tasks in the [[Vault Overview]].
-- [ ] Create a legend: Slave -> Overlord (Shadow of War): [Link to idea](https://www.youtube.com/watch?v=CvStjvWMXQ0)
-- [ ] Re-vamp [[Daily Note Template]] and my Google Calendar with [Honeyman Method](https://www.youtube.com/watch?v=JQFZNQS6eQ0) (note that I've learned of this before she conceived of the idea, so I'm not sure who to attribute it to - I've forgotten where I learned it): [[possible routines]].
+- [ ] Do [[this]] for revision.
+- [ ] Habit tracker into my morning briefing? If so, what habits?
+- [ ] Driving test revision.
+- [ ] Add £28/3 months for Gruum into Revolut
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index)
 ___

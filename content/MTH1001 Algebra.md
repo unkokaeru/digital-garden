@@ -222,8 +222,8 @@ ___
 [[Answers to Algebra Practical 6]]
 ___
 ### Week 8
-[[Algebra_slides_week_08_handout.pdf]]
-[[Algebra_notes_week_08.pdf]]
+![[Algebra_slides_week_08_handout.pdf]]
+![[Algebra_notes_week_08.pdf]]
 [[Practical_8.pdf]]
 
 [[Answers to Algebra Practical 7]]

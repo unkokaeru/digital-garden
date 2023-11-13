@@ -1,3 +1,5 @@
+ok but do this in python with the api: [[new-morning-briefing.py]]
+
 ```GPT-4-Turbo
 # Morning Briefing ({insert date here})
 *{insert weather here, current and for the rest of the day}*

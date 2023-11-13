@@ -1,4 +1,6 @@
->Haiku
+Start your day with one of these [[possible routines]]!
+
+>	Haiku
 
 **Biggest takeaway from today:** ...
 [[Daily Note Generation]]

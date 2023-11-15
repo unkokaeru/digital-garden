@@ -3,7 +3,7 @@
 - [[Welcome to the Knowledge Cottage]]: Personal Research
 	- [[Sleep]] *add a sleep journal*
 	- [[Philosophy and Psychology]] *filter in relevant [[Side Quests]] and existing random notes, [[random thoughts]] too*
-	- [[Mathematics]] *re-write completely*
+	- [[Mathematics]] *re-write completely (mid-term cheat sheets, physical flashcards?)*
 	- [[Language]] *plan a language learning journey with milestones*
 	- [[Health]] *add fitness plans, fitness research*
 	- [[Cooking]] *add food plans, cooking research*

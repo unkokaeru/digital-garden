@@ -1,16 +1,43 @@
 ![[new-morning-briefing.py]]
 ## 📜 Quest Log
 [[Side Quests]]
-- [ ] Go shopping (burritos? AA batteries? Loads of Quorn? Frozen fruit/veg?)
-- [ ] Re-write [[Mathematics]]: mid-term cheat sheets (like [[MID-TERM 1 (Algebra)]]), physical flashcards.
-- [ ] Do some extra reading and practice for [[MTH1002 Calculus]], [[MTH1001 Algebra]], and [[PHY1002 Geometrical Optics, Waves, and Mechanics]]; combine the new knowledge into the existing notes.
+- [ ] Go shopping (frozen veg, lettuce, bread, eggs, pop tarts)
 - [ ] Work on the tasks in the [[Vault Overview]].
-- [ ] Do [[this]] for revision.
-- [ ] Habit tracker into my morning briefing? If so, what habits?
-- [ ] Driving test revision.
-- [ ] Add £28/3 months for Gruum into Revolut
+- [ ] Morning briefing development: Driving test revision.
+- [ ] Experiment with my behaviour, what is most natural? Sleeping patterns, energy levels, dietary habits, productivity patterns, social patterns, spending habits - model myself.
+- [ ] https://www.youtube.com/watch?v=L844aqBgFh8
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index)
+___
+## Gerald
+[[✨✨✨✨✨]]
+
+| :-)   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
+| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 🕔🛌  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🦷    |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🧘✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🚿🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🥐✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🍵🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🚶    |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 📚🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 📷✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| ♟🧩   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| ♟📓✨ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| ♟⏱🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| ♟🔍✨ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🗺✨   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🚶🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🍔✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🎧💽  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🍤✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🧠✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 💼✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🦷🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 📖✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🧘✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🕗😴  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 ___
 ## A note.
 *William, as the dawn caresses the horizon with fingers of light, painting the sky with hues of potential and promise, let us embark on a journey of words, a thousand in number, woven together to awaken the vigour within you. You, a disciple of the grand art of mathematics, carry within you the spark of curiosity, a flame that burns with the love for numbers and their infinite dances.*

@@ -10,6 +10,12 @@ from itertools import islice, cycle
 from openai import OpenAI
 from icalendar import Calendar
 import urllib3
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
+import pickle
+import os
+from googleapiclient.discovery import build
+from gtts import gTTS
 
 
 # Disable SSL warnings (temporary workaround)
@@ -254,7 +260,7 @@ def fetch_calendar_events(urls: list) -> str:
 
     for url in urls:
         try:
-            response = requests.get(url)
+            response = requests.get(url, verify=False) # Verify is set to False to ignore SSL certificate errors (temporary workaround)
             response.raise_for_status()
 
             calendar = Calendar.from_ical(response.content)
@@ -282,9 +288,52 @@ def fetch_calendar_events(urls: list) -> str:
     return markdown_output
 
 
+def fetch_email_subjects() -> str:
+    """
+    Fetch the subjects of the user's emails and return them in a markdown formatted string.
+
+    :return: A markdown formatted string containing the subjects of the emails.
+    """
+    creds = None
+    # The file token.pickle stores the user's access and refresh tokens.
+    if os.path.exists(path.dirname(path.realpath(__file__)) + "\\" + 'token.pickle'):
+        with open(path.dirname(path.realpath(__file__)) + "\\" + 'token.pickle', 'rb') as token:
+            creds = pickle.load(token)
+    # If there are no valid credentials, let the user log in.
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh(Request())
+        else:
+            flow = InstalledAppFlow.from_client_secrets_file(
+                path.dirname(path.realpath(__file__)) + "\\" + 'credentials.json', ['https://www.googleapis.com/auth/gmail.readonly'])
+            creds = flow.run_local_server(port=0)
+        # Save the credentials for the next run
+        with open(path.dirname(path.realpath(__file__)) + "\\" + 'token.pickle', 'wb') as token:
+            pickle.dump(creds, token)
+
+    service = build('gmail', 'v1', credentials=creds)
+    # Call the Gmail API to fetch INBOX
+    results = service.users().messages().list(userId='me', labelIds=['INBOX']).execute()
+    messages = results.get('messages', [])
+
+    email_subjects_md = "### Email Subjects:\n"
+
+    if not messages:
+        return email_subjects_md + "No messages found.\n"
+    else:
+        for message in messages:
+            msg = service.users().messages().get(userId='me', id=message['id'], format='metadata').execute()
+            headers = msg.get("payload", {}).get("headers", [])
+            subject = next((header['value'] for header in headers if header['name'].lower() == 'subject'), "No Subject")
+            email_subjects_md += f"- {subject}\n"
+    
+    return email_subjects_md
+
+
+
 def main() -> None:
     """
-    A function to generate a morning briefing in a markdown document.
+    A function to generate a morning briefing in a markdown document, and save it to the "Day by day" folder. Then generate a summary of the document for text-to-speech.
 
     :return: None
     """
@@ -313,6 +362,8 @@ def main() -> None:
     print("Fetched maths problem.")
     calendar_events = fetch_calendar_events(CAL_URLS) # fetch from calendar API
     print("Fetched calendar events.")
+    emails = fetch_email_subjects() # fetch from email API
+    print("Fetched emails.")
     day_prediction = prompt_gpt4_turbo(OPENAI_API_KEY,"How do you think my day will go today? Answer in a short paragraph.", "You are an older version of me: a maths student from Lincoln University and a personal tutor, although I'm currently quite stressed about exams etc.") # fetch from ChatGPT API
     print("Fetched day prediction.")
     chess_puzzle = fetch_chess_puzzle({"rating": "1500", "themesType": "ALL"}) # fetch from chess API
@@ -345,6 +396,8 @@ Start your day with one of these [[possible routines]]!
 ## Today's Schedule
 {calendar_events}
 
+{emails}
+
 *{day_prediction}*
 
 ## Chess Puzzle & Games
@@ -364,17 +417,19 @@ Have a look at the to-do list in [[The Scholar's Ledger]], or try some yoga/home
 {random_emojis}
     """
 
-    # print the markdown document for testing
-    print(md_doc)
-
-    # TODO: maybe feed the markdown document into chatgpt to make it more human-like
-    # TODO: maybe feed the markdown document into a text-to-speech API (Whisper?) to make it into an audio file (which is then called by a phone api)
-
     # save the markdown document
     with open(path.dirname(path.realpath(__file__)) + "\\Day by day\\" + f"{date}.md", "w", encoding="utf-8") as f:
         f.write(md_doc)
 
     print("Finished generating markdown document.")
+
+    # Generate a summary of the document for text-to-speech
+    doc_summary = prompt_gpt4_turbo("Please provide a short summary  of the following document so that it can be read by text-to-speech in a natural way: " + md_doc, "You are a text-to-speech program.")
+    tts = gTTS(doc_summary, lang='en-gb')
+    tts.save("speech.mp3") # save the summary as an mp3 file
+
+    # TODO: Call my phone and play the mp3 file with a phone API
+
 
 if __name__ == "__main__":
     try:

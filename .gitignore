@@ -8,3 +8,4 @@ tsconfig.tsbuildinfo
 .quartz-cache
 private/
 content/Morning Briefings/morning-briefing.py
+content/credentials.json

@@ -384,7 +384,7 @@ $$
  - *A good week for MATLAB!*
  - *I also completed my MATLAB Coursework this week, which was quite fun!*
 ---
-## Week 5 (30/10/2023 - 05/11/2023)
+## Week 6 (30/10/2023 - 05/11/2023)
 ### Summary
 - I delved into complex mathematical calculations using nested loops, focusing on controlling the iteration criteria.
 - I experimented with conditional branching by customizing a script. I manipulated case-based responses to different input variables.
@@ -437,6 +437,71 @@ $$
 ### Reflection
  - The session was okay, again more of the same - the Anki has definitely helped!
 ---
+## Week 8 (13/11/2023 - 19/11/2023)
+### Summary
+#### 7.1 Paths and Programs
+- Focused on directory management and function creation in Matlab.
+- Practiced creating and using custom functions and scripts.
+- Implemented file path manipulation and command execution.
+#### 7.2 Test-riven Development
+- Developed functions with specific outputs and tested their accuracy.
+- Emphasized on debugging and validating functions using test scripts.
+- Explored test-driven development techniques in Matlab.
+### Exercises
+#### 7.1 Paths and Programs
+[[Paths and Programs Code Output (MATLAB)]]
+##### Exercise 1
+If you do not understand a certain function or command, use the Matlab help function for more information.
+- **(a)** If the user account that you use to log into the windows computer is User, then go to the folder `C:\Users\User\Documents\Matlab`, by clicking on the current folder, and replacing the text with `C:\Users\User\Documents\Matlab`. If you have used a different user name, replace User by your user name.
+- **(b)** From within the command window, create a folder called `session7`, using `mkdir`.
+- **(c)** Go to this folder within Matlab using the command `cd` (i.e., type `cd session7`).
+- **(d)** Within this folder, create a function `my_square.m` that squares the input argument number and returns as an output argument this square.
+- **(e)** Call the function from the current folder by typing in the name of the function from the command window. Make sure it is working as expected.
+- **(f)** Go to the parent folder, using `cd ..`.
+- **(g)** See if you can run the function from this folder. Matlab should respond with an error message.
+- **(h)** Go back to the `session7` folder, using again `cd`.
+- **(i)** Add the current folder to the path, making use of the functions `addpath` and `pwd`, e.g., use `addpath(pwd)`.
+- **(j)** Go to the parent folder, using the command typed in before.
+- **(k)** See if you can run the function `my_square` from this parent folder (if not, something went wrong; try to fix it).
+##### Exercise 2
+- **(a)** If you haven’t done so already, create a folder `session7`. Then go to this folder.
+- **(b)** From here, create the folders `functions` and `scripts`. Add the two folders to the path.
+- **(c)** In the folder `functions`, create a function that calculates `log3(x)`, i.e., the logarithm with base 3, and returns the result. Call the function `log3`.
+- **(d)** In the `scripts` folder, create a script that first sets a number to a certain value. Then test if the number is larger than zero. If so, calculate `log10(x)`, `log3(x)`, and `log2(x)` of the number, otherwise show an error message. Name the script `calc_logs`. For the `log3(x)` calculation, use your previously created function.
+- **(e)** From the folder `session7` call the script `calc_logs`.
+##### Exercise 3
+- **(a)** Create a function `readradius` that asks the user for a radius. The function should return this radius.
+- **(b)** Create a function `calcarea`, that has a radius as input argument and returns the area as output argument (see one of the previous exercises).
+- **(c)** Create a function `printarea`, that has a radius and area as input and uses `disp` to display "The area of a circle of radius ... equals ....".
+- **(d)** Finally, create a script that first calls `readradius`, then `calcarea` and finally `printarea`, while passing appropriate parameters for all these functions.
+#### 7.2 Test-Driven Development
+[[Test-Driven Development Code Output (MATLAB)]]
+##### Exercise 1
+Write a function `my_nexthour` that receives one integer argument, which is an hour of the day, and returns the next hour. This assumes a 12-hour clock, so for example the next hour after 12 would be 1. Here are two examples of calling this function:
+```matlab
+>> my_nexthour(3)
+ans = 4
+>> my_nexthour(12)
+ans = 1
+```
+Test your function for both these values.
+##### Exercise 2
+Download the files `test_nexthour.m` and `nexthour.m` from Blackboard and place them in a convenient folder (which is not necessarily the Downloads folder).
+- **(a)** The first `assert` test in the script file `test_nexthour.m` has an appropriate error message. Modify the two other tests, so that they also have an appropriate error message.
+- **(b)** Add appropriate pass messages after each `assert`.
+- **(c)** Modify the function `nexthour`, by editing the file `nexthour.m` and fixing the bugs in this file. The behaviour of the function `nexthour` should be the same as the previous exercise.
+- **(d)** Add an extra line in the test script, that tests if `nexthour(4)` equals 5.
+- **(e)** Add an extra line in the test script, that tests if `nexthour(12)` is smaller than 13.
+- **(f)** Now run the script `test_nexthour`, and make sure all `assert` tests pass.
+##### Exercise 3
+- **(a)** Write a function that, given a scalar `x`, returns `x^2 + 2x + 3`. Test it with `x = 0` and `x = 1`, and check your result by hand.
+- **(b)** Create a script with name `test_my_polynomial` that tests the function `my_polynomial`. Test that if this function is given the argument 0, it returns 3, and for the argument 1, it returns 6. The tests should use `assert` as in the previous exercise on `nexthour`.
+- **(c)** Write a function that, given a vector `x`, returns `x^2 + 2x + 3`, element-wise. Test it with the vector `[1, 2, 3]` and check your result by hand.
+- **(d)** How would you test this function with vector input in the script `test_my_polynomial`?
+### Reflection
+- Basically just navigating Linux and then error-handling. Overall not that exciting stuff, but definitely useful - the "assert" command is also quite interesting.
+- Not too many problems, but any problems I did have I could figure out after a short while - mostly syntax.
+___
 (Continue in the same format for the remaining weeks)
 
 ---

@@ -2,6 +2,7 @@
 from template_rendering.markdown_generator import doc_gen
 from utils.logger import get_logger
 
+# TODO: Migrate this into a separate GitHub repository
 # TODO: Add tests with pytest and pytest-cov (see tests/morning_briefing_tests.py)
 # TODO: Add Bing API integration for current data for the career information section
 # TODO: Add asynchronicity to the script (asyncio, httpx, asyncio TaskGroup)

@@ -278,7 +278,7 @@ ___
 [[Answers to Mechanics Practical 2]]
 ___
 ### Week 6
-[[Week6_Lect.pdf]]
+![[Week6_Lect.pdf]]
 [[Practical34bis.pdf]]
 
 [[Answers to Mechanics Practical 3]]

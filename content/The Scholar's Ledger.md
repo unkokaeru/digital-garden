@@ -1,11 +1,14 @@
-![[new-morning-briefing.py]]
+![[main.py]]
 ## 📜 Quest Log
-[[Side Quests]]
-- [ ] Go shopping (frozen veg, lettuce, bread, eggs, pop tarts)
-- [ ] Work on the tasks in the [[Vault Overview]].
-- [ ] Morning briefing development: Driving test revision.
-- [ ] Experiment with my behaviour, what is most natural? Sleeping patterns, energy levels, dietary habits, productivity patterns, social patterns, spending habits - model myself.
-- [ ] https://www.youtube.com/watch?v=L844aqBgFh8
+[[Side Quests]], [[Vault Overview]]
+
+- [ ] Re-write the **[[Mathematics]]** section completely, considering creating mid-term cheat sheets, physical flashcards, and possibly designing your own mathematics course.
+- [ ] Delve into **[[Philosophy and Psychology]]**, filtering in relevant **[[Side Quests]]**, notes, and **[[random thoughts]]**.
+- [ ] Plan a **[[Language]] Learning Journey** with set milestones.
+- [ ] Develop and integrate a single system for **[[Pedagogy]]**, adding to and refining it.
+- [ ] Work on **[[Programming]]** projects, including adding them to your notes and integrating your computer algebra coursework.
+- [ ] Add books to your **[[Reading]]** list, set reading goals, log reading progress, and manage your library.
+- [ ] Engage with **[[Music Management]]**, including listening to selected music.
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index)
 ___
@@ -38,6 +41,9 @@ ___
 | 📖✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 🧘✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 🕗😴  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🛑🌩   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+
+[[💤💤💤💤💤]]
 ___
 ## A note.
 *William, as the dawn caresses the horizon with fingers of light, painting the sky with hues of potential and promise, let us embark on a journey of words, a thousand in number, woven together to awaken the vigour within you. You, a disciple of the grand art of mathematics, carry within you the spark of curiosity, a flame that burns with the love for numbers and their infinite dances.*

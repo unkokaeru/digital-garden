@@ -1,0 +1,10 @@
+loaders:
+  - type: python
+    search_path: ["."]  # Adjust if your Python files are in a different directory
+
+processors:
+  - type: filter  # Filters the members to document
+  - type: smart  # Groups members by type and adds navigation
+
+renderer:
+  type: markdown

@@ -1,4 +1,3 @@
-![[main.py]]
 ## 📜 Quest Log
 [[Side Quests]], [[Vault Overview]]
 

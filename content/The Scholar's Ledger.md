@@ -2,13 +2,15 @@
 ## 📜 Quest Log
 [[Side Quests]], [[Vault Overview]]
 
-- [ ] Re-write the **[[Mathematics]]** section completely, considering creating mid-term cheat sheets, physical flashcards, and possibly designing your own mathematics course.
+- [ ] Work on [[数学の独学]].
+- [ ] Calculate current modules percentages.
 - [ ] Delve into **[[Philosophy and Psychology]]**, filtering in relevant **[[Side Quests]]**, notes, and **[[random thoughts]]**.
 - [ ] Plan a **[[Language]] Learning Journey** with set milestones.
 - [ ] Develop and integrate a single system for **[[Pedagogy]]**, adding to and refining it.
 - [ ] Work on **[[Programming]]** projects, including adding them to your notes and integrating your computer algebra coursework.
 - [ ] Add books to your **[[Reading]]** list, set reading goals, log reading progress, and manage your library.
 - [ ] Engage with **[[Music Management]]**, including listening to selected music.
+- [ ] Enrol with the European Mathematics Society (EMS): [[EMS membership application_student.docx]].
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index)
 ___
@@ -17,22 +19,22 @@ ___
 
 | :-)   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 🕔🛌  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 🦷    |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🕔🛌  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🦷    | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 🧘✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 🚿🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 🥐✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 🍵🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 🚶    |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 📚🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 📷✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🚿🤠  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🥐✨  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🍵🤠  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🚶    | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 📚🤠  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 📷✨  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | ♟🧩   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | ♟📓✨ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | ♟⏱🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | ♟🔍✨ |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 🗺✨   |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 🚶🤠  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 🍔✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🚶🤠  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 🍔✨  | X   |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 🎧💽  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 🍤✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | 🧠✨  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |

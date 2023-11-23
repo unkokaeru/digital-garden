@@ -108,3 +108,12 @@ University::MTH1006 Computer Algebra and Technical Computing
 
 [[nexthour.m]]
 [[test_nexthour.m]]
+### Week 9
+[[slides-session8.pdf]]
+[[exercises-session8.pdf]]
+
+[[fileex.m]]
+[[temp.txt]]
+[[time.txt]]
+[[sample.txt]]
+[[subjexp.txt]]

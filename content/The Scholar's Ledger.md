@@ -2,8 +2,10 @@
 [[Side Quests]], [[Vault Overview]]
 
 - [ ] Work on [[数学の独学]].
-- [ ] Calisthenics, chess, maths, tutoring, Japanese
+- [ ] Calisthenics, chess, maths, tutoring, Japanese - outline [[journeys]] on cork board, after planning here.
 - [ ] Calculate current modules percentages.
+- [ ] Look into [Summer Placements](https://express.adobe.com/page/gN33Ie7Sl7p3n).
+- [ ] Apply for the [[paid research opportunity]].
 - [ ] Delve into **[[Philosophy and Psychology]]**, filtering in relevant **[[Side Quests]]**, notes, and **[[random thoughts]]**.
 - [ ] Plan a **[[Language]] Learning Journey** with set milestones.
 - [ ] Develop and integrate a single system for **[[Pedagogy]]**, adding to and refining it.

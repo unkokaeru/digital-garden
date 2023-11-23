@@ -229,7 +229,7 @@ Today, I worked on several MATLAB exercises:
 	   - Practiced with `if` statements to evaluate and display conditions.
 	   - Developed a script to compare temperatures between two days.
 	3. **Functions**:
-	   - Completed some modules in Matlab Academy under Matlab Fundamentals.
+	   - Completed some modules in MATLAB Academy under MATLAB Fundamentals.
 	   - Created and modified a function `area_circle` to calculate the area of a circle, and adjusted it to handle different input types and scenarios.
 
 ### Exercises
@@ -258,7 +258,7 @@ Today, I worked on several MATLAB exercises:
     (e) Test the script by changing the value of $z$ in the beginning of the script to (i) a real number and (ii) an integer.
 #### 4.3 Functions
 [[Functions Code Output (MATLAB)]]
-1. Go to [Matlab Academy](https://matlabacademy.mathworks.com), login using the credentials you created during week $1$, and open the course Matlab Fundamentals. Complete:
+1. Go to [MATLAB Academy](https://MATLABacademy.mathworks.com), login using the credentials you created during week $1$, and open the course MATLAB Fundamentals. Complete:
     (a) ~~Increasing automation with functions: Creating and Calling Functions (15.1)~~
     (b) ~~Increasing automation with functions: Function Files (15.2)~~
     (c) ~~Increasing automation with functions: Workspaces (15.3)~~
@@ -440,25 +440,25 @@ $$
 ## Week 8 (13/11/2023 - 19/11/2023)
 ### Summary
 #### 7.1 Paths and Programs
-- Focused on directory management and function creation in Matlab.
+- Focused on directory management and function creation in MATLAB.
 - Practiced creating and using custom functions and scripts.
 - Implemented file path manipulation and command execution.
 #### 7.2 Test-riven Development
 - Developed functions with specific outputs and tested their accuracy.
 - Emphasized on debugging and validating functions using test scripts.
-- Explored test-driven development techniques in Matlab.
+- Explored test-driven development techniques in MATLAB.
 ### Exercises
 #### 7.1 Paths and Programs
 [[Paths and Programs Code Output (MATLAB)]]
 ##### Exercise 1
-If you do not understand a certain function or command, use the Matlab help function for more information.
-- **(a)** If the user account that you use to log into the windows computer is User, then go to the folder `C:\Users\User\Documents\Matlab`, by clicking on the current folder, and replacing the text with `C:\Users\User\Documents\Matlab`. If you have used a different user name, replace User by your user name.
+If you do not understand a certain function or command, use the MATLAB help function for more information.
+- **(a)** If the user account that you use to log into the windows computer is User, then go to the folder `C:\Users\User\Documents\MATLAB`, by clicking on the current folder, and replacing the text with `C:\Users\User\Documents\MATLAB`. If you have used a different user name, replace User by your user name.
 - **(b)** From within the command window, create a folder called `session7`, using `mkdir`.
-- **(c)** Go to this folder within Matlab using the command `cd` (i.e., type `cd session7`).
+- **(c)** Go to this folder within MATLAB using the command `cd` (i.e., type `cd session7`).
 - **(d)** Within this folder, create a function `my_square.m` that squares the input argument number and returns as an output argument this square.
 - **(e)** Call the function from the current folder by typing in the name of the function from the command window. Make sure it is working as expected.
 - **(f)** Go to the parent folder, using `cd ..`.
-- **(g)** See if you can run the function from this folder. Matlab should respond with an error message.
+- **(g)** See if you can run the function from this folder. MATLAB should respond with an error message.
 - **(h)** Go back to the `session7` folder, using again `cd`.
 - **(i)** Add the current folder to the path, making use of the functions `addpath` and `pwd`, e.g., use `addpath(pwd)`.
 - **(j)** Go to the parent folder, using the command typed in before.
@@ -478,7 +478,7 @@ If you do not understand a certain function or command, use the Matlab help func
 [[Test-Driven Development Code Output (MATLAB)]]
 ##### Exercise 1
 Write a function `my_nexthour` that receives one integer argument, which is an hour of the day, and returns the next hour. This assumes a 12-hour clock, so for example the next hour after 12 would be 1. Here are two examples of calling this function:
-```matlab
+```MATLAB
 >> my_nexthour(3)
 ans = 4
 >> my_nexthour(12)
@@ -501,6 +501,71 @@ Download the files `test_nexthour.m` and `nexthour.m` from Blackboard and place 
 ### Reflection
 - Basically just navigating Linux and then error-handling. Overall not that exciting stuff, but definitely useful - the "assert" command is also quite interesting.
 - Not too many problems, but any problems I did have I could figure out after a short while - mostly syntax.
+___
+To convert the exercises from session 8 of your document into the requested format, I'll first summarize the content of the exercises under the new headers and then format them accordingly.
+
+## Week 9 (20/11/2023 - 26/11/2023)
+### Summary
+#### 8.1 File I/O
+- Focused on file input/output operations in MATLAB.
+- Learned to read from and write to files, and practiced data manipulation from file data.
+- Developed skills in plotting data from files and reversing data sequences in files.
+#### 8.2 Scope
+- Explored the scope of variables in MATLAB, particularly in the context of user-defined functions and command prompt interactions.
+- Investigated how local variables behave differently in scripts and functions.
+#### 8.3 Debugging
+- Practiced debugging techniques in MATLAB.
+- Worked with breakpoints, conditional breakpoints, and monitored variable changes during script execution.
+### Exercises
+#### 8.1 File I/O
+[[File IO Code Output (MATLAB)]]
+##### Exercise 1
+- **(a)** Create the folder `session8`, and make this the current MATLAB work directory (you could use `cd`).
+- **(b)** Download both the files `time.txt` and `temp.txt` (they are in the aforementioned .zip file) and put them in this folder.
+- **(c)** Create a script, where you load each file in a variable, using `load` (twice). Finally, plot the time of the day in hours vs the temperature of a human in degrees Celsius.
+##### Exercise 2
+- **(a)** Download the file `sample.txt` from Blackboard (this is in the aforementioned .zip file) and put it in your current MATLAB work directory.
+- **(b)** Create a script named `reverse_script.m` that does the following:
+    - **(i)** Set a string that signifies an input filename in the variable `inputfilename`.
+    - **(ii)** Set a string that signifies an output filename in the variable `outputfilename`.
+    - **(iii)** Reads the data in the input file into a vector (make use of the `load` command and the variable `inputfilename`).
+    - **(iv)** Reverse the order of the vector (i.e., [1,4,6] should become [6,4,1]), using the `(end:-1:1)` indexing method on your vector variable.
+    - **(v)** Writes the vector to the output file in plain text. You can use the `save` command for writing the output file with name `outputfilename`. A plain text file in MATLAB is known as ASCII encoding, and can be selected using the option `-ascii` with `save`, see help.
+- **(c)** Run your script with the input file `sample.txt` and output file `reversed.txt`. Check the contents of the output file by opening it in Microsoft Word or by using `type reversed.txt` in MATLAB.
+- **(d)** Run it with input file `reversed.txt` and now output file `double_reversed.txt`. Check that the original file is restored, by opening both `sample.txt` and `double_reversed.txt`.
+- **(e)** Create a function named `reverse_function.m` that has two input arguments: `inputfilename` and `outputfilename` and has no output arguments. The function should do the same as the `reverse_script.m` (except now the lines with the string variables that appeared in your script are now input parameters for the function). Also test this function by calling it from the MATLAB command line, i.e., `reverse_function('sample.txt', 'sample_reversed.txt')` and check if the output file contains the expected data.
+##### Exercise 3
+- **(a)** Download the script `fileex.m` from Blackboard (this is in the aforementioned .zip file). Open a file with name `subjexp.txt` by typing `edit subjexp.txt` at the MATLAB prompt.
+- **(b)** Modify the script `fileex.m` such that it displays the sum of the numbers from the file.
+##### Exercise 4
+- **(a)** Write a script that will read from a file x and y data points in the following format:
+    ```
+    x 0 y 1
+    x 1.3 y 2.2
+    ```
+    The format of every line in the file is the letter 'x', a space, the x value, space the letter 'y', space, and the y value. First, create the data file with 10 lines in this format. Do this by using the editor, then save the file as `xypts.dat`. The script will attempt to open the data file and error-check to make sure it was opened. If so, it uses a for loop (since the file contains exactly 10 points) and `fgetl` to read each line as a string. In the loop, it creates x and y vectors for the data points. After the loop, it plots these points and attempts to close the file. The script should print whether or not the file was closed successfully.
+##### Exercise 5
+- **(a)** Modify the script from the previous problem. Assume that the data file is in exactly the same format, but do not assume that the number of lines in the data file is known a priori. Hence, instead of using a for loop, loop until the end of the file is reached using a while loop. The number of points in the file should be mentioned in the plot title.
+#### 8.2 Scope
+##### Exercise 1
+- **(a)** If one sets a local variable within a user-defined function to a value. Can one change this value from the command prompt? *No, MATLAB uses function scoping.*
+- **(b)** If one sets a local variable within the command prompt, can one change this value from within a user-defined function? *No, but it could be set as a global variable - although discouraged.*
+#### 8.3 Debugging
+##### Exercise 1
+- **(a)** Create a new script with the following piece of code.
+    ```MATLAB
+    S=0;
+    x=0;
+    while x<5
+        x=x+1
+        S=S+x
+    end
+    ```
+    It adds the numbers 1 till 5 together. 
+- **(b)** Place a breakpoint at line 6, by clicking on the 6 in the editor. A red indicator will appear. Run the code, and when paused press Continue or enter `dbcont` three times. What are the values of S and x now? Is this what you expect? *The code runs as expected, with values at each breakpoint consistent with the logic of the loop.*
+- **(c)** Now place a conditional breakpoint at line 6, by clicking on the 6 in the editor → right-mouse click → and enter the text `x==3`. Then run the program. What is S when the program breaks? Is this what you expected? How many times do you have to press Continue or enter `dbcont` to end the program? *The breakpoints only begin when x is equal to 3 onwards, from which the values are still consistent with the logic of the loop.*
+### Reflection
+- Feels like we're reaching the end of the MATLAB work, and I feel fairly confident using it to help me solve maths problems! I've been doing some Project Euler work, too, and it's been interesting using Python and then using MATLAB to do the same problem.
 ___
 (Continue in the same format for the remaining weeks)
 

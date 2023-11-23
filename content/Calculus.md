@@ -65,7 +65,6 @@ Module Co-ordinator: mgreenall@lincoln.ac.uk (Martin Greenall)
 - **[[Tests for Continuity]]**: Procedures to check if a function is continuous.
 - **[[Continuity over an Interval]]**: Understanding continuity in a range of values.
 - **[[Intermediate Value Theorem]]**: A property of continuous functions.
-- **[[Bracketing the Root]]**: A method for finding roots of functions.
 
 ### 4. Differentiation
 - **[[Difference Quotient and Derivative]]**: The foundation of differentiation.

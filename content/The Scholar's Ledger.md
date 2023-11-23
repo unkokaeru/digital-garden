@@ -1,7 +1,9 @@
 ## 📜 Quest Log
 [[Side Quests]], [[Vault Overview]]
 
+- [ ] Give feedback on a friend's [[portfolio ideas]].
 - [ ] Work on [[数学の独学]].
+- [ ] Calisthenics, chess, maths, tutoring, Japanese
 - [ ] Calculate current modules percentages.
 - [ ] Delve into **[[Philosophy and Psychology]]**, filtering in relevant **[[Side Quests]]**, notes, and **[[random thoughts]]**.
 - [ ] Plan a **[[Language]] Learning Journey** with set milestones.

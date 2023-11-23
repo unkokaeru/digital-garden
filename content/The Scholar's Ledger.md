@@ -1,7 +1,7 @@
 ## 📜 Quest Log
 [[Side Quests]], [[Vault Overview]]
 
-- [ ] Give feedback on a friend's [[portfolio ideas]].
+- [ ] Give feedback on a friend's [[portfolio ideas]] with [[Portfolio ideas.pdf]].
 - [ ] Work on [[数学の独学]].
 - [ ] Calisthenics, chess, maths, tutoring, Japanese
 - [ ] Calculate current modules percentages.

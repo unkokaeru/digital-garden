@@ -4,6 +4,7 @@ Module Co-ordinator: mgreenall@lincoln.ac.uk (Martin Greenall)
 2. WebAssign Assignment x4 (8%)
 3. In-Class Assignment (25%)
 4. Final Exams (60%)
+*Current percentage:* 13%
 ## Learning Outcomes
 - [ ] **LO1** Formulate the basic concepts of differential and integral calculus.
 - [ ] **LO2** Apply properties of derivative and its geometric and mechanical interpretations
@@ -14,11 +15,9 @@ Module Co-ordinator: mgreenall@lincoln.ac.uk (Martin Greenall)
 ### Mid-term 1
 [[Calculus Mid-Term 1 (Summary Page)]]
 [[Calculus Mid-Term 1 (Practice Tests)]]
-
-...
+## Lecture Questions
+[[Calculus Questions, Semester 1 (complete to Q10)]]
 ## Notes
-[[Calculus Lecture Notes.pdf]]
-
 ### 1. Functions
 #### 1.1 Basic Concepts
 - **[[Domain and Range]]**: Understanding the set of inputs (domain) and outputs (range) for functions.
@@ -98,4 +97,7 @@ Module Co-ordinator: mgreenall@lincoln.ac.uk (Martin Greenall)
 - **[[Curve Length]]**: Applying integration to find the length of curves.
 
 ### 8. Parametric Equations and Polar Coordinates
-- **[[Derivatives in Parametric and Polar Forms]]**: Calculating rates of change in these coordinate systems.
+- **[[Parametric Equations]]**: Exploring equations where coordinates are defined as functions of a parameter, typically time, allowing for the description of complex curves and motions.
+- **[[Calculus with Parametric Equations]]**: Applying differential and integral calculus to parametric equations, enabling analysis of curve properties like tangent lines, areas, and arc lengths.
+- **[[Polar Coordinates]]**: Introduction to the coordinate system where points are determined by a distance from a fixed point (radius) and an angle from a fixed direction, offering a different perspective from Cartesian coordinates.
+- **[[Calculus with Polar Coordinates]]**: Techniques for applying calculus in the polar coordinate system, encompassing concepts like differentiation, integration, and the analysis of curves defined in polar terms.

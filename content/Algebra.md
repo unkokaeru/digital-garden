@@ -3,21 +3,26 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas)
 1. Coursework Assignment (15%)
 2. In-Class Assignment (25%)
 3. Final Exams (60%)
+*Current percentage:* 12%
 ## Learning Outcomes
 - [ ] **LO1** Find roots and factorise polynomials
 - [ ] **LO2** Perform the Euclidean algorithm on integers and on polynomials
 - [ ] **LO3** Apply Euclidean algorithm to questions about integers and polynomials
 - [ ] **LO4** Solve congruences and systems of congruences.
+## Midterm Summary Pages
+### Mid-term 1
+[[Algebra Mid-Term 1 (Summary Page)]]
+[[Algebra Mid-Term 1 (Practice Tests)]]
+## Lecture Questions
+...
 ## Notes
-[[Algebra Lecture Notes.pdf]]
-
 ### 1. Foundations of Algebra
 #### 1.1 Introduction to Algebra
 - **[[Types of Numbers and Notation]]**: Overview of various number types (natural, integers, rationals, reals, complex) and their notation.
 - **[[Divisibility in Integers]]**: Understanding the principles of divisibility and factors in integers.
 - **[[Greatest Common Divisor (GCD)]]**: Techniques for finding the greatest common divisor between numbers.
 - **[[Unique Factorisation]]**: Exploring the concept that every integer is uniquely factorizable into prime numbers.
-- **[[Euclidean Algorithm]]**: A method for finding the GCD that uses a division-based iterative process.
+- **[[Euclidean algorithm]]**: A method for finding the GCD that uses a division-based iterative process.
 - **[[Consequences of Bézout's Lemma]]**: Implications of Bézout's lemma in number theory, particularly in integer solutions.
 
 ### 2. Polynomials and Functions

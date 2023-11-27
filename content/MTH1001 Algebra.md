@@ -16,10 +16,10 @@ Read **[[A Concrete Introduction to Higher Algebra]]** (for the syllabus)
 2. In-Class Assignment (25%)
 3. Final Exams (60%)
 ## Outline Syllabus
- - [x] [Division with remainder](Division%20with%20remainder%20in%20the%20integers) in the [[integers]], including the [[Euclidean algorithm]], [[Bézout's Lemma]], [[divisibility]] and [factorisations](Prime%20Factorisation).
+ - [x] [Division with remainder](Division%20with%20remainder%20in%20the%20integers) in the [[integers]], including the [[Euclidean algorithm (original note)]], [[Bézout's Lemma]], [[divisibility]] and [factorisations](Prime%20Factorisation).
  - [x] [[Arithmetic and Geometric Progressions]].
  - [x] [[Writing decimal numbers in a different base, and back]]. [[Periodic numbers]].
- - [x] [[Division with remainder for polynomials]], including the [[Euclidean algorithm]], and [[Bézout's lemma]].
+ - [x] [[Division with remainder for polynomials]], including the [[Euclidean algorithm (original note)]], and [[Bézout's lemma]].
  - [x] [[Remainder, Factor Theorems, Ruffini’s Rule, and Polynomial Algebra]]
  - [x] [[Irreducible polynomials]].
  - [x] [[Polynomial roots and factorisation]] over the complex numbers ([[Fundamental Theorem of Algebra]]), over the reals (conjugate roots), and over the rational numbers (Rational Root Test).

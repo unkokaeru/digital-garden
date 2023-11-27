@@ -4,13 +4,18 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas)
 2. In-Class Assignment (25%)
 3. Cengage Numerical Assignment (15%)
 4. Final Exams (50%)
+*Current percentage:* 25%
 ## Learning Outcomes
 - [ ] **LO1** Mathematically solve simple problems of mechanics.
 - [ ] **LO2** Construct multi-step solutions of problems of mechanics.
 - [ ] **LO3** Formulate main laws of mechanics.
+## Midterm Summary Pages
+### Mid-term 1
+[[Mechanics Mid-Term 1 (Summary Page)]]
+[[Mechanics Mid-Term 1 (Practice Tests)]]
+## Lecture Questions
+...
 ## Notes
-[[Mechanics Lecture Notes.pdf]]
-
 ### 1. Fundamentals of Mechanics
 #### 1.1 Introduction to Mechanics
 - **[[Mechanical Systems]]**: Basic concepts and definitions in mechanics.

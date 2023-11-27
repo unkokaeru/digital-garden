@@ -7,7 +7,11 @@ Higher-degree approximations are a fundamental concept in calculus and numerical
 A key tool for higher-degree approximations is the Taylor series. The Taylor series of a function $f(x)$ about a point $a$ is given by:
 
 $$f(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \frac{f'''(a)}{3!}(x - a)^3 + \cdots$$
-
+In Sigma notation, this is given by:
+$$
+\sum_{n=0}^\infty\frac{f^n(a)}{n!}(x-a)^n
+$$
+n
 ### Example
 Consider the function $f(x) = e^x$. Its Taylor series expansion about $a = 0$ (also known as the Maclaurin series) is:
 

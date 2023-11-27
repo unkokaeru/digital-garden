@@ -19,5 +19,5 @@ $$
 $$
 6=7\cdot0+6
 $$
- - The digits in base 7 are then the remainders, read from the bottom up: $(14950)_{10}=(61405)_7$. Note that this looks similar to the [[Euclidean algorithm]], but it is completely different in terms of the numbers carried forward in each division.
+ - The digits in base 7 are then the remainders, read from the bottom up: $(14950)_{10}=(61405)_7$. Note that this looks similar to the [[Euclidean algorithm (original note)]], but it is completely different in terms of the numbers carried forward in each division.
  - Extending both parts into the real set of numbers is fairly simple, just first remove any numbers after their point by multiplying/dividing by a number ($b^n$, where $b$ is the base and $n$ is the number of digits after the point), then divide/multiply by the same number after the conversion. If there are infinitely many digits after the point, then just take an approximation.

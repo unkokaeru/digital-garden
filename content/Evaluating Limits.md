@@ -22,6 +22,8 @@ $\lim_{x \to 0} \frac{\sin x}{x}$ results in the indeterminate form $\frac{0}{0}
 **Definition:** 
 L'Hôpital's Rule is used to evaluate limits involving indeterminate forms. It states that if the limit yields an indeterminate form $\frac{0}{0}$ or $\frac{\infty}{\infty}$, the limit can be computed by taking the derivative of the numerator and denominator separately.
 
+[[Derivation of L'Hôpital's Rule]]
+
 **Example:**
 For $\lim_{x \to 0} \frac{\sin x}{x}$, applying L'Hôpital's Rule gives $\lim_{x \to 0} \frac{\cos x}{1}$, which evaluates to 1.
 

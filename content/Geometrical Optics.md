@@ -4,13 +4,18 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas)
 2. In-Class Assignment (25%)
 3. Cengage Numerical Assignment (15%)
 4. Final Exams (50%)
+*Current percentage:* 25%
 ## Learning Outcomes
 - [ ] **LO1** Mathematically solve simple problems of optics.
 - [ ] **LO2** Construct multi-step solutions of problems of optics.
 - [ ] **LO3** Formulate main laws of optics.
+## Midterm Summary Pages
+### Mid-term 1
+[[Optics Mid-Term 1 (Summary Page)]]
+[[Optics Mid-Term 1 (Practice Tests)]]
+## Lecture Questions
+...
 ## Notes
-[[Optics Lecture Notes.pdf]]
-
 ### 1. Fundamental Concepts of Optics
 #### 1.1 Introduction to Optics
 - **[[Nature of Light]]**: Exploration of light as a physical phenomenon, its properties and behaviours.

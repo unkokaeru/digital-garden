@@ -1,4 +1,4 @@
-```MATLAB-Script
+```vector_indexing.m
 v = linspace(2,4,5);
 
 x = v(1);

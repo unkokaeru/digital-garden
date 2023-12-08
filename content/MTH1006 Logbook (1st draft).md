@@ -1,8 +1,8 @@
-	# MATLAB Logbook
+# MATLAB Logbook
 
 ## Personal Details
 - **Name:** William Fayers
-- **Course:** MTH1006 - Computer Algebra and Technincal Computing
+- **Course:** MTH1006 - Computer Algebra and Technical Computing
 - **Academic Year:** 2023-2024
 - **Institution:** University of Lincoln, School of Mathematics and Physics
 
@@ -11,7 +11,7 @@ I confirm that this logbook is all my own work and that all references and quota
 
 ---
 ## Week 1 (25/09/2023 - 01/10/2023)
-![[certificate.pdf]]
+[[Onramp certificate.pdf]]
 ### Summary
 - *Completed on-boarding for MATLAB*
 
@@ -181,7 +181,7 @@ Today, I worked on several MATLAB exercises:
     - (b) Set a vector variable `cosx` to the $\cos(x)$ for all values of `x`.
     - (c) Set a scalar variable `meanx` to the average of `x`.
 #### 3.4 Strings
-[[String Code Output (MATLAB)]]
+[[Strings Code Output (MATLAB)]]
 1. **String Manipulations**
     - (a) Create a string ‘this is a string’ and store in variable `s`.
     - (b) Create a string named `s1` with contents ‘this is ‘.
@@ -501,8 +501,6 @@ Download the files `test_nexthour.m` and `nexthour.m` from Blackboard and place 
 ### Reflection
 - Basically just navigating Linux and then error-handling. Overall not that exciting stuff, but definitely useful - the "assert" command is also quite interesting.
 - Not too many problems, but any problems I did have I could figure out after a short while - mostly syntax.
-___
-To convert the exercises from session 8 of your document into the requested format, I'll first summarize the content of the exercises under the new headers and then format them accordingly.
 
 ## Week 9 (20/11/2023 - 26/11/2023)
 ### Summary
@@ -567,8 +565,52 @@ To convert the exercises from session 8 of your document into the requested form
 ### Reflection
 - Feels like we're reaching the end of the MATLAB work, and I feel fairly confident using it to help me solve maths problems! I've been doing some Project Euler work, too, and it's been interesting using Python and then using MATLAB to do the same problem.
 ___
-(Continue in the same format for the remaining weeks)
-
+## Week 10 (27/11/2023 - 03/12/2023)
+### Summary
+#### 9.1 Integer and Floating Point Classes
+- Explore the range of values for integer and floating-point classes in MATLAB.
+- Determine suitable data types for specific applications.
+#### 9.2 Matrices for Handling Multiple Numbers
+- Learn to manipulate and visualise data stored in matrices.
+- Analyse demographic data and temperature records using MATLAB.
+### Exercises
+#### 9.1 Integer and Floating Point Classes
+[[Integer and Floating Point Classes Code Output (MATLAB)]]
+##### Exercise 1
+- **(a)** Determine the range of values for int8 by generating a positive and negative overflow. Verify results with `intmax` and `intmin`.
+- **(b)** Do the same for uint8.
+- **(c)** Repeat the process for int16.
+- **(d)** Similarly, for uint16.
+- **Question:** Which type would be suitable and most economical for storing the age of a human? *`uint8` would probably be most economical, as whilst `int8` would currently work (as the oldest age recorded is around `122`, which under under the max `127`), it'd futureproof if the max was instead `255` and the positive integers would be useful, compared to the negative.*
+##### Exercise 2
+- Store a number with a decimal place in a double variable, then convert it to int32 and inspect the new variable's content and size with `whos`.
+##### Exercise 3
+- Calculate the following using MATLAB and comment on the analytical expectations and any differences:
+  - **(a)** $\cos(\frac{\pi}{2})$ 
+  - **(b)** $\sqrt{2}^2 - 2$
+*They both only approach zero, even though they should equal zero.*
+##### Exercise 4
+- **(a)** Determine the sum of $10^{-n}$ for $n=0$ to $N=20$ using a for loop and an accumulator `S`. *1.1111*
+- **(b)** Modify the script to find from what value of `n` the accumulator does not change anymore. Use an extra variable `S_prev`. *n=17*
+- **(c)** Change `S` to type single and observe the result. *n=9*
+#### 9.2 Matrices for Handling Multiple Numbers
+[[Matrices for Handling Multiple Numbers Code Output (MATLAB)]]
+##### Exercise 1
+- **(a)** Create the folder `session9` and set it as the current MATLAB work directory.
+- **(b)** Download and store the file `yearmalefemale.txt` in this folder.
+- **(c)** Create a script to:
+  - Load the data into a matrix.
+  - Extract the first column into `year`, the second into `male`, and the third into `female`.
+  - Plot the number of males and females versus the number of years.
+  - Add appropriate labels and legends.
+- **(d)** Analyse the biggest difference between the male and female graphs. *More females than males above the age of ~70 years old.*
+##### Exercise 2
+- **(a)** Create the file `averhighs.txt` in MATLAB with specified temperature data.
+- **(b)** Write a script to read these data and plot the temperatures for three locations in one graph.
+- **(c)** Create a function to convert Fahrenheit to Celsius.
+- **(d)** Plot the converted temperatures with appropriate labels and legend.
+### Reflection
+- It's interesting applying more and more of my MATLAB knowledge into the problems as they get more difficult, it's quite fun! I initially struggled to make my script for Exercise 9.2.2 code efficient, but it was a fun problem to solve.
 ---
 ## References
 - *Enter your references here...*

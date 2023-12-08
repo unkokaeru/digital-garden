@@ -6,3 +6,4 @@
 - Virtual tour around museums etc.
 - Do online classes/workshops together
 - Plan a future trip together
+- Find some rando cool place in Lincoln.

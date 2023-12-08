@@ -1,7 +1,7 @@
 ```area_circle.m
 function area=area_circle(d)
 
-% Calculates the area of a circle given the radius :)
+% Calculates the area of a circle given the diameter  :)
 
 area=pi*(d/2).^2;
 
@@ -35,7 +35,7 @@ ans =
     3.1416
 
 >> help area_circle
-  Calculates the area of a circle given the radius :)
+  Calculates the area of a circle given the diameter
 
 >> radii=[3,4,5]; area_circle(radii)
 Error using  ^ 

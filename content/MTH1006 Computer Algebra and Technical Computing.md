@@ -2,7 +2,7 @@
 Module Co-ordinator: BVorselaars@lincoln.ac.uk (Bart Vorselaars)
 *The module gives an introduction to the modern computer packages for analytic formulas manipulation (computer algebra) and technical computing. The students will be learning how to use these state of art tools. They will also be developing skills at using a logbook as a factual record and as reflective self-assessment to support their learning.*
 ### Portfolio
-[[MTH1006 Logbook]]
+[[MTH1006 Logbook (1st draft)]]
 #### Examples
 ![[example-logbook.pdf]]
 
@@ -117,3 +117,8 @@ University::MTH1006 Computer Algebra and Technical Computing
 [[time.txt]]
 [[sample.txt]]
 [[subjexp.txt]]
+### Week 10
+[[exercises-session9.pdf]]
+[[slides-session9.pdf]]
+
+[[yearmalefemale.txt]]

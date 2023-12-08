@@ -15,3 +15,4 @@
 	 - [[Pedagogy]]: [A new journaling system](https://www.youtube.com/watch?v=3B9Ojm_rhOk). [Commonplacing](https://www.youtube.com/watch?v=IuaI_XOIgzE). [Traveller's Notebook](https://www.youtube.com/watch?v=6DRFndboJL8). [How we learn](https://www.youtube.com/watch?v=4xjrCn4jdPo). Develop and integrate a single system, adding to and refining it.
 	 - **OTHER**: Ancestry. [OSINT](https://www.youtube.com/watch?v=7PAk1wsy3VI). Taxes. [Talking to a camera](https://www.youtube.com/watch?v=-asNGo75Wv8). Neuroaesthetics. Music production. [Play games with strangers](https://www.youtube.com/watch?v=IKAaSIniTtk).
  - [[Date Ideas]]
+- [ ] Enrol with the European Mathematics Society (EMS): [[EMS membership application_student.docx]].

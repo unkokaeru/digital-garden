@@ -11,6 +11,7 @@ Refer to the following links for my workout routines and templates:
 - [Gym Routines](./Routines)
 - [Workout Day Template](./Workout%20Day%20Template)
 - [Workout Day Frontmatter Template](./Workout%20Day%20Frontmatter%20Template)
+- [[Calisthenics]]
 
 [[Gym Log]]
 

@@ -1,3 +1,10 @@
-- [ ] Annual Chess.com membership (Platinum)?
-- [ ] Cancel Uber One Membership (williamfayerscompos@gmail.com)
-- [ ] YT Premium?
+- [ ] Chess (£70.08/year)
+- [ ] ID Mobile (£84.00/year)
+- [ ] OpenAI (£240.00/year)
+- [ ] Netflix (£59.88/year)
+- [ ] Wash stuff (£140.00/year)
+- [ ] Revolut Plus (£35.88/year)
+- [ ] Laundry (£120.00/year)
+- [ ] LMS (£13.25/year)
+- [ ] IMA (£10.00/year)
+- [ ] Gym (£183.99/year)

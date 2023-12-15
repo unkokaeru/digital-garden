@@ -12,7 +12,7 @@
 	 - [ ] Eggs
 	 - [ ] Apples
 	 - [ ] Boo basket!! (fluffy blanket/socks)
- - [[Music Management]]
+ - [[Artist Management]]
 	 - [ ] Decide which beats go out or need extending etc. - name and cover art. Should it be a single, tape, etc.?
 	 - [ ] Release stuff?
 	 - [ ] Added more - listen!

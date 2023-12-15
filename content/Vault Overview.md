@@ -17,6 +17,6 @@
 	- [[My Haikus]]
 	- [[Failure Resume]]
 - [[The Trail of Whispers]]: External-Facing Pages
-	- [[Music Management]] *listen to the music there*
+	- [[Artist Management]] *listen to the music there*
 	- [[Descriptions]]
 - [[The Scholar's Ledger]]: To-Do List (etc.)

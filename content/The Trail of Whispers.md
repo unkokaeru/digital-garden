@@ -15,7 +15,7 @@
 
 *As you follow the winding path that leads into the embracing arms of the forest, you find yourself amidst the external pursuits that call for your attention and management skills.*
 
-- **🎵 [[Music Management]]**: Here lies the orchestra of your life, each melody a task, each harmony a project to be conducted. With the baton of your intent, you direct the symphony of sounds that is [[Music Management]], ensuring each note resonates with the rhythm of your goals.
+- **🎵 [[Artist Management]]**: Here lies the orchestra of your life, each melody a task, each harmony a project to be conducted. With the baton of your intent, you direct the symphony of sounds that is [[Artist Management]], ensuring each note resonates with the rhythm of your goals.
 
 - **⚔️ Warhammer & Mindstorms [[Descriptions]]**: Venture deeper into the woods, and you’ll discover the strategic battlegrounds of Warhammer, alongside the robotic creations of Mindstorms. Each listing, each [description](Descriptions.md), is a saga in itself, a tale of conquests and creativity, waiting to be told with meticulous detail and fervent passion.
 

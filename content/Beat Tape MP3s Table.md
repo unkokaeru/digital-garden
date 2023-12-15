@@ -1,35 +1,35 @@
 Note: Copied from [Excel](https://1drv.ms/x/s!Ajgs65rSXcNwhYp-f2lbuxqoKjgYhw?e=3dfTrj)
 
-| Track Name                      | When would I skip? | Below Average? | Above Average? | Quartile | Emoji | Description | Improvement | Final Rating |
-|---------------------------------|--------------------|----------------|----------------|----------|-------|-------------|-------------|--------------|
-| BIRDSTARE 1                     |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 4                     |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 5                     |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 10 - DNB              |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 101                   |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 103 HAMDI             |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 105                   |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 106                   |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 107                   |                    |                |                |          |       |             |             |              |
-| BIRDSTARE 108                   |                    |                |                |          |       |             |             |              |
-| Garage 9 - cryin                |                    |                |                |          |       |             |             |              |
-| Garage 10                       |                    |                |                |          |       |             |             |              |
-| Garage 13-2                     |                    |                |                |          |       |             |             |              |
-| Garage 13-4                     |                    |                |                |          |       |             |             |              |
-| Garage 16-2                     |                    |                |                |          |       |             |             |              |
-| Beat Ninja 2 - Rhythm and Blues |                    |                |                |          |       |             |             |              |
-| Beat Ninja 2                    |                    |                |                |          |       |             |             |              |
-| Beat Ninja 6                    |                    |                |                |          |       |             |             |              |
-| Beat Ninja 12                   |                    |                |                |          |       |             |             |              |
-| Beat Ninja 13                   |                    |                |                |          |       |             |             |              |
-| Beat Ninja 15                   |                    |                |                |          |       |             |             |              |
-| Beat Ninja 16 - DOOM Vocal      |                    |                |                |          |       |             |             |              |
-| Beat Ninja 17                   |                    |                |                |          |       |             |             |              |
-| Beat Ninja 18                   |                    |                |                |          |       |             |             |              |
-| Drill 1 - Matt Vocal            |                    |                |                |          |       |             |             |              |
-| Drill 3                         |                    |                |                |          |       |             |             |              |
-| Drill 0410                      |                    |                |                |          |       |             |             |              |
-| Drill-1                         |                    |                |                |          |       |             |             |              |
-| Okokoko                         |                    |                |                |          |       |             |             |              |
-| VIBE TAPE                       |                    |                |                |          |       |             |             |              |
-| House 1811-3                    |
+| Track Name                      | When would I skip? | Would I save? | Below Average? | Above Average? | Quartile | Emoji | Description | Notes                                                        | Improvement    | Final Rating |
+| ------------------------------- | ------------------ | ------------- | -------------- | -------------- | -------- | ----- | ----------- | ------------------------------------------------------------ | -------------- | ------------ |
+| BIRDSTARE 1                     | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              |                | 25%          |
+| BIRDSTARE 4                     | 4/9                |               | 1.00           | 0.00           | 2.00     |       |             |                                                              |                | 50%          |
+| BIRDSTARE 5                     | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              |                | 25%          |
+| BIRDSTARE 10 - DNB              | 8/9                |               | 0.00           | 1.00           | 2.00     |       |             |                                                              |                | 50%          |
+| BIRDSTARE 101                   | 1                  | 1             | 0.00           | 1.00           | 4.00     |       |             | I very much enjoy this one                                   | Make it longer | 95%          |
+| BIRDSTARE 103 HAMDI             | 1                  | 1/2           | 0.00           | 1.00           | 3.00     |       |             | Lyrics might've carried it                                   |                | 75%          |
+| BIRDSTARE 105                   | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              |                | 25%          |
+| BIRDSTARE 106                   | 1                  | 1/2           | 0.00           | 1.00           | 3.00     |       |             | The "yo" is a bit weird feeling, mismatched vibes            |                | 75%          |
+| BIRDSTARE 107                   | 1                  | 1             | 0.00           | 1.00           | 4.00     | ✨🦖  |             | Might skip this one like halfway through, depends on my mood | Shorten it     | 95%          |
+| BIRDSTARE 108                   | 8/9                |               | 0.00           | 1.00           | 2.00     |       |             | It's silent for one second half of the song, by the way      | Remove silence | 65%          |
+| Garage 9 - cryin                | 1                  | 1             | 0.00           | 1.00           | 4.00     |       |             |                                                              |                | 100%         |
+| Garage 10                       | 1                  | 1/2           | 0.00           | 1.00           | 3.00     |       |             |                                                              |                | 75%          |
+| Garage 13-2                     | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              |                | 25%          |
+| Garage 13-4                     | 1                  |               | 0.00           | 1.00           | 2.00     |       |             | Fun beginning                                                |                | 50%          |
+| Garage 16-2                     | 1                  | 1             | 0.00           | 1.00           | 4.00     |       |             | GROOVY BEGINNING                                             | Make it longer | 95%          |
+| Beat Ninja 2 - Rhythm and Blues | 1                  | 1             | 0.00           | 1.00           | 4.00     |       |             | Samurai Champloo type beat                                   | Make it longer | 90%          |
+| Beat Ninja 2                    | 8/9                | 1/2           | 0.00           | 1.00           | 2.00     |       |             |                                                              |                | 50%          |
+| Beat Ninja 6                    | 2/3                | 1             | 1.00           | 0.00           | 3.00     |       |             | 30 seconds in the noises made my brain happy                 | Add variety    | 70%          |
+| Beat Ninja 12                   | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              |                | 25%          |
+| Beat Ninja 13                   | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              |                | 25%          |
+| Beat Ninja 15                   | 1                  | 1             | 0.00           | 1.00           | 4.00     |       |             | You're cheating with the sample, I love it                   |                | 100%         |
+| Beat Ninja 16 - DOOM Vocal      | 1                  | 3/4           | 0.00           | 1.00           | 3.00     |       |             | Lyrics might've carried it                                   |                | 70%          |
+| Beat Ninja 17                   | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              |                | 25%          |
+| Beat Ninja 18                   | 3/4                |               | 1.00           | 0.00           | 2.00     |       |             |                                                              |                | 50%          |
+| Drill 1 - Matt Vocal 5          | 1                  | 1             | 0.00           | 1.00           | 4.00     |       |             | The music speaks for itself                                  |                | 100%         |
+| Drill 3                         | 1/3                |               | 1.00           | 0.00           | 2.00     |       |             | Too boring, needs more variety, it's like drill lofi kinda   | Add variety    | 50%          |
+| Drill 0410                      | 1                  |               | 0.00           | 1.00           | 1.00     |       |             |                                                              | Add variety    | 25%          |
+| Drill-1                         | 3/5                |               | 1.00           | 0.00           | 2.00     |       |             | GET STURDY                                                   | Add variety    | 50%          |
+| Okokoko                         | 8/9                |               | 0.00           | 1.00           | 2.00     |       |             | The ending was the best bit                                  | Add variety    | 50%          |
+| VIBE TAPE                       | 1/2                |               | 1.00           | 0.00           | 2.00     |       |             |                                                              | Add variety    | 50%          |
+| House 1811-3                    | 1                  | 1/2           | 0.00           | 1.00           | 3.00     |       |             | I like house                                                 |                | 80%          |

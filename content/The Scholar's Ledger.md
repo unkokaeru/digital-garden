@@ -1,18 +1,13 @@
 ## 📜 Quest Log
-[[Side Quests]], [[Vault Overview]]
+[[Side Quests]], [[Vault Overview]], [[Dailies]]
 
-- [ ] Engage with **[[Music Management]]**, including listening to selected music.
-- [ ] Work on [[数学の独学]]: When providing solutions to questions, make sure to check with the mark scheme so that the solutions are in a proper form.
-	- [ ] [[Algebra]]
-	- [ ] [[Mechanics]].
-	- [ ] [[Geometrical Optics]].
 - [ ] Create flashcards based on [[数学の独学]].
 	- [ ] [[Calculus]].
 	- [ ] [[Algebra]].
 	- [ ] [[Waves and Oscillations]].
 	- [ ] [[Mechanics]].
 	- [ ] [[Geometrical Optics]].
-- [ ] Tidy up my vault - delete unused files, bookmark unfinished pages, establish tagging habits (for subjects etc.).
+- [ ] Buy [[Christmas presents]].
 - [ ] Delve into **[[Philosophy and Psychology]]**, filtering in relevant **[[Side Quests]]**, notes, and **[[random thoughts]]**.
 - [ ] Work on **[[Programming]]** projects: [[this one]] is pretty exciting. Maybe I could also convert my morning briefing generation program into an Obsidian plug-in.
 

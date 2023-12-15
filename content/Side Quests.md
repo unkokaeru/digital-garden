@@ -16,3 +16,4 @@
 	 - **OTHER**: Ancestry. [OSINT](https://www.youtube.com/watch?v=7PAk1wsy3VI). [More OSINT](https://www.youtube.com/watch?v=HORzekIiZZ0). Taxes. [Talking to a camera](https://www.youtube.com/watch?v=-asNGo75Wv8). Neuroaesthetics. Music production. [Play games with strangers](https://www.youtube.com/watch?v=IKAaSIniTtk). [Libraries over subscriptions](https://www.youtube.com/watch?v=eHU8p-ciXtk).
  - [[Date Ideas]]
 - [ ] Enrol with the European Mathematics Society (EMS): [[EMS membership application_student.docx]].
+- [ ] House Flipper 2?

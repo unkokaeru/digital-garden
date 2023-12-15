@@ -26,7 +26,7 @@ From the yellowed pages of a [[Cooking|stained cookbook]], filled with savoured 
 
 Venture into the study, where a [[Mathematics|worn-out notebook, filled with scribbled thoughts, rests on the desk]], a testament to my academic pursuits. The [[Reading|ancient bookshelf, groaning under the weight of countless stories]], holds books in various stages of being read, or waiting to be discovered. 
 
-The harmonious rhythm of the study doesn't end there. Lying atop the polished oak table, the [[Music Management|gilded music box]] tinkles with melodies old and new, a meticulous archive of my musical journeys and orchestrations, managed with great care.
+The harmonious rhythm of the study doesn't end there. Lying atop the polished oak table, the [[Artist Management|gilded music box]] tinkles with melodies old and new, a meticulous archive of my musical journeys and orchestrations, managed with great care.
 
 Behind a well-worn drawer, you'll find the [[University Finances|leather-bound chequebook]], barely touched, a record of my university finances. The [[Philosophy and Psychology|antique chest, brass-clad and filled with generations of family heirlooms]], houses a selection of my favourite philosophies and psychologies. 
 
@@ -47,7 +47,7 @@ The timeworn study extends a warm, inviting whisper, urging you to delve into it
 - [ ] Re-write the timeworn study for organisation and practicality, as well as updating the existing notes and introducing a [[Chess]] area.
 - [ ] Re-write all of my [[Mathematics]], including providing mid-term cheat sheets.
 - [ ] Create physical flashcards for key memory points for my mid-terms.
-- [ ] Catch up on [[Music Management]].
+- [ ] Catch up on [[Artist Management]].
 - [ ] Catch up on my Anki cards.
 - [ ] Do some extra reading and practice for [[MTH1002 Calculus]], [[MTH1001 Algebra]], and [[PHY1002 Geometrical Optics, Waves, and Mechanics]]; combine the new knowledge into the existing notes.
 

@@ -258,4 +258,4 @@ $$
 93. Compute the right-most decimal digit of $7^{{3}^{49}}$.
 
 
-[[11.pdf]]
+![[11.pdf]]

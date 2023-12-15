@@ -59,7 +59,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas)
 
 #### 3.1 Microscopes and Telescopes
 
-- **[[Design and Function of Microscopes]]**: Detailed study of the microscope's structure and its magnification capabilities.
+- **[[Geometrical Optics in Microscope Design]]**: Detailed study of the microscope's structure and its magnification capabilities.
 - **[[Telescope Types and Operations]]**: Exploration of different types of telescopes and their operational principles.
 
 #### 3.2 Cameras and Projectors
@@ -89,4 +89,4 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas)
 #### 5.2 Photonic Devices
 
 - **[[Principles of Photonic Devices]]**: Exploration of devices that use light to perform various functions.
-- **[[Applications in Communication and Computing]]**: Use of photonic technology in modern communication and computing.
+- **[[Applications in Communication and Computing (Photonic Technology)]]**: Use of photonic technology in modern communication and computing.

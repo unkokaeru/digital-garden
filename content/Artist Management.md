@@ -2,8 +2,6 @@
 
 **Last Checked**: 15th December, 2023.
 
-### Beat Tape MP3s
-
 **Link to Drive**: https://drive.google.com/drive/folders/1_bXs8zZLM7EAqKAdhxI00Sn7f3w-CwNL?usp=drive_link <-- original songs
 
 **Link to Spreadsheet**: [[Beat Tape MP3s Table]] <-- more detail
@@ -12,13 +10,13 @@ NOTE: I listened to them all a few times, including on a few different speakers 
 
 Also, I added images to the songs I felt had the most character and I enjoyed the most.
 
-#### BIRDSTARE
+## BIRDSTARE
 
-##### General Feedback
+### General Feedback
 
 Hey, actually pretty good. Generally, I felt like the lengths of some of the songs were weird (either too long, too short), or the song just felt **weird**. I think the latter is because some of the vibes were mismatched (in terms of noises) - I don't know man I'm not a musician, that's your job to figure out 💀.
 
-##### Specific Feedback
+### Specific Feedback
 
 - **BIRDSTARE 1**: [Original](https://drive.google.com/file/d/120AFLO_7igJeqpTcRNYu5RuDKZkzz6yz/view?usp=drive_link) | [Extended](https://drive.google.com/file/d/17MSRuAoSfl-a01Av8xsoBZCwnMrPElug/view?usp=drive_link)
 	- Rating: 25%
@@ -53,13 +51,13 @@ Hey, actually pretty good. Generally, I felt like the lengths of some of the son
 - **BIRDSTARE 108 v1-2**: [v1](https://drive.google.com/file/d/1tT2zace7u6fBO-Dz0i2RCw7zLZbSksUX/view?usp=drive_link) | [v2](https://drive.google.com/file/d/15CVthMDqmazyOCI-kN78ux46el_SYy56/view?usp=drive_link)
 	- Rating: 65%
 
-#### Garage
+## Garage
 
-##### General Feedback
+### General Feedback
 
 Make more!!
 
-##### Specific Feedback
+### Specific Feedback
 
 - **Track 9 - cryin**: [Listen](https://drive.google.com/file/d/1sh1lEvfsyVOmNS7KTHh9ubEldJGNBBQ7/view?usp=drive_link)
 	- Rating: 100%
@@ -78,13 +76,13 @@ Make more!!
 	- Rating: 95%
 	- This is how it makes me feel: ![[SJDHGSDGHISDHGIUSDHG.png]]
 
-#### Beat Ninja 2
+## Beat Ninja 2
 
-##### General Feedback
+### General Feedback
 
 Learn how to improve your endings to songs >:)
 
-##### Specific Feedback
+### Specific Feedback
 
 - **Track 2 - Rhythm and Blues**: [Listen](https://drive.google.com/open?id=1hen3MtU6BnQKoxQ9us50orMFX_qGGb1O&usp=drive_copy)
 	- Rating: 98%
@@ -115,13 +113,13 @@ Learn how to improve your endings to songs >:)
 - **Track 18**: [Listen](https://drive.google.com/open?id=1KC08wxvTyHhi1E0NJRUDMITQDeOuy7Oi&usp=drive_copy)
 	- Rating: 50%
 
-#### Drill
+## Drill
 
-##### General Feedback
+### General Feedback
 
 Disclaimer: I don't really like drill, apart from like three songs. That said, I felt a lot of the songs were quite boring, like stale bread - maybe some more variety or something is needed, but they feel quite empty (maybe it's just lack of lyrics though?).
 
-##### Specific Feedback
+### Specific Feedback
 
 - **Track 1 - Matt Vocal 5**: [Listen](https://drive.google.com/file/d/1P70ObUBPiYRJ5SG4tz1sOgYhyjp1V_qq/view?usp=drive_link)
 	- Rating: 100%
@@ -142,13 +140,13 @@ Disclaimer: I don't really like drill, apart from like three songs. That said, I
 - **Track VIBE TAPE**: [Listen](https://drive.google.com/open?id=1w8QEgKd1hIq2JZd2eNmQP_t-g3W5Q1q-&usp=drive_copy)
 	- Rating: 50%
 
-#### House
+## House
 
-##### General Feedback
+### General Feedback
 
 Make more!!
 
-##### Specific Feedback
+### Specific Feedback
 
 - **1811-3**: [Listen](https://drive.google.com/file/d/1mP3Rl9VafxFmMCWnxC_ktgRY8PCAX5ik/view?usp=drive_link)
 	- Rating: 80%

@@ -2,6 +2,4 @@ People respect other people when those people align with their values, and so in
 
 You learn to love yourself by loving others - symbiotic relationship 
 
-Obsidian is like functional programming but with notes
-
 Justice will triumph - because the winners will become justice

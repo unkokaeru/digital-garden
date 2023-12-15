@@ -2,7 +2,7 @@
 
 - [[Welcome to the Knowledge Cottage]]: Personal Research
 	- [[Sleep]]
-	- [[Philosophy and Psychology]] *filter in relevant [[Side Quests]] and existing random notes, [[random thoughts]] too*
+	- [[Philosophy and Psychology]] *filter in relevant [[Side Quests]] and existing random notes, [[Random Thoughts]] too*
 	- [[Mathematics]] *re-write completely (mid-term cheat sheets, physical flashcards?) - design my own mathematics course?*
 	- [[Language]] *plan a language learning journey with milestones*
 	- [[Health]]

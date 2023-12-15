@@ -1,6 +1,6 @@
 *This note outlines my gym routines, workout calculations, and oral care practices. However, it may also contain other interesting things, such as my research on energy drinks*
 ## Energy Drinks
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2966367/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2966367/, [Caffeine](https://www.youtube.com/watch?v=mQAqh_MJWeI).
 -->
 ## Gym Stuff
 

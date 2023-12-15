@@ -17,6 +17,8 @@
 
 Learning foreign languages not only opens up communication with different cultures but also enhances cognitive abilities like problem-solving and multitasking. Here are the languages I'm currently focusing on:
 
+[Learning language](https://www.youtube.com/watch?v=MqR3K1alUio)
+
 - **Japanese**: Known for its complex writing system and respectful language etiquette, learning [[Japanese]] brings insight into a rich and unique culture.
 
 - **German**: [[German]] is widely spoken in Europe, and understanding it can provide valuable opportunities both professionally and personally.

@@ -1,6 +1,7 @@
 ## 📜 Quest Log
 [[Side Quests]], [[Vault Overview]], [[Dailies]]
 
+- [ ] Clean my dishes, empty my bin (after buying some bin bags), maintain my flowers, book my train ticket for Monday.
 - [ ] Create flashcards based on [[数学の独学]].
 	- [ ] [[Calculus]].
 	- [ ] [[Algebra]].
@@ -8,7 +9,7 @@
 	- [ ] [[Mechanics]].
 	- [ ] [[Geometrical Optics]].
 - [ ] Buy [[Christmas presents]].
-- [ ] Delve into **[[Philosophy and Psychology]]**, filtering in relevant **[[Side Quests]]**, notes, and **[[random thoughts]]**.
+- [ ] Add knowledge from textbooks into [[数学の独学]], do some questions, etc.
 - [ ] Work on **[[Programming]]** projects: [[this one]] is pretty exciting. Maybe I could also convert my morning briefing generation program into an Obsidian plug-in.
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index)

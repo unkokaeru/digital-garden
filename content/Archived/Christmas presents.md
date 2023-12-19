@@ -1,0 +1,9 @@
+| Name            | Present                          | Price  | Note                                                                                                                                                                                                |
+| --------------- | -------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mother          | Macrame kit                      | £21.99 | HELLO - You can make plant holders and other home decor stuff, idk if you've already done it but it seems pretty cool. Also, the book "Modern Macrame" might be useful :-)                          |
+| Father          | Salmon jerky                     | £14.95 | HELLOOOOO - This might be disgusting, I also don't remember if you like salmon or not, but I was curious about it. Was gonna get you Ippon Manzoku Protein Bars, but they're insanely expensive :'( |
+| Brother         | Echidna plush                    | £19.99 | Kateřina Pejchalová: 5.0 out of 5 stars "nice toy like alive"                                                                                                                                       |
+| Maicey          | Fluffy socks and cat shark plush | £22.49 |                                                                                                                                                                                                     |
+| Maicey's family | ~Maicey's choice~                | £20.58 |                                                                                                                                                                                                     |
+
+**TOTAL**: £100.00

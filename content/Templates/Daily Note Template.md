@@ -1,44 +1,39 @@
-Start your day with one of these [[possible routines]]!
+{{ haiku }}
+**Biggest takeaway from yesterday:** {{ biggest_takeaway }}
 
->	Haiku
+# Morning Briefing ({{ date }})
+*{{ weather }}*
+{{ news }}
 
-**Biggest takeaway from today:** ...
-[[Daily Note Generation]]
-# Morning Briefing ({insert date here})
-*{insert weather here, current and for the rest of the day}*
+## Career Advice & Information
+{{ career_information }}
 
-**Global News**
-- {insert bullet-pointed global news here}
-**Local News**
-- {insert bullet-pointed local news here}
-**Mathematical News**
-- {insert bullet-pointed mathematical news}
-
-{insert any relevant career information, if there is any, here}
 ## Today's Maths Problem
-{insert maths problem that can be solved in about five minutes here}
+{{ maths_problem }}
 
 ## Today's Schedule
-{insert today's calendar events here}
+{{ calendar_events }}
 
-{insert a prediction about how my day will go here}
+### Emails
+{{ emails }}
+
+*{{ day_prediction }}*
+
 ## Chess Puzzle & Games
 ### Chess Puzzle
-```chessboard
-fen: {insert fen here}
-```
-#### Solution
-```spoiler-block
-{insert solution here}
-```
+{{ chess_puzzle }}
 ### Chess Games
 *A space to log what chess games I've done today, as well as an analysis of them.*
 
 ...
+
+## Driving Questions
+{{ driving_questions }}
+
 ## Good Luck! ✨
-{insert a friendly and upbeat good luck for the day here}
+{{ good_luck_message }}
 
 ### Now...
 Have a look at the to-do list in [[The Scholar's Ledger]], or try some yoga/home calisthenics.
 
-{insert five completely random emojis here}
+{{ random_emojis }}

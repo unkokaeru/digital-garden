@@ -14,3 +14,5 @@
 	 - [Flight 370](https://www.youtube.com/watch?v=MhkTo9Rk6_4).
 - [[Date Ideas]]
 - [[Random Thoughts]]
+- Play all of the Assassin's Creed games!!
+- Learn a magic trick?

@@ -34,8 +34,8 @@ Similar to the Chess.com Review feature, give it a PGN (or Chess.com or Lichess 
 
 ### Chess Mini-Me (Chess Engine)
 
-**Git Repo**: ...
-**Date Started**: ...
+**Git Repo**: chess-mini-me
+**Date Started**: 24th December 2023
 
 A chess bot that acts at the exact same level as me, with similar openings, etc. - just like the customised Chess.com bots, but it also develops alongside me. It would be quite cool if it could do similar with any Chess.com account, given its URL.
 

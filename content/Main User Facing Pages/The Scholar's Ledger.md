@@ -10,6 +10,7 @@ color default
 ## 📜 Quest Log
 [[Side Quests]], [[Vault Overview]], [[Dailies]]
 
+- [ ] [[Annual planning]]
 - [ ] Add knowledge from textbooks into [[数学の独学]], do some questions, etc.
 - [ ] Create flashcards based on [[数学の独学]].
 	- [ ] [[Calculus]].
@@ -17,8 +18,8 @@ color default
 	- [ ] [[Waves and Oscillations]].
 	- [ ] [[Mechanics]].
 	- [ ] [[Geometrical Optics]].
-- [ ] Work on **[[Programming]]** projects.
-- [ ] Buy a new [mattress protector](https://www.amazon.co.uk/s?k=mattress+protector) and a Maicey's family presents.
+	- [ ] Work on **[[Programming]]** projects - Python Project Template (with Cruft).
+- [ ] Buy a new [mattress protector](https://www.amazon.co.uk/s?k=mattress+protector).
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 ___

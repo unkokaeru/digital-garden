@@ -8,6 +8,7 @@
 - [Brilliant Calculus](https://brilliant.org/courses/multivariable-calculus/)
 - [Lichess tactics](https://lichess.org/study/topic/Tactics/hot)
 - [Chess.com puzzle](https://www.chess.com/puzzles)
+- [Animal game](https://metazooa.com)
 - [Geoguessr game](https://www.geoguessr.com)
 - [Globle](https://globle-game.com)
 - [Functional programming](https://www.hackerrank.com/domains/fp)

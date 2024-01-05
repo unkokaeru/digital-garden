@@ -16,7 +16,7 @@
 
 ### Daily Layouts
 - **Versatile Use**: Initially used for journaling and memory keeping, but adapted for various layouts to enhance functionality.
-- **The 1-2-3 Method**: A task management approach focusing on completing sets of three tasks sequentially.
+- **[[The 1-2-3 Method]]**: A task management approach focusing on completing sets of three tasks sequentially.
 - **Meal Tracking and Goal Setting**: Daily pages can be used to track meals and set daily goals.
 
 ### Additional Concepts

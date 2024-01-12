@@ -12,6 +12,7 @@
 	 - House Flipper 2.
 	 - Enrol with the European Mathematics Society (EMS): [[EMS membership application_student.docx]].
 	 - [Flight 370](https://www.youtube.com/watch?v=MhkTo9Rk6_4).
+	 - [Interesting breakfast idea](https://www.youtube.com/watch?v=L76XJqz9PWo), and [another one](https://www.youtube.com/watch?v=xdwLxfJBOWE).
 - [[Date Ideas]]
 - [[Random Thoughts]]
 - Play all of the Assassin's Creed games!!

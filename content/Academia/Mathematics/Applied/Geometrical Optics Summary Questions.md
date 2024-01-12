@@ -12,7 +12,7 @@
 
 7. A biconvex glass lens is made with two spherical surfaces of 15 cm and 10 cm in radius. Find its focal length in air.
 
-8. A coin of 1.2 cm in diameter is 4 cm away from a biconvex lens that has a focal length of 12 cm. Find the image of the coin. You can choose an orientation of the coin
+8. A coin of 1.2 cm in diameter is 4 cm away from a biconvex lens that has a focal length of 12 cm. Find the image of the coin. You can choose an orientation of the coin.
 
 9. Light with 633-nm wavelength shines normally to a plane with two slits. We observe the first interference maximum 82 cm away from the central maximum on a screen 12 m away from the slits. What is the separation of slits? How many interference maxima one can, in principle, observe?
 

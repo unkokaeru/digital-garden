@@ -10,18 +10,13 @@ color default
 ## 📜 Quest Log
 [[Side Quests]], [[Vault Overview]], [[Dailies]]
 
-- [ ] Add knowledge from textbooks into [[数学の独学]], do some questions, etc.
-- [ ] Create flashcards based on [[数学の独学]].
-	- [ ] [[Calculus]].
-	- [ ] [[Algebra]].
-	- [ ] [[Waves and Oscillations]].
-	- [ ] [[Mechanics]].
-	- [ ] [[Geometrical Optics]].
-- [ ] Work on [[Programming]] projects - Python Project Template (with Cruft).
-- [ ] Add https://metazooa.com to my [[Dailies]].
-- [ ] Return books to the library.
-- [ ] Pick up deliveries.
-- [ ] **Start on my goals for before I'm twenty years old!!!!**
+- [ ] Fix things: Instax camera ([£45](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk)), DELL laptop, cassette recorder.
+- [ ] Buy some more tissues and toilet roll.
+- [ ] Establish a baseline fitness level and routine.
+- [ ] Review my university syllabus and set up a study schedule based on the topics covered in my courses.
+- [ ] Work on [[Programming]] projects.
+
+Oh, here's a [[Reading list]], wild.
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 ___

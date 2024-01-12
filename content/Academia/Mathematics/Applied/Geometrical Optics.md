@@ -5,9 +5,9 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas)
 1. Coursework Assignment (10%)
 2. Cengage Numerical Assignment x4 (15%)
 3. In-Class Assessment (25%)
-4. Final Exams (50
+4. Final Exams (50%)
 
-*Current percentage:* 25%
+*Current percentage (rounded up):* 42%
 
 ## Learning Outcomes
 

@@ -5,7 +5,7 @@ Python: [[MTH1007 Professional Skills and Group Study]]
 
 ## Personal Projects
 
-Also: [[Functional Programming]], [Uncensored LLMs](https://www.youtube.com/watch?v=GyllRd2E6fg), [7deadlysongs](https://github.com/bluegreengreen/7deadlysongs/blob/main/7deadlysongs.py).
+Also: [[Functional Programming]], [Uncensored LLMs](https://www.youtube.com/watch?v=GyllRd2E6fg), [7deadlysongs](https://github.com/bluegreengreen/7deadlysongs/blob/main/7deadlysongs.py), Python Project Template (with Cruft).
 
 ### Python Classes (Research)
 

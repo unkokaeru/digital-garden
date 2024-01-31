@@ -1,5 +1,8 @@
 # Antilibrary
+
 > ****GPT-4**: Based on your interest in both fiction and non-fiction, I suggest starting with "Dune" by Frank Herbert. It's a classic science fiction novel that offers a richly woven tale with complex characters and themes. Enjoy your reading!*
+
+Actual [[Reading list]].
 
 ## [Dune by Frank Herbert](Dune%20by%20Frank%20Herbert.md)
 - **Author:** Frank Herbert

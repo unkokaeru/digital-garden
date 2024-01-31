@@ -1,18 +1,18 @@
 ## Academic Projects
 
-MATLAB: [[MTH1006 Computer Algebra and Technical Computing]]
+MATLAB: [[Computer Algebra and Technical Computing]]
 Python: [[MTH1007 Professional Skills and Group Study]]
 
 ## Personal Projects
 
-Also: [[Functional Programming]], [Uncensored LLMs](https://www.youtube.com/watch?v=GyllRd2E6fg).
+Also: [[Functional Programming]], [Uncensored LLMs](https://www.youtube.com/watch?v=GyllRd2E6fg), [7deadlysongs](https://github.com/bluegreengreen/7deadlysongs/blob/main/7deadlysongs.py), Python Project Template (with Cruft).
 
-### Python Classes (Research)
+### Sky (Voice Assistant)
 
 **Git Repo**: ...
 **Date Started**: ...
 
-Look into [[Python Classes (according to my brother)]], then try and implement what I've learned in a new project.
+A GPT voice assistant with as much integration and usefulness as I can manage.
 
 ### Morning Briefing Generation (App)
 
@@ -34,10 +34,12 @@ Similar to the Chess.com Review feature, give it a PGN (or Chess.com or Lichess 
 
 ### Chess Mini-Me (Chess Engine)
 
-**Git Repo**: ...
-**Date Started**: ...
+**Git Repo**: chess-mini-me
+**Date Started**: 24th December 2023
 
 A chess bot that acts at the exact same level as me, with similar openings, etc. - just like the customised Chess.com bots, but it also develops alongside me. It would be quite cool if it could do similar with any Chess.com account, given its URL.
+
+So far, it's a just simple chess engine with a proof-of-concept chess AI. I've utilised [[Python Classes (according to my brother)]], so I can learn a new important programming concept.
 
 ### Lingual Mini-Me (Chatbot)
 

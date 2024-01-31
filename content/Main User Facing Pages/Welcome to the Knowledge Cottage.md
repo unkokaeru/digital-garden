@@ -19,7 +19,7 @@
   
 - **🧠 [[Philosophy and Psychology]]**: Traverse the intricate pathways of the mind, exploring the depths of thought and consciousness.
   
-- **➗ [[Mathematics]]**: Join the dots of complex calculations, formulae, and theorems. Dive deeper, where theorems take flight and equations dance.
+- **➗ [[数学の独学]]**: Join the dots of complex calculations, formulae, and theorems. Dive deeper, where theorems take flight and equations dance.
   
 - **🗣️ [[Language]]**: Delight in the art of communication, both human and machine. Embark on a captivating learning journey, where words are the bridge to understanding different cultures and computational wonders.
   

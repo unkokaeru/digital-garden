@@ -4,13 +4,22 @@
 	 - Ancestry.
 	 - [OSINT](https://www.youtube.com/watch?v=7PAk1wsy3VI) and [more OSINT](https://www.youtube.com/watch?v=HORzekIiZZ0).
 	 - Taxes.
-	 - [Talking to a camera](https://www.youtube.com/watch?v=-asNGo75Wv8).
+	 - [Talking to a camera](https://www.youtube.com/watch?v=-asNGo75Wv8): [[vlog]].
 	 - Neuroaesthetics.
-	 - Music production.
+	 - Music production, with AI.
 	 - [Play games with strangers](https://www.youtube.com/watch?v=IKAaSIniTtk).
 	 - [Libraries over subscriptions](https://www.youtube.com/watch?v=eHU8p-ciXtk).
-	 - House Flipper 2.
 	 - Enrol with the European Mathematics Society (EMS): [[EMS membership application_student.docx]].
 	 - [Flight 370](https://www.youtube.com/watch?v=MhkTo9Rk6_4).
+	 - [Interesting breakfast idea](https://www.youtube.com/watch?v=L76XJqz9PWo), and [another one](https://www.youtube.com/watch?v=xdwLxfJBOWE).
+- Requires money
+	- I want Jibbitz.
+	- [Camera Repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
 - [[Date Ideas]]
 - [[Random Thoughts]]
+- Play all of the Assassin's Creed games!!
+- Learn a magic trick?
+- Learn how to solve a Rubik's Cube.
+- Create a workout app.
+- Create a language learning app.
+- Get a book on **R**.

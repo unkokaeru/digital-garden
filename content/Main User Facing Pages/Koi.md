@@ -7,7 +7,7 @@ Remember my darkest moments, whilst appreciating the light around me: my relatio
 
 Remember why I want to do what I want to do, and remember what's stopped me before. 
 
-Remember.
+Remember,
 
 ## Before I leave Lincoln...
 

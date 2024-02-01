@@ -4,11 +4,11 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 
 ## Course Components
 
-1. Numerical Assignments (15%)
+1. Numerical Assignments x4 (15%)
 2. In-Class Assessment (25%)
 3. Final Exams (60%)
 
-*Current percentage (rounded up):* 0%
+*Current percentage (rounded up):* 4%
 
 ## Learning Outcomes
 

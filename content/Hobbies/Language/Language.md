@@ -28,3 +28,5 @@ Learning foreign languages not only opens up communication with different cultur
 - **Spanish**: [[Spanish]] is one of the most spoken languages in the world. Learning Spanish can open up a wealth of travel and work opportunities.
 
 - **Italian**: Famous for its connection to food, art, and history, [[Italian]] is a beautiful language that is enjoyable to learn.
+
+- **[[Esperanto]]**.

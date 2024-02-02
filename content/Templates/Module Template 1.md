@@ -1,9 +1,11 @@
 Module Co-ordinator: JSmith@lincoln.ac.uk (Dr John Smith)
 
+[[Module Question-Based Revision]]
+
 ## Course Components
 
-1. Coursework Assessment (15%)
-2. In-Class Assignment (25%)
+1. Coursework Assignment (15%)
+2. In-Class Assessment (25%)
 3. Final Exams (60%)
 
 *Current percentage (rounded up):* 0%

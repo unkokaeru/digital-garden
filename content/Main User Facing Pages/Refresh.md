@@ -1,0 +1,30 @@
+- Shower!
+	- Wash hair
+	- Wash body
+	- Shave
+- Skincare!
+	- Wash
+	- Exfoliate
+	- Moisturise
+- Get dressed
+	- Comfy clean clothes!
+- Clean my crocs
+	- Then wear them! :D
+- Take out dishes
+	- Don't have to clean them yet :) - maybe soak though
+- Vacuum and mop my room
+	- When returning the stuff to the kitchen I can always do the kitchen, too, if it's my turn
+- Empty bins
+	- Incl. kitchen if it's my turn!
+- Change bedsheets
+	- Check if pillows etc. need washing too!
+- Prepare my washing
+	- Separate colours/whites, bag everything up ready to go, but you don't have to do it just yet!
+- Do my washing
+	- Set a timer so you don't forget
+- Return my library books
+	- If there are some that need returning - if not then just organise them
+- Have a meal :)
+	- Doesn't matter from where boss <3
+- Plan my week
+	- Hobonichi too!

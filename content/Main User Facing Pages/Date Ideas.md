@@ -7,3 +7,4 @@
 - Do online classes/workshops together
 - Plan a future trip together
 - Find some rando cool place in Lincoln.
+- https://zoechip.cc/watch-tv/sketchbook-79750.8297614

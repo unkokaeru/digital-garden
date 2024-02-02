@@ -1,0 +1,1 @@
+Two vectors are multiples of one another.

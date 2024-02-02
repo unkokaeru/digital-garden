@@ -15,12 +15,12 @@ Sushi/onigiri. [Knives](https://www.youtube.com/watch?v=Pd88VqUv2_w).
  - [[Pinch of Nom Quick and Easy.pdf]]
 ## My Recipes
 - [[Perfect Rice Cooking Instructions]]
-- [[Rice & Fish]]
+- [[Rice and Fish]]
 - [[Teriyaki Chicken Donburi]]
 - [[Omelette]]
 - [[Nachos]]
 - [[Burritos]]
-- [[Chilli & Rice]]
+- [[Chilli and Rice]]
 - [[Scrambled Egg on Toast]]
 - [[Burrito Bowl]]
 - [[side of fruit]]
@@ -28,7 +28,7 @@ Sushi/onigiri. [Knives](https://www.youtube.com/watch?v=Pd88VqUv2_w).
 - [[Breakfast Burritos]]
 - [[BBQ Beef Meatballs]]
 - [[Fried Egg on Toast with Spinach]]
-- [[Chicken Tikka Curry & Rice]]
+- [[Chicken Tikka Curry and Rice]]
 - [[Shredded BBQ Chicken]]
 - [[Protein Pancakes]]
 - [[Tomato and Basil Soup]]
@@ -62,19 +62,19 @@ Sushi/onigiri. [Knives](https://www.youtube.com/watch?v=Pd88VqUv2_w).
 **Dinner:** >
 ### Day 4
 **Breakfast:** [[Scrambled Egg on Toast]]
-**Lunch:** [[Rice & Fish]]
+**Lunch:** [[Rice and Fish]]
 ~~**Dinner:** [[Burrito Bowl]]~~
 ### Day 5
 **Breakfast:** [[Scrambled Egg on Toast]] (with a [[side of fruit]])
 **Lunch:** [[Chicken Broccoli and Cashew Stir Fry]]
-**Dinner:** [[Chilli & Rice]]
+**Dinner:** [[Chilli and Rice]]
 ### Day 6
 **Breakfast:** [[Breakfast Burritos]]
 **Lunch:** [[Teriyaki Chicken Donburi]]
 **Dinner:** [[BBQ Beef Meatballs]]
 ### Day 7
 **Breakfast:** [[Fried Egg on Toast with Spinach]]
-**Lunch:** [[Chicken Tikka Curry & Rice]]
+**Lunch:** [[Chicken Tikka Curry and Rice]]
 **Dinner:** [[Shredded BBQ Chicken]]
 ### Day 8
 **Breakfast:** [[Protein Pancakes]]

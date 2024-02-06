@@ -46,7 +46,7 @@
 		 - [ ] Complete [[Answers to Mechanics Practical 2]]
 		 - [ ] Do some extra reading - combining new knowledge into existing notes
 		 - [ ] Do some extra practice
-	 - Computing: [[Computer Algebra and Technical Computing]]
+	 - Computing: [[MTH1006 Computer Algebra and Technical Computing (depr.)]]
 		 - [x] Download this week's work :)
 		 - [x] Complete this week's work.
 		 - [x] Create new flashcards for more advanced MATLAB commands (e.g. fprintf/sprintf)

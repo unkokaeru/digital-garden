@@ -7,3 +7,7 @@ Justice will triumph - because the winners will become justice
 This is pretty cool https://en.wikipedia.org/wiki/Boulevard_du_Temple_(photograph)
 
 We're all just soft animals walking in and out of rooms.
+
+He who thinks the journey is over is the one that’s truly lost.
+
+“The Architecture of Happiness” by Alain de Botton: Style represents what the appreciator lacks: formerly perhaps structure and simplicity, currently perhaps expression and freedom.

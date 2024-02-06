@@ -110,19 +110,19 @@ Ending: 18th March, 2024.
 
 Initial roles are determined by the following,
 
-- **Chairperson**: Alex Rushworth, 27554937@students.lincoln.ac.uk. 19th Century
+- **Chairperson**: Alex Rushworth **A.R.**, 27554937@students.lincoln.ac.uk. 19th Century
 	- Manages the group activity.
-- **Secretary**: William Fayers, 27378661@students.lincoln.ac.uk. 18th Century
+- **Secretary**: William Fayers **W.F.**, 27378661@students.lincoln.ac.uk. 18th Century
 	- Takes the minutes and organises internal deadlines.
-- **Report coordinator**: Katie Arnold, 27620935@students.lincoln.ac.uk. 1st Millennium BC
+- **Report coordinator**: Katie Arnold **K.A.1.**, 27620935@students.lincoln.ac.uk. 1st Millennium BC
 	- Check the report format and submit the final report.
-- **Presentation coordinator**: Nathan Grieve, 27904244@students.lincoln.ac.uk. 16th Century
+- **Presentation coordinator**: Nathan Grieve **N.G.**, 27904244@students.lincoln.ac.uk. 16th Century
 	- Check the presentation format and submit the final presentation.
-- **Research coordinator**: Tom Ward, 26479576@students.lincoln.ac.uk. 20th Century
+- **Research coordinator**: Tom Ward **T.W.**, 26479576@students.lincoln.ac.uk. 20th Century
 	- Take care of the research material of the group.
-- **ICT coordinator**: Kieran Alwill, 27424289@students.lincoln.ac.uk. 12th Century
+- **ICT coordinator**: Kieran Alwill **K.A.2.**, 27424289@students.lincoln.ac.uk. 12th Century
 	- Plan any sharing of data and organise meeting locations, including booking rooms if required.
-- **Engagement coordinator**: Abbie Hall, 27821440@students.lincoln.ac.uk. 2nd-3rd Millennium BC
+- **Engagement coordinator**: Abbie Hall **A.H**, 27821440@students.lincoln.ac.uk. 2nd-3rd Millennium BC
 	- Make sure that the group communicates with the supervisor and each member of the group communicates.
 
 TOC -> Intro -> Abbie -> Katie -> Kieran -> Nathan -> William -> Alex -> Tom -> Analysis/Conclusion -> Appendices

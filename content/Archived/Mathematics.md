@@ -15,7 +15,7 @@ https://www.lincoln.ac.uk/course/mthmthub/
 - **[[MTH1008 Personal Tutoring]]**
 - [[MTH1001 Algebra]] (Core): This module covers the fundamental concepts and techniques of algebra, including equations, functions, and mathematical structures.
 - [[MTH1002 Calculus]] (Core): This module focuses on differential and integral calculus, exploring topics such as limits, derivatives, and integrals.
-- [[Computer Algebra and Technical Computing]] (Core): In this module, students learn how to use computer algebra systems and technical computing software to solve mathematical problems and perform computations.
+- [[MTH1006 Computer Algebra and Technical Computing (depr.)]] (Core): In this module, students learn how to use computer algebra systems and technical computing software to solve mathematical problems and perform computations.
 - [[MTH1003 Ideas of Mathematical Proof]] (Core): This module introduces students to the concepts and techniques of mathematical proof, emphasizing logical reasoning and rigorous argumentation.
 - [[MTH1004 Linear Algebra]] (Core): This module explores the theory and applications of linear algebra, including vector spaces, matrices, and systems of linear equations.
 - [[MTH1005 Probability and Statistics]] (Core): In this module, students study the principles of probability theory and statistical analysis, learning how to analyse data and make informed decisions.

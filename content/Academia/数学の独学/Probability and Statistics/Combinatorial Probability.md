@@ -5,27 +5,35 @@ Combinatorial probability is a branch of mathematics that deals with the likelih
 ## Key Concepts
 
 ### 1. Sample Space
+
 The sample space in combinatorial probability is the set of all possible outcomes. For example, in a dice roll, the sample space is {1, 2, 3, 4, 5, 6}.
 
 ### 2. Events
+
 An event is a subset of the sample space. For instance, rolling an even number is an event within the sample space of a dice roll.
 
 ### 3. Counting Techniques
+
 Counting techniques are vital in determining the size of the sample space and the number of favorable outcomes. The most common methods are:
+
 - **Factorials**: Used in arrangements where order matters. For example, the number of ways to arrange 'n' distinct objects is $n!$ (n factorial).
 - **Permutations**: Order-specific arrangements of a subset of items.
 - **Combinations**: Order-independent selections of a subset of items.
 
 ### 4. Probability Formula
+
 The probability of an event is given by $P(E) = \frac{\text{Number of favorable outcomes}}{\text{Total number of outcomes}}$.
 
 ## Applications
+
 Combinatorial probability is used in analyzing games of chance, in cryptographic algorithms, and in predicting outcomes in genetic inheritance.
 
 ## Historical Context
+
 The foundation of combinatorial probability was laid in the 17th century, with significant contributions from mathematicians like Blaise Pascal and Pierre de Fermat. Their correspondence on problems related to gambling laid the groundwork for the theory of probability.
 
 ## Examples in Real Life
+
 1. **Lotteries**: Calculating the odds of winning.
 2. **Poker**: Determining the probability of specific hand combinations.
 3. **Genetics**: Predicting the likelihood of inheriting specific traits.

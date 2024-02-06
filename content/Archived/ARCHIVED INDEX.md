@@ -32,7 +32,7 @@ Behind a well-worn drawer, you'll find the [[University Finances|leather-bound c
 
 In the cosy corner of the study, a [[Vinyls|vintage record player, spinning melodious tales]], houses my cherished vinyl collection. Adjacent to it, you'll find the [[Games|well-loved game cabinet]], brimming with tales of friendly competition and shared amusement.
 
-The cottage even holds a record of my language learning journey, etched into [[Language|ancient hieroglyphics, whispering forgotten tales]]. The [[Health|vintage blackboard, covered in scribbles, leaning against the wall]], serves as a simple health log, while the [[Craft|creaky drawer, bulging with dusty photographs]], reveals what I've learned about crafts, particularly crochet. 
+The cottage even holds a record of my language learning journey, etched into [[Language Learning|ancient hieroglyphics, whispering forgotten tales]]. The [[Health|vintage blackboard, covered in scribbles, leaning against the wall]], serves as a simple health log, while the [[Craft|creaky drawer, bulging with dusty photographs]], reveals what I've learned about crafts, particularly crochet. 
 
 And let's not forget the [[Failure Resume|neglected bin, overflowing with discarded dreams and faded hopes]], my very own failure resume. 
 

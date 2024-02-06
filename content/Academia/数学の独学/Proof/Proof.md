@@ -47,6 +47,8 @@ Module Co-ordinator: EKhukhro@lincoln.ac.uk (Dr Evgeny Khukhro)
 
 ### 2. Sets, Relations, and Mappings
 
+[[Proof Prelim Slides (Week 20).pdf]]
+
 #### 2.1 Fundamental Concepts of Set Theory
 
 - **[[Operations on Sets]]**: Understanding operations on sets and their properties, including Venn diagrams.

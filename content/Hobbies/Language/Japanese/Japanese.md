@@ -1,1 +1,0 @@
-Memorise [this song](https://www.youtube.com/watch?v=L844aqBgFh8). [Japanese tips](https://www.youtube.com/watch?v=4aTWrkHuxVQ).

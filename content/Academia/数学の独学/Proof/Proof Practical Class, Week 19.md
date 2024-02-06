@@ -117,7 +117,25 @@ Use mathematical induction to prove that $n!>3^{n}$ for any $n\ge7$.
 For the trivial case $n=7$, $n!>3^{n}\implies7!>3^7\iff5040>2187$, hence the statement is true for the trivial step.
 
 **Inductive Step**
-...
+Suppose that the assertion is true for $n=k$, that is, $k!>3^{k}:k\ge7$:
+
+$$
+(k+1)!>3^{k+1}\iff (k+1)\cdot k!>3^{k+1}
+$$
+
+And, by the induction hypothesis,
+
+$$
+k!>3^{k}\iff(k+1)\cdot k!>(k+1)\cdot3^{k}
+$$
+
+Hence,
+
+$$
+(k+1)\cdot k!>(k+1)\cdot3^{k}>3^{k+1}
+$$
+
+*need to revise inequality induction*
 
 ### Question Six
 

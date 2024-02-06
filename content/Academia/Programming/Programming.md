@@ -1,6 +1,7 @@
 ## Academic Projects
 
-MATLAB: [[Computer Algebra and Technical Computing]]
+MATLAB: [[MTH1006 Computer Algebra and Technical Computing (depr.)]]
+Maple: [[Maple]]
 Python: [[MTH1007 Professional Skills and Group Study]]
 
 ## Personal Projects

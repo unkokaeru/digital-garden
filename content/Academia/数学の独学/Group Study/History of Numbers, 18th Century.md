@@ -6,9 +6,13 @@
 
 [[Templates for Group Study]]
 
+[[Minutes]]
+
 ## Not useful for other members
 
 [[Chapter Drafts]]
+
+[[Timeline of the Century]]
 
 ___
 

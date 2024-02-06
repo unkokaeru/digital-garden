@@ -13,9 +13,9 @@ Remember,
 
 There are three things that I want to achieve mastery in:
 
-- Mathematics.
-- Languages.
-- Chess.
+- Mathematics (数).
+- Languages (語).
+- Chess (碁).
 
 ### Mathematics
 
@@ -43,10 +43,10 @@ Of my more random goals, to be good at chess it to be healthy, focused, and disc
 
 However, this does not make me a completely well-rounded human - certainly not one that could potentially become a parent in the future. Hence, there are a few more things that I *need* to do:
 
-- **Read a book a week**, to further my knowledge about this world, as well as the people within it.
-- **Cook twice a day**, at least, so I can both economically keep myself alive and happy, whilst simultaneously learning how I can do the same for others in the future.
-- Have **morning and evening rituals** to surround my day, to give myself an undeniable yet basic structure to my day, as well as build spirituality as the backbone of my drive, whilst I flesh out the substance of my self-drive.
-- Demonstrate my **self-discipline at least once a day** - through either abstaining from comfort, or enduring discomfort. This will help me build my self-discipline, not by constantly using it, but by being comfortable with discomfort so I can use large reserves of it when I must.
-- Walk for at least **13,000 steps every day**, to clear my head, calm my body, and explore the world - a little bit at a time.
-- **Work out four times a week**, slowly progressing my ability to move my body, as well as increasing my health.
-- Develop my tutoring business, not only helping communities one person at a time, as well as growing my economic health to sustain my future self, but also to grow my ability to teach so I can teach those around me in the future. This is a more complex idea, but I gather I can do so by beginning to **advertise my tutoring services every 1-3 days**.
+- **Read a book a week (読)**, to further my knowledge about this world, as well as the people within it.
+- **Cook twice a day (食)**, at least, so I can both economically keep myself alive and happy, whilst simultaneously learning how I can do the same for others in the future.
+- Have **morning and evening rituals (儀)** to surround my day, to give myself an undeniable yet basic structure to my day, as well as build spirituality as the backbone of my drive, whilst I flesh out the substance of my self-drive.
+- Demonstrate my **self-discipline at least once a day (儀)** - through either abstaining from comfort, or enduring discomfort. This will help me build my self-discipline, not by constantly using it, but by being comfortable with discomfort so I can use large reserves of it when I must.
+- Walk for at least **13,000 steps every day (儀)**, to clear my head, calm my body, and explore the world - a little bit at a time.
+- **Work out four times a week (力)**, slowly progressing my ability to move my body, as well as increasing my health.
+- Develop my tutoring business, not only helping communities one person at a time, as well as growing my economic health to sustain my future self, but also to grow my ability to teach so I can teach those around me in the future. This is a more complex idea, but I gather I can do so by beginning to **advertise my tutoring services every 1-3 days (宣)**.

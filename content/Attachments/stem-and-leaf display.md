@@ -35,7 +35,7 @@ Leaf: tenths ^i9RRPyDD
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.3",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "line",
@@ -83,8 +83,8 @@ Leaf: tenths ^i9RRPyDD
 		},
 		{
 			"type": "text",
-			"version": 117,
-			"versionNonce": 1555212566,
+			"version": 118,
+			"versionNonce": 1285789894,
 			"isDeleted": false,
 			"id": "QqhUASwG",
 			"fillStyle": "solid",
@@ -104,7 +104,7 @@ Leaf: tenths ^i9RRPyDD
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706786180915,
+			"updated": 1707226312202,
 			"link": null,
 			"locked": false,
 			"fontSize": 44.36860835759786,
@@ -120,8 +120,8 @@ Leaf: tenths ^i9RRPyDD
 		},
 		{
 			"type": "text",
-			"version": 174,
-			"versionNonce": 1317607318,
+			"version": 175,
+			"versionNonce": 1939062426,
 			"isDeleted": false,
 			"id": "afRqhzBz",
 			"fillStyle": "solid",
@@ -141,7 +141,7 @@ Leaf: tenths ^i9RRPyDD
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706786267912,
+			"updated": 1707226312208,
 			"link": null,
 			"locked": false,
 			"fontSize": 44.36860835759786,
@@ -186,8 +186,8 @@ Leaf: tenths ^i9RRPyDD
 		},
 		{
 			"type": "text",
-			"version": 35,
-			"versionNonce": 1838850570,
+			"version": 36,
+			"versionNonce": 260083718,
 			"isDeleted": false,
 			"id": "Hb6LV3Ff",
 			"fillStyle": "solid",
@@ -207,7 +207,7 @@ Leaf: tenths ^i9RRPyDD
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706786180915,
+			"updated": 1707226312210,
 			"link": null,
 			"locked": false,
 			"fontSize": 63.306442045694034,
@@ -223,8 +223,8 @@ Leaf: tenths ^i9RRPyDD
 		},
 		{
 			"type": "text",
-			"version": 75,
-			"versionNonce": 1902875722,
+			"version": 76,
+			"versionNonce": 311745370,
 			"isDeleted": false,
 			"id": "i9RRPyDD",
 			"fillStyle": "solid",
@@ -244,7 +244,7 @@ Leaf: tenths ^i9RRPyDD
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706786192470,
+			"updated": 1707226312211,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -274,10 +274,10 @@ Leaf: tenths ^i9RRPyDD
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 252.68546166590275,
-		"scrollY": 211.67720443856967,
+		"scrollX": 54.05473162730527,
+		"scrollY": 216.1860458169179,
 		"zoom": {
-			"value": 1.75
+			"value": 1.8
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

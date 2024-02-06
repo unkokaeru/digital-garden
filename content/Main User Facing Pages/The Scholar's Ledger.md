@@ -48,18 +48,17 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 
 Otherwise...
 
-**Long-Term**
-- [ ] Chill, homie: play some chess, learn some languages, plan some workouts - maybe I can implement this all into an application.
+**Personal**
+- [ ] Study some chess openings (King's Indian, London, Caro-Kann, Italian?)?
+- [ ] Plan a new workout regime based on improving strength and skills for calisthenics, as well as improving endurance.
+- [ ] Practice writing [hiragana](hiragana.pdf) and [katakana](katakana.pdf).
+- [ ] Buy canned tomatoes and tortilla chips - nacho stuff (**so I can have Nachos with the Ludwig stream tonight)**.
+
+**Academic Long-Term**
 - [ ] Work on the [[History of Numbers, 18th Century]], for my [[Group Study]].
 
-**Short-Term Academic**
-- [ ] Re-write [[Computer Algebra and Technical Computing]], adding in [[Maple]].
-- [ ] Work on a [[Maple Logbook]] after deciding its format: Canva, Markdown, LaTeX, etc.
-- [ ] Get the books from the [[Probability and Statistics]] reading list (from Blackboard), the next time I'm in the library.
-- [ ] Go over [[Proof Practical Class, Week 19]] and [[Probability and Statistics Summary Questions]], whilst completing unfinished questions and checking finished questions.
-
-**Short-Term Personal**
-- [ ] Get this: [https://obsidian.md/plugins?id=remotely-save](https://obsidian.md/plugins?id=remotely-save).
+**Academic Short-Term**
+- [ ] Go over [[Mathematical Induction]] in the case of inequalities and Cumulative Induction (Strong Induction).
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 

@@ -21,7 +21,7 @@
   
 - **➗ [[数学の独学]]**: Join the dots of complex calculations, formulae, and theorems. Dive deeper, where theorems take flight and equations dance.
   
-- **🗣️ [[Language]]**: Delight in the art of communication, both human and machine. Embark on a captivating learning journey, where words are the bridge to understanding different cultures and computational wonders.
+- **🗣️ [[Language Learning]]**: Delight in the art of communication, both human and machine. Embark on a captivating learning journey, where words are the bridge to understanding different cultures and computational wonders.
   
 - **💪 [[Health]]**: Discover the secrets of well-being, from the rhythms of the heart to the strength of muscles. Track progress and milestones with the detailed [[Gym Log]].
   

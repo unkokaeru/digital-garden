@@ -1,6 +1,8 @@
 [[Proof Practical Class, Week 19]]
 [[Proof Tutorial Class, Week 20]]
 [[Proof Practical Class, Week 20]]
+[[Proof Tutorial Class, Week 21]]
+[[Proof Practical Class, Week 21]]
 
 1. Use mathematical induction to prove that $5^{n}+3$ is divisible by $4$ for all positive integers $n$.
 
@@ -59,3 +61,36 @@ $$
 20. Use mathematical induction to prove that every positive integer $n\ge8$ can be represented as $n=3a+5b$ where $a$ and $b$ are non-positive integers.
 
 21. Consider the function $f(x)= \frac{x}{x+1}$, and define recursively a sequence of functions $f_{1}(x)=f(x)$ and $f_{i+1}(x)=f(f_{i}(x))$.
+
+22. Use mathematical induction to prove that $2^{n}>100n$ for any $n\ge10$.
+
+23. Where is the mistake in the following "proof" that all triangles have the same area?
+    >Obviously, it is sufficient to prove that, given any $n$ triangles, they all have the same area. We use induction on $n$. Indeed,
+>1. If we have one triangle, the assertion is of course true.
+>2. Suppose the assertion is true for $n=k$. Consider any $k+1$ triangles $T_{1},\ldots,T_{k+1}$. Apply the induction hypothesis to the first $k$ of the triangles: $T_{1},\ldots,T_{k+1}$ all have the same area. Then apply the induction hypothesis to the last $k$ of them: $T_{2},\ldots,T_{k+1}$ all have the same area. Then obviously all $k+1$ triangles $T_{1},\ldots,T_{k+1}$ have the same area: area of $T_{1}=\text{area of }T_{2}=\dots=\text{area of }T_{k}=\text{area of }T_{k+1}$.
+>Thus, by the Axiom of Mathematical Induction, the assertion is true for all $n$, and therefore all triangles have the same area.
+
+24. How does one tie a goat so it can eat grass within exactly a semicircle? It can be leashed multiple times, with several pegs. For example, one peg and a leash mean that the goat eats within a circle. It is also allowed to string one rope tightly between two pegs, and to tie the goat with a leash to a small ring sliding on the first rope. *Hint: use intersections of sets*.
+
+25. Use a diagram to prove the property $A\times(B\cup C)=(A\times B)\cup(A\times C)$.
+
+26. Let $A=\{1,2,\ldots,100\}$ be the set of all integers from 1 to 100. Let $R$ be a relation on $\mathscr{P}(A)$ (the set of all subsets of $A$) defined as $BRC$ if $|B|\le|C|$. Determine if $R$ is...
+	1. ...transitive,
+	2. ...reflexive,
+	3. ...symmetric,
+	4. ...antisymmetric,
+    and in each case giving a proof if yes, or a counterexample if not. Hence state whether $R$ is an order, or an equivalence, or neither.
+
+27. On the set $S=\{1,2,3,4,5,6,7,8,9\}$, consider the relation $R$ defined as $aRb$ if $a|b$ (that is, $a$ divides $b$). Draw the diagram $R$ as a subset of $S\times S$.
+
+28. Let $\sim$ be a relation on the set $\mathbb{R}\times \mathbb{R}$ defined by $(x,y)\sim(a,b)$ if $y-|x|=b-|a|$.
+	1. Show that $\sim$ is an equivalence.
+	2. What is the equivalence class of $(2,-3)$ with respect to this equivalence $\sim$?
+
+29. Consider the order relation on $\mathbb{N}$ defined by divisibility: $a|b$ (when $b=ak$ for $k\in \mathbb{N}$). What are the infimum and supremum of the set $S=\{8,12,36\}$? Does this set have the greatest element? What about the smallest element?
+
+30. Consider the lexicographical order $\le_{L}$ on $\mathbb{R}\times \mathbb{R}$, which means that by definition $(a,b)\le_{L}(c,d)$ if either $a<c$ (while $b$ and $d$ can be any), or $a=c$ and $b\le d$.
+	1. Find the supremum (least upper bound), if it exists, with respect to $\le_{L}$ of the set $D=\{(x,y):x^{2}+y^{2}\le1\}$ (the disc of radius $1$ with centre at the origin, including the unit circle).
+	2. Find the supremum (least upper bound), if it exists, with respect to $\le_{L}$ of the set $D_{0}=\{(x,y):x^{2}+y^{2}\lt1\}$ (the disc of radius $1$ with centre at the origin, without the boundary unit circle).
+
+31. On the set $S=\mathbb{N}\times \mathbb{N}$, consider the relation $\sim$ defined as $(m_{1},n_{1})\sim(m_{2},n_{2})$ if $m_{1}\cdot n_{2}=m_{2}\cdot n_{1}$. Show that $\sim$ is an equivalence. Describe the equivalence class of $(1,2)$ with respect to this equivalence $\sim$.

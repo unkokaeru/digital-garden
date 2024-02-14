@@ -49,16 +49,21 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 Otherwise...
 
 **Personal**
-- [ ] Study some chess openings (King's Indian, London, Caro-Kann, Italian?)?
-- [ ] Plan a new workout regime based on improving strength and skills for calisthenics, as well as improving endurance.
-- [ ] Practice writing [hiragana](hiragana.pdf) and [katakana](katakana.pdf).
-- [ ] Buy canned tomatoes and tortilla chips - nacho stuff (**so I can have Nachos with the Ludwig stream tonight)**.
+- [ ] **Japanese**: Complete the [hiragana](hiragana.pdf) and [katakana](katakana.pdf) practice. Complete by [WaniKani](https://www.wanikani.com/subject-lessons/start) practice.
+- [ ] **Chess**: Study some chess openings ([King's Indian](https://www.youtube.com/watch?v=5XyayUs6J1M), [London](https://www.youtube.com/watch?v=dksvHyyI_Vo), [Caro-Kann](https://www.youtube.com/watch?v=0p_881Nwoo4), [Ruy López](https://www.youtube.com/watch?v=csJKauwbYFk))?
+- [ ] Crack Maple (using a 2022/3 crack on my modern version).
+- [ ] Clone [Tanaka-san](https://www.youtube.com/@japanese_tanakasan/videos) voice ([download clear audio](https://x2mate.com/en30/youtube-mp3), then [clone](https://elevenlabs.io/voice-lab), then use for morning briefings).
+- [ ] Refresh my ID Mobile contract - before the 26th Feburary.
 
-**Academic Long-Term**
-- [ ] Work on the [[History of Numbers, 18th Century]], for my [[Group Study]].
-
-**Academic Short-Term**
-- [ ] Go over [[Mathematical Induction]] in the case of inequalities and Cumulative Induction (Strong Induction).
+**Academic**
+- [ ] Work on the [[History of Numbers, 18th Century]], for my [[Group Study]]: [[Working Outline]], [[Working Draft]].
+- [ ] Go over the practical sessions and, optionally, complete further questions from the textbooks:
+	- [ ] [[Proof Practical Class, Week 20]],
+	- [ ] [[Linear Algebra Practical Class, Week 20]],
+	- [ ] [[Probability and Statistics Practical Class, Week 20]],
+	- [ ] [[Proof Practical Class, Week 21]],
+	- [ ] [[Linear Algebra Practical Class, Week 21]],
+	- [ ] [[Probability and Statistics Practical Class, Week 21]].
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 

@@ -28,3 +28,5 @@
 	- Doesn't matter from where boss <3
 - Plan my week
 	- Hobonichi too!
+- Meal prep for the week!
+	- If you're feeling cheeky :)

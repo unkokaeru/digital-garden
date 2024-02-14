@@ -15,6 +15,8 @@
 - Requires money
 	- I want Jibbitz.
 	- [Camera Repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
+	- New hard drive for big laptop.
+	- [Hobonichi cover](https://www.amazon.co.uk/Hobonichi-Techo-Cousin-Cover-Kitamura/dp/B0CCPHKVF3/).
 - [[Date Ideas]]
 - [[Random Thoughts]]
 - Play all of the Assassin's Creed games!!

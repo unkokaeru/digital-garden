@@ -37,6 +37,8 @@ https://github.com/unkokaeru/lincoln-labs.
 
 ### 1. Probability and Statistics
 
+[[Probability and Statistics Preliminary Slides (Week 21).pdf]]
+
 #### 1.1 Probability Spaces
 
 - **[[Combinatorial Probability]]**: Analysis of probability in situations where outcomes are distinctly defined and countable.

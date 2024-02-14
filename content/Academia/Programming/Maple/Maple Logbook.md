@@ -1,3 +1,8 @@
+
+![[Maple Logbook.mw]]
+
+Below is the deprecated version, above is the working logbook.
+
 # Maple Logbook
 
 ## Personal Details
@@ -103,7 +108,19 @@ Last, some calculus! This was again quite simple, apart from one set of question
 
 #### Extra Work
 
-No extra work yet, maybe later in the week - look at procedures, further calculus, and interactive plotting.
+No extra work this week due to a lack of time.
+
+### Week Three, 12th February 2024 to 18th February 2024
+
+...
+
+#### In-Class Work
+
+[[Session 3.mw]]
+
+#### Extra Work
+
+...
 
 ## References
 

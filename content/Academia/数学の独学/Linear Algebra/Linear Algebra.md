@@ -42,9 +42,11 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 #### 1.2 Vectors in Higher Dimensions
 
 - **[[Dot Product, Angle, Length]]**: Understanding the dot product, calculating angles between vectors, and determining vector length in multidimensional spaces.
-- [[Vector Span in Higher Dimensions]]: Finding the sets of all possible linear combinations of a given set of vectors, representing the subspace of the higher-dimensional space that these vectors can collectively occupy or cover.
+- **[[Vector Span in Higher Dimensions]]**: Finding the sets of all possible linear combinations of a given set of vectors, representing the subspace of the higher-dimensional space that these vectors can collectively occupy or cover.
 
 ### 2. Linear Systems and Matrices
+
+[[Linear Algebra Prelim Slides (week 21).pdf.pdf]]
 
 #### 2.1 Solving Linear Systems
 

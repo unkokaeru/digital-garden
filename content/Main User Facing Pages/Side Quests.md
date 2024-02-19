@@ -17,6 +17,7 @@
 	- [Camera Repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
 	- New hard drive for big laptop.
 	- [Hobonichi cover](https://www.amazon.co.uk/Hobonichi-Techo-Cousin-Cover-Kitamura/dp/B0CCPHKVF3/).
+- Clone [Tanaka-san](https://www.youtube.com/@japanese_tanakasan/videos) voice ([download clear audio](https://x2mate.com/en30/youtube-mp3), then [clone](https://elevenlabs.io/voice-lab), then use for morning briefings).
 - [[Date Ideas]]
 - [[Random Thoughts]]
 - Play all of the Assassin's Creed games!!

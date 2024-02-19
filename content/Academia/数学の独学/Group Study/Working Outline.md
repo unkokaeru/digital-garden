@@ -1,6 +1,6 @@
 - Overview of the 18th century's impact on mathematics, highlighting key developments and figures.
-	- Key figures: Newton, **Euler**, Gauss, Lagrange, Leibniz, Bernoulli family, Laplace.
-	- Key topics: Calculus, notation, complex numbers, number theory, probability theory, Cartesian coordinate system, the acceptance of theoretical mathematics and the era of enlightenment.
+	- Key figures: Newton, Euler, Gauss, Lagrange, Leibniz, Bernoulli family.
+	- Key topics: Calculus, notation, complex numbers, number theory, probability theory, the acceptance of theoretical mathematics and the era of enlightenment.
 	- Mathematical discoveries were occurring more and more often, with the Scientific Revolution catapulting mathematics into the Era of Enlightenment.
 
 - Examination of calculus's evolution, spotlighting Newton and Leibniz's contributions and the surrounding controversy.
@@ -8,6 +8,8 @@
 	- The Royal Society, of which Newton was a prominent member (and later president), conducted an investigation into the matter, unsurprisingly endorsing Newton's priority. This outcome was widely criticized as biased, as Newton himself had a significant influence on the Society's proceedings.
 	- Despite the dispute, the mathematical community eventually recognized the contributions of both Newton and Leibniz. While Newton's work was instrumental in the development of physical sciences, Leibniz's notation and systematic approach facilitated the broader application of calculus in mathematics.
 	- Today, both mathematicians are credited with its development, each bringing a unique perspective and set of tools to the discipline.
+	- **Practical aspects**: the concept of calculus, developed by both Newton and Leibniz, provided engineers with a powerful modelling tool to solve problems related to forces, motion, and the behaviour of materials under stress, and hence this period saw the construction of remarkable engineering feats, such as the Eddystone Lighthouse and the development of steam engines: foundational to the Industrial Revolution.
+	- **Links to previous century**: relied heavily on the Cartesian co-ordinate system developed in the 17th century.
 
 - Exploration of complex numbers through the works of de Moivre and Euler, noting their growing acceptance.
 	- Initial scepticism due to the abstract nature of complex numbers initially hindered their acceptance: they were not clearly geometric or physical.
@@ -24,22 +26,26 @@
 	- Throughout the century, Euler worked on various fields of mathematics, including Diophantine Equations and their solutions, the Theory of Partitions, Perfect Numbers, Amicable Numbers, the Sum of Divisors, and whilst the Prime Number Theory was formally stated after Euler, his work on the distribution of primes and the zeta function paved the way for its eventual formalisation.
 
 - Analysis of the beginnings of modern number theory, emphasizing Lagrange's work and the systematic study of numbers.
-	- https://chat.openai.com/share/42752159-6460-4c88-944f-fc4fb40ba477
+	- Joseph-Louis Lagrange also made significant contributions to number theory - setting the foundation for a systematic study of numbers, rather than more disorganised study.
+	- He contributed to many fields of mathematics, similar to Euler, but number theory is perhaps his most notable: he was the first to apply rigorous analytical methods to the study of numbers, moving away from the more empirical approaches of previous academics, marking a significant shift towards the modern approach to number theory, where mathematics is more abstract and logical deduction is more central.
+	- One of Lagrange's most celebrated contributions to number theory is his proof of the four-square theorem, a theorem that stats that every positive integer can be expressed as the sum of four squares, e.g. $7=2^{2}+1^{2}+1^{2}+1^{2}$. This proof was not only significant for its result, but how it approached the result: a blend of algebraic and analytical techniques, which would influence future generations of mathematicians to come and seed the development of algebraic number theory.
+	- Lagrange also made significant contributions to the theory behind Diophantine equations, named after the Greek mathematician Diophantus. These equations involve finding integer solutions to polynomial equations, which Lagrange developed methods to do which were incredibly innovative for the 18th century and helped further establish this systematic study of algebraic equations - which Gauss and Euler took and further developed.
+	- As well as these two influential contributions, Lagrange worked on congruences and the development of the theory behind quadratic forms - another foundational topic for algebraic number theory.
+	- Whilst these were all monumental contributions, it's important to recognise how these were part of a much broader movement across the 18th century to formalise and systemise mathematics, both across the 17th and 18th centuries, and beyond. Euler, Fermat, and Gauss all significantly impacted number theory, each adding layers of complexity and understanding that would eventually build modern number theory.
 
 - Consideration of irrational and transcendental numbers, leading to discussions on their acceptance and early studies.
+	- Among this more formal and analytical era, moving away from the geometry of the ancient Greeks, came a consideration of two new numbers: irrational and transcendental numbers. These numbers, defined as the ratio of two integers and as a root of any algebraic equations with rational coefficients, respectively, challenge an intuitive understanding of quantities and measurement, moving towards a more theoretical outlook on mathematics.
+	- The former of these concepts, irrational numbers, is often attributed to the ancient Greeks, particularly the Pythagoreans who initially believed that all numbers could be expressed as ratios of integers - the discovery of numbers such as the square root of two was very startling and troubling to them, and forced mathematicians to begin to expand their understanding of numbers outside of the confines of rational numbers.
+	- Over time, mathematicians such as Euclid began to incorporate them into their work, acknowledging their existence and properties through geometric constructions and proofs.
+	- However, the acceptance of these numbers was often disputed through the centuries of mathematics, and only until much more modern times did the existence of these numbers become more accepted, illustrating how the mathematical community was becoming more willing to embrace counterintuitive and challenging concepts. 
+	- The latter of the concepts, transcendental numbers, are similarly intricate, yet even more abstract: hence they were recognised even further towards the modern end of history, towards the 19th century. However, the first proven examples of these numbers were in the 18th century, with numbers such as Euler's number $e$ and $\pi$, the latter of which was provided by Ferdinand von Lindemann in 1882 - a huge milestone in the history of numbers. It also resolved a longstanding ancient Greek problem of "squaring the circle", as it proved it was impossible with a ruler and compass alone, as it involved constructing a square with the same area as a circle which in turn requires producing the length of $\pi$ exactly, which directly contradicts its new definition.
 
 - Investigation into infinite series and the concept of convergence, noting significant contributions to the field.
-
-- Reflection on mathematics in academia, including the establishment of societies, journals, and the role of universities.
-
-- Overview of mathematics' practical applications in navigation, astronomy, engineering, and its influence on the Industrial Revolution.
-
-- Biographical sketches of notable mathematicians like Bernoulli, d'Alembert, and Laplace, focusing on their contributions and impact.
-
-- Insight into the interactions and correspondence among mathematicians, highlighting the collaborative nature of mathematical progress.
+	- Whilst early in Ancient Greece, Zeno of Elea hinted at the concept of infinity and convergence with his paradoxes, and the birth of calculus began to develop the notation of series with the work of Leibniz, as well as the Bernoulli family making significant contributions in exploring the properties of series and their convergence, only in the 18th century were infinite series formalised and expanded upon.
+	- Leonhard Euler, again, was a very pivotal figure, working on the sum of reciprocal squares converging to $\frac{\pi^{2}}{6}$ - significant contributing to the famous "Basel problem". Euler demonstrated the power of infinite series.
+	- Two new names, Brook Taylor and Colin Maclaurin developed two series after their surnames, also: the Taylor and Maclaurin series, showing how functions can be represented as infinite series.
 
 - Review of the evolution of mathematical notation and the standardisation of symbols, alongside the role of technological advancements like the printing press.
-
-- Discussion on challenges and controversies, including intellectual property disputes and the limitations of 18th-century mathematical understanding.
-
-- Conclusion summarising the century's key advancements and their enduring impact on modern mathematics, reflecting on the evolution of mathematical thought.
+	- During the 18th century, mathematical notation began to evolve into a much more standardised and universally understood language. Prior to this period, notation often varied between mathematicians, leading to misunderstanding and confusion. Especially the work of mathematicians such as the influential Leonhard Euler introduced and popularised much of modern notation, included function notation, Euler's number, the symbol for the sum, and the unit of imaginary numbers.
+	- This was particularly facilitated by the increase of communications between European mathematicians, proliferating mathematical journals and books, allowing the widespread dissemination of new ideas and notations. This even allowed notation to be common between most mathematicians at the birth of new concepts, rather than having centuries to get confused as was with most previous mathematical concepts. For example, with the birth of calculus came the birth of new standardised notation which was widely adopted at the time.
+	- This was likely due to the new abstract nature of mathematics, which required more concrete notation in order to accurately and quickly communicate these more complex ideas which were not as logical and easy to understand.

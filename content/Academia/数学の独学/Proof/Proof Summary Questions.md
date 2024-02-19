@@ -3,6 +3,8 @@
 [[Proof Practical Class, Week 20]]
 [[Proof Tutorial Class, Week 21]]
 [[Proof Practical Class, Week 21]]
+[[Proof Tutorial Class, Week 22]]
+[[Proof Practical Class, Week 22]]
 
 1. Use mathematical induction to prove that $5^{n}+3$ is divisible by $4$ for all positive integers $n$.
 
@@ -94,3 +96,36 @@ $$
 	2. Find the supremum (least upper bound), if it exists, with respect to $\le_{L}$ of the set $D_{0}=\{(x,y):x^{2}+y^{2}\lt1\}$ (the disc of radius $1$ with centre at the origin, without the boundary unit circle).
 
 31. On the set $S=\mathbb{N}\times \mathbb{N}$, consider the relation $\sim$ defined as $(m_{1},n_{1})\sim(m_{2},n_{2})$ if $m_{1}\cdot n_{2}=m_{2}\cdot n_{1}$. Show that $\sim$ is an equivalence. Describe the equivalence class of $(1,2)$ with respect to this equivalence $\sim$.
+
+32. Give an example of finite sets $A, B, X, Y$ such that $(A\times Y)\cup(B\times Y)\ne (A\cup B)\times(X\cup Y)$. *Hint: try small sets, say, subsets of ${1,2,3,4}$.*
+
+33. For a fixed set $S$, consider $\mathscr{P}(S)$ (set of all subsets of $S$) ordered by inclusion. For $A,B\subset S$, what is $\sup\set{A,B}$ with respect to this order? What is $\inf\set{A,B}$?
+
+34. How to tie a goat so as it can eat grass exactly within a square? It is allowed to use several leashes, with several pegs. For example, one peg and leash mean that the goat eats within a circle. It is also allowed to string one rope tightly between two pegs, and to tie the goat with leash to as small ring sliding on the first rope. *Hint: use intersections of sets.
+
+35. For which of the following pairs $A,B\subset \mathbb{R}$ does the relation $f=\set{(x,y):x=|y|}\subset A\times B$ define a mapping $f:A\to B$? Give reasons to your answers:
+	1. $A=\mathbb{R},\quad B=[0,\infty)$.
+	2. $A=[0,\infty),\quad B=\mathbb{R}$.
+	3. $A=[0,\infty),\quad B=(-\infty,0]$.
+
+36. Given the following mappings, determine which of the composites $f\circ g,g\circ f$ is defined, and write the resulting mapping in standard form:
+
+$$
+\begin{matrix}
+f: \mathbb{Z}\times \mathbb{Z}\to \mathbb{R}, f((x,y))=x+y,\quad\text{and} \\ 
+g: \mathbb{R}\to \mathbb{R}, g(a)=a^{2}+1
+\end{matrix}
+$$
+
+37. For each of the following mappings, determine whether it is injective and/or surjective:
+	1. $f:\mathbb{Z}\to \mathbb{N},f(k)=k^{2}+2$.
+	2. $f: \mathbb{R}\times \mathbb{R}\to \mathbb{R}, f((x,y))=x+y$.
+	3. $f: \mathbb{N}\times \mathbb{N}\to \mathbb{N}, f((m,n))=2^{m-1}\cdot(2n-1)$.
+
+38. Let $A=\mathscr{P}(\set{u,v,w})$ be the set of all subsets of $\set{u,v,w}$ and let $f:A\to A, f(x)=X\cap\set{u,v}$. Draw the diagram of the Cartesian product $A\times A$ and indicate $f$ as a subset of $A\times A$. What is the image of $f$?
+
+39. Find the image of the mapping $f:\mathbb{R}\to \mathbb{R}, f(x)=\frac{1}{x^{2}+5}$.
+
+40. Show that $f:[3,\infty)\to(0,1],f(x)=\frac{2}{x-1}$ is a bijection and find the inverse mapping $f^{-1}$ - indicating its domain and image.
+
+41. Let $f:\mathbb{R}\to \mathbb{R},f(x)=2x+1$. Define recursively the mappings $F_{1}=f$ and $F_{k+1}=f\circ F_{k}$ for all $k\in \mathbb{N}$. Compute several first mappings, conjecture an expression for $F_{n}$, and prove it by induction.

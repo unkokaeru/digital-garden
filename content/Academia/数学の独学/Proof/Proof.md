@@ -58,6 +58,8 @@ Module Co-ordinator: EKhukhro@lincoln.ac.uk (Dr Evgeny Khukhro)
 
 #### 2.2 Equivalence Relations and Mappings
 
+[[Proof Prelim Slides Week 22.pdf]]
+
 - **[[Equivalence Relations and Classes]]**: Study of equivalence relations and the concept of equivalence classes.
 - **[[Partial Order Relations]]**: Understanding partial order relations, supremum, and infimum.
 - **[[Mappings]]**: Exploring different types of mappings, their diagrams, and the Vertical Line Test.

@@ -3,6 +3,8 @@
 [[Linear Algebra Practical Class, Week 20]]
 [[Linear Algebra Tutorial Class, Week 21]]
 [[Linear Algebra Practical Class, Week 21]]
+[[Linear Algebra Tutorial Class, Week 22]]
+[[Linear Algebra Practical Class, Week 22]]
 
 1. Determine whether the following vectors are linearly independent:
 	1. $\vec{u}=\begin{bmatrix}3 \\ 1\end{bmatrix}, \vec{v}=\begin{bmatrix}0 \\ -1\end{bmatrix}$.
@@ -89,4 +91,46 @@ $$
 	3. $B_{3}=\begin{bmatrix}1 & -1 \\ 0 & 1 \\ 0 & 0\end{bmatrix}$,
 	4. $B_{4}=\begin{bmatrix}1 & 0 & 0 & -2 & 5 \\ 0 & 1 & 0 & 9 & -2 \\ 0 & 0 & 1 & 4 & 3\end{bmatrix}$.
 
-22. ...
+22. Consider the following matrices, find which are in row-echelon form and compute their rank, then, find which of those matrices are in reduced row-echelon form:
+
+$$
+A_{1}=\begin{bmatrix}2 & 3 & -1 \\ 0 & 2 & -1\end{bmatrix},\quad A_{2}=\begin{bmatrix}1 & 0 & -1 & 3 \\ 0 & -1 & -1 & 0 \\ 0 & 0 & 0 & 4\end{bmatrix},\quad A_{3}=\begin{bmatrix}1 & 0 & -2 \\ 0 & 1 & 2 \\ 0 & 0 & 0\end{bmatrix},\quad A_{4}=\begin{bmatrix}0 & 0 & 1 \\ 0 & 1 & 0 \\ 1 & 0 & 0\end{bmatrix},
+$$
+
+$$
+B_{1}=\begin{bmatrix}1 & -1 & -1 \\ 0 & 1 & -1 \\ 0 & 0 & 1 \\ 0 & 0 & -1\end{bmatrix},\quad B_{2}=\begin{bmatrix}1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix},\quad B_{3}=\begin{bmatrix}1 & 4 \\ 0 & 1  \\ 0 & 0\end{bmatrix},\quad B_{4}=\begin{bmatrix}2 & 0 & 1 & 3 & -8 \\ 0 & 0 & -1 & -1 & 3 \\ 0 & 0 & 4 & 7 & 7\end{bmatrix}.
+$$
+
+23. Show that both $AA^{T}$ and $A+A^{T}$ are symmetric matrices.
+
+24. Find $x$ when:
+
+$$
+\begin{bmatrix}2 & -1 \\ 1 & 3\end{bmatrix}\begin{bmatrix}x & 3 \\ 2 & -1\end{bmatrix}=\begin{bmatrix}-6 & 7 \\ 4 & 0\end{bmatrix}
+$$
+
+25. Find $A+B$ and $A\cdot B$, then answer whether or not the matrices commute, where
+
+$$
+A=\begin{bmatrix}1 & -1 & 1 \\ 0 & 3 & 1 \\ 1 & -2 & 5\end{bmatrix},\quad B=\begin{bmatrix}1 & 0 & 0 \\ -1 & 2 & 0 \\ 3 & -2 & 3\end{bmatrix}
+$$
+
+26. Find conditions for $a,b,c,d$ which make $A$: a diagonal matrix, a symmetric matrix, an upper triangle matrix, and a skew-symmetric matrix (such that $A^{T}=-A$), where
+
+$$
+A=\begin{bmatrix}a & b \\ c & d\end{bmatrix}
+$$
+
+27. Let $Ax=0$ be a homogenous system with 3 equations and 3 unknowns. Find the rank of the matrix $A$, when the system has a unique solutions, and infinite solutions (of the form $x=2z,y=-z,z\in \mathbb{R}$).
+
+28. Determine the rank of the following matrices, and of their matrix powers $A^{2}$ and $B^{2}$:
+
+$$
+A=\begin{bmatrix}2 & -1 \\ -1 & \frac{1}{2}\end{bmatrix}\quad\text{and}\quad B=\begin{bmatrix}1 & 0 \\ 0 & -1\end{bmatrix}
+$$
+
+29. Answer the following, where $A,B$ are any $n\times n$ matrices:
+	1. Is $(A-B)(A+B)=A^{2}-B^{2}$ true?
+	2. Show that $AA^{T}$ is a symmetric matrix.
+
+30. Let $\mathbf{u}, \mathbf{v}$ be two linearly independent vectors in $\mathbb{R}^{2}$ and $A$ the matrix with columns the vectors $\mathbf{u}, \mathbf{v}$. Which is the rank of $A$?

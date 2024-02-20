@@ -49,12 +49,11 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 Otherwise...
 
 **Personal**
-- [ ] Create a rough advertising plan for Tutoring With Will.
+- [ ] Refine my [[Rough Advertising Plan for Tutoring With Will]].
 
 **Academic**
 - [ ] Work on the [[History of Numbers, 18th Century]], for my [[Group Study]]: [[Working Outline]], [[Working Draft]].
 - [ ] Create self-study plans from the textbooks for: Linear Algebra, Proof, Probability and Statistics.
-- [ ] Complete [Numerical Assignment 2](https://www.webassign.net/web/Student/Assignment-Responses/last?dep=34155561) for [[Probability and Statistics]].
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 

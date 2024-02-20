@@ -24,6 +24,8 @@ Module Co-ordinator: DRoccatano@lincoln.ac.uk (Dr Danilo Roccatano)
 [[Probability and Statistics Summary Questions]] - created from all questions given by the lecturer.
 [[Probability and Statistics Practice Tests]] - created by extrapolating question style into novel content.
 
+[[Probability and Statistics Equations]].
+
 ## Flashcards
 
 [[Probability and Statistics Flashcards (Anki)]] - created during lectures.
@@ -49,6 +51,8 @@ https://github.com/unkokaeru/lincoln-labs.
 - **[[Independent Events]]**: Study of events where the occurrence of one does not affect the probability of the other.
 
 #### 1.3 Random Variables and Distributions
+
+[[Probability and Stats Prelim Slides Week 22.pdf]]
 
 - **[[Discrete and Continuous Random Variables]]**: Examination of variables that can take specific values (discrete) or any value in a range (continuous).
 - **[[Distribution and Density Functions]]**: Analysis of how probabilities are distributed across values of a random variable.

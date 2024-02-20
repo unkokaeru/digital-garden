@@ -54,6 +54,8 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 
 #### 2.2 Operations and Properties of Matrices
 
+[[Linear Algebra Prelim Slides Week 22.pdf]]
+
 - **[[Operations and Rank in Matrices]]**: Investigation of matrix operations, including addition and multiplication, and understanding the concept of matrix rank.
 
 #### 2.3 Inverse and Determinants

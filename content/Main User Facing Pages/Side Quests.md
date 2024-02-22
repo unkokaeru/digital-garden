@@ -25,4 +25,4 @@
 - Learn how to solve a Rubik's Cube.
 - Create a workout app.
 - Create a language learning app.
-- Get a book on **R**.
+- Get a book on R.

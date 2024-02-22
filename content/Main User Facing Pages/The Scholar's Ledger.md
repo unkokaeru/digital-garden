@@ -49,15 +49,33 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 Otherwise...
 
 **Personal**
-- [ ] Refine my [[Rough Advertising Plan for Tutoring With Will]].
+- [ ] Set advertising tasks based on my [[Rough Advertising Plan for Tutoring With Will]].
 
 **Academic**
 - [ ] Work on the [[History of Numbers, 18th Century]], for my [[Group Study]]: [[Working Outline]], [[Working Draft]].
-- [ ] Create self-study plans from the textbooks for: Linear Algebra, Proof, Probability and Statistics.
+- [ ] Complete my [[Ideas of Mathematical Proof - Assignment]].
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 
 ___
+
+- [ ] Complete one day of following a schedule.
+- [ ] Complete two consecutive days of following a schedule.
+- [ ] Complete three consecutive days of following a schedule.
+- [ ] Complete four consecutive days of following a schedule.
+- [ ] Complete five consecutive days of following a schedule.
+- [ ] Complete six consecutive days of following a schedule.
+- [ ] Complete seven consecutive days of following a schedule.
+- [ ] Complete eight consecutive days of following a schedule.
+- [ ] Complete nine consecutive days of following a schedule.
+- [ ] Complete ten consecutive days of following a schedule.
+
+[[Schedule Building Questions]]
+[[Schedule Building Answers]]
+[[Schedule Building Result]]
+
+___
+
 I also have the [[Koi]] project, which links together and extends the goals I want to complete before my [[20th Birthday]] involving the following categories:
 
 [[Calisthenics]] | [[Chess]] | [[数学の独学]] | [[Tutoring]] | [[Japanese]]

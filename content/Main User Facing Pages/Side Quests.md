@@ -12,12 +12,14 @@
 	 - Enrol with the European Mathematics Society (EMS): [[EMS membership application_student.docx]].
 	 - [Flight 370](https://www.youtube.com/watch?v=MhkTo9Rk6_4).
 	 - [Interesting breakfast idea](https://www.youtube.com/watch?v=L76XJqz9PWo), and [another one](https://www.youtube.com/watch?v=xdwLxfJBOWE).
+	 - [Page binding](https://www.youtube.com/watch?v=yCha1O1-fUc).
 - Requires money
-	- I want Jibbitz.
+	- Jibbitz!
 	- [Camera Repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
 	- New hard drive for big laptop.
 	- [Hobonichi cover](https://www.amazon.co.uk/Hobonichi-Techo-Cousin-Cover-Kitamura/dp/B0CCPHKVF3/).
-- Clone [Tanaka-san](https://www.youtube.com/@japanese_tanakasan/videos) voice ([download clear audio](https://x2mate.com/en30/youtube-mp3), then [clone](https://elevenlabs.io/voice-lab), then use for morning briefings).
+	- Look into [temporary tattoos](https://inkbox.com/custom/new).
+	- Buy an extension cord.
 - [[Date Ideas]]
 - [[Random Thoughts]]
 - Play all of the Assassin's Creed games!!
@@ -26,3 +28,7 @@
 - Create a workout app.
 - Create a language learning app.
 - Get a book on R.
+- Add additional functionality to Otto, here: https://platform.openai.com/assistants.
+- Work on my chess programming project.
+- Clone [Tanaka-san](https://www.youtube.com/@japanese_tanakasan/videos) voice ([download clear audio](https://x2mate.com/en30/youtube-mp3), then [clone](https://elevenlabs.io/voice-lab), then use for morning briefings).
+- Review my morning briefing generation.

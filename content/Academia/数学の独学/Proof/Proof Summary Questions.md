@@ -5,6 +5,8 @@
 [[Proof Practical Class, Week 21]]
 [[Proof Tutorial Class, Week 22]]
 [[Proof Practical Class, Week 22]]
+[[Proof Tutorial Class, Week 23]]
+[[Proof Practical Class, Week 23]]
 
 1. Use mathematical induction to prove that $5^{n}+3$ is divisible by $4$ for all positive integers $n$.
 
@@ -129,3 +131,36 @@ $$
 40. Show that $f:[3,\infty)\to(0,1],f(x)=\frac{2}{x-1}$ is a bijection and find the inverse mapping $f^{-1}$ - indicating its domain and image.
 
 41. Let $f:\mathbb{R}\to \mathbb{R},f(x)=2x+1$. Define recursively the mappings $F_{1}=f$ and $F_{k+1}=f\circ F_{k}$ for all $k\in \mathbb{N}$. Compute several first mappings, conjecture an expression for $F_{n}$, and prove it by induction.
+
+42. Draw the mapping $g: \mathbb{R}\to \mathbb{R}$ on the $(x,y)$ plane defined by the rule following rule - is it injective, surjective?
+
+$$
+g(x)=\text{largest integer}\le x
+$$
+
+43. For the following mapping, what is the image of $g$? What is the full inverse image $g^{-1}(2)$?
+
+$$
+g(x)=\text{largest integer}\le x
+$$
+
+44. Given any mapping $f:A\to B$, prove that the relation $\sim$ on $A$ defined by $a_{1}\sim a_{2}$ if $f(a_{1})=f(a_{2})$ is an equivalence relation. What are the equivalence classes?
+
+45. Prove that the following sets have the same cardinality by producing explicitly a bijection between the sets and describing this bijection...
+	1. ... by a formula for $|(-\infty, 0]|=|[3,+\infty)$;
+	2. ... by representing the set on the right as a sequence: $|\mathbb{N}|=|\set{a,b,c}\cup \mathbb{N}|$;
+	3. ... by any method: $|\set{a,b}\times \mathbb{Z}|=|\mathbb{Z}|$;
+	4. ... by using a sequence of points: $|[0,1]|=|(0,1)|$;
+	5. ... geometrically: $|(0,1)|=|(0,\infty)|$.
+
+46. Use [[this theorem]] to prove that $|\mathbb{N}\times \mathbb{N}\times \mathbb{N}|=\aleph_{0}$.
+
+47. Let $S$ be the set of all sequences of the form $(a_{1},a_{2},a_{3},\ldots)$, where every $a_{i}$ is either $A$ or $B$. Use Cantor's "diagonal method" to prove that the set $S$ is not countable.
+
+48. Recall that $\set{0,1}\times\set{0,1}\times\set{0,1}$ consists of triples of $1$s and $0$s, and $\mathscr{P}(\set{a,b,c})$ is the set of all subsets of $\set{a,b,c}$. Consider the following mapping, in which a subset $X\subset \set{a,b,c}$ is mapped to a string of length $3$ consisting of $0$s and $1$s depending on which of the elements $a,b,c$ belong to $X$ (with $1$ indicating yes and $0$ indicating no). Write the images $f(\emptyset)$, $f(\set{a,c})$, $f(\set{b})$. Is $f$ a bijection?
+
+$$
+f:\mathscr{P}(\set{a,b,c})\to\set{0,1}\times\set{0,1}\times\set{0,1}
+$$
+
+49. Use [[this theorem]] to show that any set consisting of pairwise disjoint intervals of the real line (each of $\text{length}>0$) is countable.

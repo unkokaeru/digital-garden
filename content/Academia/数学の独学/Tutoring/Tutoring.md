@@ -1,6 +1,8 @@
 ---
 title: Tutoring
 ---
+[[Advertising Plan for Tutoring With Will]]
+
 ## Background
 
 First, to understand a few fundamentals in this section, follow my method on finding a [[Tutoring Profit Margin]]. The key point from it, however, is that the perfect profit margin is approximately 31.62%.

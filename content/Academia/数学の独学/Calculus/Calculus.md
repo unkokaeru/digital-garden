@@ -9,7 +9,7 @@ Module Co-ordinator: mgreenall@lincoln.ac.uk (Martin Greenall)
 3. In-Class Assessment (25%)
 4. Final Exams (60%)
 
-*Current percentage (rounded up):* 40%
+*Current percentage (rounded up):* 96%
 
 ## Learning Outcomes
 

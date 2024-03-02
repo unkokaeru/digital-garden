@@ -5,6 +5,8 @@
 [[Linear Algebra Practical Class, Week 21]]
 [[Linear Algebra Tutorial Class, Week 22]]
 [[Linear Algebra Practical Class, Week 22]]
+[[Linear Algebra Tutorial Class, Week 23]]
+[[Linear Algebra Practical Class, Week 23]]
 
 1. Determine whether the following vectors are linearly independent:
 	1. $\vec{u}=\begin{bmatrix}3 \\ 1\end{bmatrix}, \vec{v}=\begin{bmatrix}0 \\ -1\end{bmatrix}$.
@@ -134,3 +136,63 @@ $$
 	2. Show that $AA^{T}$ is a symmetric matrix.
 
 30. Let $\mathbf{u}, \mathbf{v}$ be two linearly independent vectors in $\mathbb{R}^{2}$ and $A$ the matrix with columns the vectors $\mathbf{u}, \mathbf{v}$. Which is the rank of $A$?
+
+31. If $A$ is invertible, prove that a homogenous system $A \mathbf{x}=\mathbf{0}$ has a unique solution: the zero solution $\mathbf{x}=\mathbf{0}$.
+
+32. If $A$ is invertible, what is the rank of $A$? Justify your answer.
+
+33. Simplify the expression $(A^{-1}B^{2}C^{-2})^{-1}$.
+
+34. Prove that if $A$ satisfies the matrix equation $4A^{3}-A^{2}-2I=O$, then $A$ is invertible.
+
+35. Solve the matrix equation $A^{-1}X+B+3A=O$ in terms of the matrix $X$.
+
+36. Find the inverses of the following matrices, where any $2\times2$ matrices are completed with the [[standard formula]] and any $3\times3$ are with Gauss-Jordan elimination:
+	
+	1. $$A=\begin{bmatrix}1 & -2 \\ 5 & 7\end{bmatrix}$$
+	2. $$R=\begin{bmatrix}\cos\theta & -\sin\theta \\ \sin\theta & \cos\theta\end{bmatrix}$$
+	3. $$C=\begin{bmatrix}1 & 1 & 2 \\ 1 & 2 & 1 \\ 2 & 1 & 1\end{bmatrix}$$
+		1. By then using the inverse $C^{-1}$, solve the system $C \mathbf{x}=\mathbf{u}$, where $\mathbf{u}=\begin{bmatrix}2 \\ 1 \\ 0\end{bmatrix}$.
+
+37. Find the inverse of the following $2\times2$ matrices, using the [[standard formula]]:
+
+$$
+A=\begin{bmatrix}1 & 2 \\ 3 & 4\end{bmatrix},B=\begin{bmatrix}a & -b \\ b & a\end{bmatrix}
+$$
+
+38. Find the inverse of the following matrix using Gauss-Jordan elimination and its rank:
+
+$$
+B=\begin{bmatrix}3 & 1 & 2 \\ -1 & 1 & 2 \\ 2 & 1 & 3\end{bmatrix}
+$$
+
+39. Prove that...
+	1. If $A$ is invertible and $AB=O$, the $B=O$.
+	2. If $A$ is invertible and $AB=AC$, then $B=C$.
+	3. If $A$ satisfies the matrix equation $A^{2}-2A+I=O$, then $A$ is invertible and find its inverse.
+	4. If $A$ satisfies the matrix equation $A^{3}+\alpha A^{2}+\beta A-I=O$, then $A$ is invertible and find its inverse.
+
+40. Compute the determinant of the following matrices, then find the determinant of the matrix $A^{n}$:
+
+$$
+A=\begin{bmatrix}2 & -3 & 2 \\ 4 & 1 & 0 \\ 0 & 0 & 6\end{bmatrix},B=\begin{bmatrix}-2 & 1 & 0 \\ 1 & -2 & 1 \\ 0 & 1 & -2\end{bmatrix}
+$$
+
+41. Using the determinant properties (and not cofactor expansions), show that:
+	1. $\det(P^{-1}AP)=\det A$,
+	2. $\det(P^{T}AP)=\det A(\det P)^{2}$.,
+	3. If $\det A=1$ and $ABA^{T}=B^{2}$, then $\det B=\begin{cases}0 \\ 1\end{cases}$.
+
+42. Use Cramer's rule to solve the following linear systems and then determine which $a$ values the second system has a unique solution:
+
+$$
+\begin{cases}
+2x+y-z=1 \\
+-x+2y+z=1 \\
+x-y+2z=1
+\end{cases},\quad\begin{cases}
+x+ay+az=0 \\
+x-y+az=0 \\
+x+y+z=0
+\end{cases}
+$$

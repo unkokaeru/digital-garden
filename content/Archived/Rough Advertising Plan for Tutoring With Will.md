@@ -25,7 +25,7 @@
 
 ### 5. Offer and Promote a Free Trial Session
 
-- **Engagement Strategy**: Offer a free 30-minute trial tutoring session to new students. This low-barrier entry point allows potential students to experience your teaching style and the benefits of your bespoke approach firsthand.
+- **Engagement Strategy**: Offer a free trial tutoring session to new students. This low-barrier entry point allows potential students to experience your teaching style and the benefits of your bespoke approach first-hand.
 
 ### 6. Set Up a Simple Booking System
 

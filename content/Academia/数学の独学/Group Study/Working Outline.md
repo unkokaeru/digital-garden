@@ -1,5 +1,5 @@
 - Overview of the 18th century's impact on mathematics, highlighting key developments and figures.
-	- Key figures: Newton, Euler, Gauss, Lagrange, Leibniz, Bernoulli family.
+	- Key figures: Newton, Leibniz, Euler, Gauss, Lagrange, Bernoulli, Taylor, and Maclaurin. 
 	- Key topics: Calculus, notation, complex numbers, number theory, probability theory, the acceptance of theoretical mathematics and the era of enlightenment.
 	- Mathematical discoveries were occurring more and more often, with the Scientific Revolution catapulting mathematics into the Era of Enlightenment.
 

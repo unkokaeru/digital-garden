@@ -8,7 +8,7 @@ Module Co-ordinator: TKouloukas@lincoln.ac.uk (Dr Theodoros Kouloukas)
 2. In-Class Assessment (25%)
 3. Final Exams (60%)
 
-*Current percentage (rounded up):* 33%
+*Current percentage (rounded up):* 87%
 
 ## Learning Outcomes
 

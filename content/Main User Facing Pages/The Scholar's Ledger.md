@@ -1,47 +1,3 @@
-## ☀ Morning Briefing
-
-Begin your day with an automatically generated morning briefing (also accessible from the sidebar to the left):
-
-```button
-name Generate my morning briefing!
-type command
-action Morning Briefing Generator: Run Python Script
-color default
-```
-
-#### Weekly Vibe Plan
-
-Try to avoid short-term gratification, e.g. caffeine abuse and "just one more episode" at 2am.
-
-When it's bedtime, just lay there with my eyes closed - if I can't sleep, then read some more and make a note of it for the next day to see if there was a reason: anxiety, caffeine, lack of exercise, lack of regularity, stress, etc.
-
-During lectures, implement tricks to keep me engaged - problems to solve during, have frequent breaks, make sure I'm not hungry or thirsty, etc.
-
-During free time, try to make sure I'm either in the presence of other people or at least just busy with something, so that I don't something that I regret (e.g. ordering food, or something else).
-
-Plan ten days of food at a time, every seven days - overlapping so that I never have an excuse for ordering expensive food or anything else, as well as in case I eat more than I expected etc. Make sure that food is always able to be frozen in case I cook too much and don't eat it all at once.
-
-[[Explaining the Emojis]].
-
-
-| 🚰✨✈ | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 00 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Monday | 🥫🍜 | 📖🕛 | 📖🕛 | 📖🕛 | 📖🕛 | 🥫🍜 | 📖🕛 | 📖🕛 | 📖🕛 | 📖🕛 | 🥫🍜 | 📺🎬 | 💌💑 | 🚿🧼 | 📖🛋 | 🛌💤 | 🛌💤 |
-| Tuesday | 🥫🍜 | 📖🕛 | 📖🕛 | 📖🕛 | 📖🕛 | 🥫🍜 | 📖🕛 | 📖🕛 | 📖🕛 | 📖🕛 | 🥫🍜 | 📺🎬 | 💌💑 | 🚿🧼 | 📖🛋 | 🛌💤 | 🛌💤 |
-| Wedesday | 🥫🍜 | 📖🕛 | 📖🕛 | 📖🕛 | 📖🕛 | 🥫🍜 | 💪🏋 | 💪🏋 | 💪🏋 | 💪🏋 | 🥫🍜 | 📺🎬 | 💌💑 | 🚿🧼 | 📖🛋 | 🛌💤 | 🛌💤 |
-| Thursday | 🥫🍜 | 📖🕛 | 📖🕛 | 📖🕛 | 📖🕛 | 🥫🍜 | 💪🏋 | 💪🏋 | 💪🏋 | 💪🏋 | 🥫🍜 | 📺🎬 | 💌💑 | 🚿🧼 | 📖🛋 | 🛌💤 | 🛌💤 |
-| Friday | 🥫🍜 |  |  |  |  | 🥫🍜 |  |  |  |  | 🥫🍜 | 📺🎬 | 💌💑 | 🚿🧼 | 📖🛋 | 🛌💤 | 🛌💤 |
-| Saturday | 🥫🍜 | ♟🏛 | ♟🏛 | ♟🏛 | ♟🏛 | 🥫🍜 | 💪🏋 | 💪🏋 | 💪🏋 | 💪🏋 | 🥫🍜 | 📺🎬 | 💌💑 | 🚿🧼 | 📖🛋 | 🛌💤 | 🛌💤 |
-| Sunday | 🥫🍜 | 💼💰 | 💼💰 | 💼💰 | 💼💰 | 🥫🍜 | 💪🏋 | 💪🏋 | 💪🏋 | 💪🏋 | 🥫🍜 | 📺🎬 | 💌💑 | 🚿🧼 | 📖🛋 | 🛌💤 | 🛌💤 |
-
-Simplified, but ensuring I do what I want to do - based off of the patterns of what I've already done. I made it here: [[Making a New Routine]].
-
->おはよう、ウィリアム！よく眠って、素晴らしい一日を！今日どんな苦境に立たされようとも、あなたは鯉の魚のようにどんな逆境にも打ち勝つことができる！泳ぎ続ければ大丈夫！
->
->がんばれ、ウィルさん！:)
-
-![[Good luck.mp3]]
-
 ## 📜 Quest Log
 
 Sometimes I don't have much to do, or I just don't want to do it just yet. In these scenarios, have a look at some [[Side Quests]]!
@@ -49,40 +5,29 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 Otherwise...
 
 **Personal**
-- [ ] Set advertising tasks based on my [[Rough Advertising Plan for Tutoring With Will]].
+- [ ] Act on the [[Advertising Plan for Tutoring With Will]].
+- [ ] Shift meal times to be aiming for 8pm bedtime in Gcal.
 
 **Academic**
-- [ ] Work on the [[History of Numbers, 18th Century]], for my [[Group Study]]: [[Working Outline]], [[Working Draft]].
-- [ ] Complete my [[Ideas of Mathematical Proof - Assignment]].
+- [ ] Draft a [group introduction/conclusion](https://universityoflincoln-my.sharepoint.com/personal/27378661_students_lincoln_ac_uk/_layouts/15/doc.aspx?sourcedoc={ab8b4073-8bb9-4431-aac5-a689a4ebf4b4}&action=edit).
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 
 ___
 
-- [ ] Complete one day of following a schedule.
-- [ ] Complete two consecutive days of following a schedule.
-- [ ] Complete three consecutive days of following a schedule.
-- [ ] Complete four consecutive days of following a schedule.
-- [ ] Complete five consecutive days of following a schedule.
-- [ ] Complete six consecutive days of following a schedule.
-- [ ] Complete seven consecutive days of following a schedule.
-- [ ] Complete eight consecutive days of following a schedule.
-- [ ] Complete nine consecutive days of following a schedule.
-- [ ] Complete ten consecutive days of following a schedule.
+There are lots of "Locking myself in a room until I master xyz" type of experiments in the world, whether they're videos, biographies, or students cramming before a final exam. That said, they're all quite simple and quick, with the key exception of biographies; they often involve someone dedicating their entire life (or at least the latter part of their life) to the mastery of a single thing.
 
-[[Schedule Building Questions]]
-[[Schedule Building Answers]]
-[[Schedule Building Result]]
+I want to re-create that, in slightly more modern manner. Similar to how, instead of setting goals for change every New Year's, I try to set goals monthly if not weekly. I want every location I live in to represent a new dedication.
 
-___
+First, Lincoln. This is the beginning of my idea, hence I'm going to experiment with three main dedications: [[数学の独学]], [[Chess]], and [[Japanese]]. Another way of looking at it is that I am simply catching up on the previous nineteen years of my life.
 
-I also have the [[Koi]] project, which links together and extends the goals I want to complete before my [[20th Birthday]] involving the following categories:
+However, I also want to ensure I one day make a good father, hence I need to live long and healthy, make some money, and be able to teach my child(ren) in the future; in other words, I need to (right now, at least) do [[Calisthenics]] and some [[Tutoring]].
 
-[[Calisthenics]] | [[Chess]] | [[数学の独学]] | [[Tutoring]] | [[Japanese]]
+Since naming things is cool, my dedications for Lincoln come under the [[Koi]] project.
 
-Every three months, I have some milestone goals to achieve, documented in the following updates:
+Every three months, I have some milestone goals ([[20th Birthday]]) to achieve, documented in the following updates:
 
 - [[0 months in, 12 to go]].
 - [[3 months in, 9 to go]].
 
-Beyond this, somewhat related, I have my [[reading list]], as well as a few pages to help me in case I'm struggling a bit more than usual, and either need to [[refresh]] or have some more structure to my [[morning and evenings]].
+Beyond this, somewhat related, I have my [[reading list]], as well as a page to help me in case I'm struggling a bit more than usual and need to some more structure in order to [[refresh]].

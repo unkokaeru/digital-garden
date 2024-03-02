@@ -8,7 +8,7 @@ Module Co-ordinator: DRoccatano@lincoln.ac.uk (Dr Danilo Roccatano)
 2. In-Class Assessment (20%)
 3. Final Exams (60%)
 
-*Current percentage (rounded up):* 0%
+*Current percentage (rounded up):* 20%
 
 ## Learning Outcomes
 

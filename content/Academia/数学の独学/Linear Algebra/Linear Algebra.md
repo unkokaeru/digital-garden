@@ -8,7 +8,7 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 2. In-Class Assessment (25%)
 3. Final Exams (60%)
 
-*Current percentage (rounded up):* 4%
+*Current percentage (rounded up):* 15%
 
 ## Learning Outcomes
 

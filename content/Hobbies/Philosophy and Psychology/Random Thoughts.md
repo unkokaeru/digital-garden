@@ -13,3 +13,5 @@ He who thinks the journey is over is the one that’s truly lost.
 “The Architecture of Happiness” by Alain de Botton: Style represents what the appreciator lacks: formerly perhaps structure and simplicity, currently perhaps expression and freedom.
 
 Cold showers are actually pretty sick.
+
+Otto, Evelyn, Tio :-)

@@ -1,23 +1,19 @@
-![[Index.png]]
+Welcome to my digital garden – a unique blend of professional dedication and personal passion. I'm Will, a 19-year-old maths undergraduate at the University of Lincoln, and a self-employed professional tutor committed to fostering understanding and excellence in mathematics. Through my tutoring services, I offer personalised support designed to meet each student's individual learning needs, aiming to make complex mathematical concepts accessible and engaging.
 
-*Greetings, traveller! The warm glow of the Knowledge Cottage beckons, a cosy sanctuary amidst the vast expanse of learning and discovery. It's a place where the hearth of understanding crackles with the fire of curiosity. Don't be shy—let's see what wonders await inside.*
+Beyond the realm of tutoring, this website unfolds as my digital garden – an eclectic collection of my research, studies, and hobbies. Here, you'll find a diverse array of content that, while somewhat unrelated to my professional services, offers a glimpse into the breadth of my interests and the depth of my curiosity. From chess strategies and craft projects to fitness routines and explorations in language, each page is a reflection of my journey through academia and beyond.
 
-📖 [Step through the doorway...](Welcome%20to%20the%20Knowledge%20Cottage.md) (personal research)
+While the core of my website is dedicated to my tutoring services, I invite you to wander through my digital garden. Whether you're here for academic support or simply to explore, I hope you find something that piques your interest or sparks a conversation. Mathematics is not just my profession; it's my passion, and this website is where both worlds converge.
 
-*But wait, might your gaze be drawn to the tactical allure of the chess set nearby? Each piece awaits your command, ready to engage in the timeless dance of strategy and intellect—a silent challenge that stirs the spirit of competition and mastery.*
+Thank you for visiting, and should you wish to learn more about my tutoring services or delve into the varied topics of my digital garden, feel free to navigate through the site. Let's embark on this journey of discovery and learning together.
 
-♟ [Approach the chessboard...](Chess%20Garden%20by%20the%20Cottage.md) (hobbies)
+[[The Knowledge Cottage]].
 
-*Or perhaps it's the charming little character by the door, a sprite of stories and secrets, that whispers tales of ancient wisdom and the sagas of mathematics that have shaped the world. A perfect companion for a mind that thrives on the joy of random research and the pursuit of knowledge.*
+___
+**From GCSE to Undergraduate 1:1 Bespoke Mathematics Tuition:**
 
-👤 [Greet the little character...](Guardian%20of%20the%20Lore.md) (personal philosophy)
+Normally, a session is one hour. Most students opt for two hours a week, but I've had the occasional student opt for just one hour per week depending on their schedule.
 
-*Yet, the option to stroll away exists, following the trail that winds into the realm of possibility and potential—a metaphor, maybe, for the journey you're on, where the path of academia and the allure of the unknown walk hand in hand.*
+£40/hour - on demand pricing.
+£30/hour - bulk pricing (minimum ten sessions in advanced).
 
-🛤 [Choose the path less taken...](The%20Trail%20of%20Whispers.md) (music management & temporary pages)
-
-*As you ponder these choices, remember the leather bag that rests against your side. It contains the Scholar's Ledger, a personal tome where your to-dos and morning briefings reside—a grounding touchstone that brings balance to your day's journey.*
-
-📔 [Consult the Scholar's Ledger from your leather bag...](The%20Scholar's%20Ledger.md) (to-do list etc.)
-
-*So venture forth, dear visitor, into the rich tapestry of the Knowledge Cottage, with the wisdom of the past, the joy of the present, and the promise of the future all woven into your next step. Where will your curiosity lead you today?*
+Discounts can be offered depending on your personal situation, or if you're referred by another student.

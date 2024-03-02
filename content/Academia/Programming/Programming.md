@@ -6,12 +6,12 @@ Python: [[MTH1007 Professional Skills and Group Study]]
 
 ## Personal Projects
 
-Also: [[Functional Programming]], [Uncensored LLMs](https://www.youtube.com/watch?v=GyllRd2E6fg), [7deadlysongs](https://github.com/bluegreengreen/7deadlysongs/blob/main/7deadlysongs.py), Python Project Template (with Cruft). [Eleven Labs](https://elevenlabs.io/speech-synthesis) is pretty cool, also.
+Also: [[Functional Programming]], [Uncensored LLMs](https://www.youtube.com/watch?v=GyllRd2E6fg), [7deadlysongs](https://github.com/bluegreengreen/7deadlysongs/blob/main/7deadlysongs.py), Python Project Template (with Cruft).
 
-### Sky (Voice Assistant)
+### Otto (Voice Assistant)
 
-**Git Repo**: ...
-**Date Started**: ...
+**Git Repo**: otto
+**Date Started**: 23rd February, 2024
 
 A GPT voice assistant with as much integration and usefulness as I can manage.
 

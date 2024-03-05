@@ -7,6 +7,8 @@
 [[Proof Practical Class, Week 22]]
 [[Proof Tutorial Class, Week 23]]
 [[Proof Practical Class, Week 23]]
+[[Proof Tutorial Class, Week 24]]
+[[Proof Practical Class, Week 24]] <- [[Proof Practical Sheet (Week 24).pdf]]
 
 1. Use mathematical induction to prove that $5^{n}+3$ is divisible by $4$ for all positive integers $n$.
 

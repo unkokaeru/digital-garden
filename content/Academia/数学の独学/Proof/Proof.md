@@ -70,6 +70,8 @@ Module Co-ordinator: EKhukhro@lincoln.ac.uk (Dr Evgeny Khukhro)
 
 ### 3. Elements of Mathematical Logic
 
+[[Proof Prelim Slides (Week 24).pdf]]
+
 #### 3.1 Basic Concepts of Mathematical Logic
 
 - **[[Statements and Logical Operations]]**: Understanding statements, logical operations, and truth tables.

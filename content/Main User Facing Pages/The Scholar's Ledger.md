@@ -5,11 +5,30 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 Otherwise...
 
 **Personal**
-- [ ] Act on the [[Advertising Plan for Tutoring With Will]].
-- [ ] Shift meal times to be aiming for 8pm bedtime in Gcal.
+- [ ] Plan my [[Trip to Tokyo, Japan]] with my brother.
+- [ ] Look for accommodation for the 24/25 academic year.
+- [ ] Schedule content for the Tutoring With Me social media.
+	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
+	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
+	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising.
+	- [ ] [YouTube](https://www.youtube.com/@tutoringwithwill): Lessons on topics - book a lecture room?
 
 **Academic**
-- [ ] Draft a [group introduction/conclusion](https://universityoflincoln-my.sharepoint.com/personal/27378661_students_lincoln_ac_uk/_layouts/15/doc.aspx?sourcedoc={ab8b4073-8bb9-4431-aac5-a689a4ebf4b4}&action=edit).
+- [ ] Complete this: https://universityoflincoln-my.sharepoint.com/:w:/r/personal/27378661_students_lincoln_ac_uk/Documents/History%20of%20Numbers%201/Will%20-%2018th%20century/History%20of%20Numbers,%20the%2018th%20Century%20(Chapter).docx?d=w43755c49f8484fc0a62746f788f67170&csf=1&web=1&e=haasHD.
+- [ ] Finish Maple classwork after exploring polar coordinates in Maple more (via the textbook).
+- [ ] Study for [[Proof]] (revise the notes, go over the books, catch up with the practical work).
+	- [ ] Mathematical Induction.
+	- [ ] Sets, Relations, and Mappings.
+	- [ ] Elements of Mathematical Logic.
+- [ ] Study for [[Linear Algebra]] (revise the notes, go over the books, catch up with the practical work).
+	- [ ] Vectors and Geometry.
+	- [ ] Linear Systems and Matrices.
+	- [ ] Vector Spaces and Transformations.
+- [ ] Study for [[Probability and Statistics]] (revise the notes, go over the books, catch up with the practical work).
+	- [ ] Probability Spaces.
+	- [ ] Conditional Probability.
+	- [ ] Random Variables and Distributions.
+	- [ ] Advanced Statistical Measures.
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 

@@ -7,6 +7,8 @@
 [[Linear Algebra Practical Class, Week 22]]
 [[Linear Algebra Tutorial Class, Week 23]]
 [[Linear Algebra Practical Class, Week 23]]
+[[Linear Algebra Tutorial Class, Week 24]]
+[[Linear Algebra Practical Class, Week 24]] <- [[Linear Algebra Practical Sheet (Week 24).pdf]]
 
 1. Determine whether the following vectors are linearly independent:
 	1. $\vec{u}=\begin{bmatrix}3 \\ 1\end{bmatrix}, \vec{v}=\begin{bmatrix}0 \\ -1\end{bmatrix}$.

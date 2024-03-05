@@ -1,0 +1,4 @@
+- Parent pressuring student to achieve.
+- Student catching up on content because of gap year(s).
+- Student failed, needs additional help to resit.
+- Student not performing at the grade they require to continue their plan (mostly this one).

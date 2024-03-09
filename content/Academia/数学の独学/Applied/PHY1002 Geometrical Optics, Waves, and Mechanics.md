@@ -242,7 +242,7 @@ University::PHY1002 Geometrical Optics, Waves, and Mechanics
 ## Weeks Content
 ### Week 1
 [[Wk1_optics.pdf]]
-[[Academia/数学の独学/Applied/Geometrical Optics W1.pdf]]
+[[Geometrical Optics W1.pdf]]
 [[Optics Problems Week1.pdf]]
 
 [[Homework Optics 1]]

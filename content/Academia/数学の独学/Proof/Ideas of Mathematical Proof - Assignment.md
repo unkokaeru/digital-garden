@@ -237,7 +237,7 @@ $$
 
 Let a relation $\sim$ be defined on $\mathscr{P}(\set{a,b,c})$ by the rule $B\sim C$ if $|B|=|C|$.
 
-1. Show that $\sim$ is an equivlance.
+1. Show that $\sim$ is an equivalence.
 2. Draw the diagram of $\sim$ as a subset of $\mathscr{P}(\set{a,b,c})\times \mathscr{P}(\set{a,b,c})$.
 3. List all elements of the equivalence class $\set{a,b}$ with respect to this equivalence $\sim$.
 

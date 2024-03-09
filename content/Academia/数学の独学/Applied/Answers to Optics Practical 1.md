@@ -1,4 +1,4 @@
-![[Academia/数学の独学/Applied/Geometrical Optics W1.pdf]]
+![[Geometrical Optics W1.pdf]]
 
 ### Question 1
 ![[Practical 1 Optics Diagram 1.excalidraw]]

@@ -7,7 +7,7 @@
 [[Linear Algebra Practical Class, Week 22]]
 [[Linear Algebra Tutorial Class, Week 23]]
 [[Linear Algebra Practical Class, Week 23]]
-[[Linear Algebra Tutorial Class, Week 24]]
+[[Linear Algebra Tutorial Class, Week 24]] <- [[Linear Algebra Tutorial 2 1.pdf]], [[Linear Algebra Tutorial 1.pdf]]
 [[Linear Algebra Practical Class, Week 24]] <- [[Linear Algebra Practical Sheet (Week 24).pdf]]
 
 1. Determine whether the following vectors are linearly independent:

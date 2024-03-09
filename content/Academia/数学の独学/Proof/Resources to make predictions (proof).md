@@ -1,84 +1,101 @@
-[[Proof Practical Class, Week 19]]
-[[Proof Tutorial Class, Week 20]]
-[[Proof Practical Class, Week 20]]
-[[Proof Tutorial Class, Week 21]]
-[[Proof Practical Class, Week 21]]
-[[Proof Tutorial Class, Week 22]]
-[[Proof Practical Class, Week 22]]
-[[Proof Tutorial Class, Week 23]]
-[[Proof Practical Class, Week 23]]
-[[Proof Tutorial Class, Week 24]]
-[[Proof Practical Class, Week 24]]
-[[Proof Tutorial Class, Week 25]]
-[[Proof Practical Class, Week 25]] <- [[Week 24 Proof Practical.pdf]]
 
-1. Use mathematical induction to prove that $5^{n}+3$ is divisible by $4$ for all positive integers $n$.
+# Resources used to make predictions
 
-2. Use mathematical induction to prove that $11^{n}-4^{n}$ is divisible by $7$ for all positive integers $n$.
+## Topics
 
-3. Use the method of undetermined coefficients to guess a formula for $1 + 3 + 5 + \cdots + (2n-1)$ as a quadratic expression in $n$, and then use mathematical induction to prove this formula.
+> These are the topics that Evgeny explicitly stated would be on the midterm paper.
 
-4. Use mathematical induction to prove the following for any positive integer $n$,
-$$
-\frac{1}{1\cdot2\cdot3} + \frac{1}{2\cdot3\cdot4} + \cdots + \frac{1}{n(n+1)(n+2)} = \frac{1}{4} - \frac{1}{2(n+1)(n+2)}
-$$
+- [[Relations]],
+- [[Mappings]],
+- [[Cardinalities and Bijections]],
+- [[Statements and Logical Operations]],
+- [[Negation and Proof Strategies]].
 
-5. Use mathematical induction to prove that $n!>3^{n}$ for any $n\ge7$.
+## Past Papers
 
-6. What is wrong in the following "proof" that all men are bald? We use induction on the number of hairs on the head, $n$:
-	1. If $n=1$, then a man with just one hair is of course bald.
-	2. Suppose the assertion is true for $n=k$, that is, having $k$ hairs means the man is bald. Now, if he has $k+1$ hairs, then it is just one more, so, surely, does not transform a man from being bald to non-bald.
-	3. Thus, by the Axiom of Mathematical Induction, a man is bald if he has $n$ hairs, for any $n$.
+> Note: These are for the final exams, hence are twice as long as the mid-term papers - take this into account when testing the time taken to complete the exam(s).
 
-7. Prove by induction that for $x\ne1$ we have the following, for any positive integer $n$: $$1+x+x^{2}+\cdots+x^{n-1} = \frac{1-x^{n}}{1-x}$$
+Relevant questions are summarised here: [[Proof Exam Question Breakdowns]].
 
-8. Use mathematical induction to prove the following for all positive integers $n$: $$\frac{1}{2} + \frac{2}{2^{2}} + \frac{3}{2^{3}} + \cdots + \frac{n}{2^{n}} = 2 - \frac{n+2}{2^{n}}$$
+### 2021
 
-9. Use mathematical induction to prove that $n^{3}<2^{n}$ for any $n\ge10$.
+- [[Proof PP (2021).pdf]],
+- [[Proof PP (2021) - checks.pdf]].
+ 
+| Question   | Topic                                                                            | Marks |
+| ---------- | -------------------------------------------------------------------------------- | ----- |
+| 1a         | Simul. inequalities, interval solution                                           | 8     |
+| 1b         | Prove an equivalence, visual classes                                             | 9     |
+| 1c         | State and prove a theorem **ON LIMITS**                                          | 8     |
+| 2ai/ii     | Create truth tables, categorise taut./contr.                                     | 4 x2  |
+| 2bi        | Definition **ON LIMITS**                                                         | 4     |
+| 2bii       | Prove a given statement **ON LIMITS**                                            | 5     |
+| 2c         | Use Cantor's diagonalisation to prove by contradiction that a set is uncountable | 8     |
+| 3a         | Prove by induction for a sequence $\ge3$                                         | 8     |
+| 3b         | Simplify an expression using set operation prop.                                 | 8     |
+| 3ci/ii/iii | Determine if a mapping is injective/surjective                                   | 3 x3  |
+| 4a         | Prove by induction for an inequality $\ge4$                                      | 8     |
+| 4bi        | Prove R is an order relation                                                     | 5     |
+| 4bii       | Depict a relation as a subset on the diagram of a Cartesian product              | 4     |
+| 4c         | Demonstrate that two sets have the same cardinality with a bijective mapping     | 8     |
 
-10. Prove by induction that $6^{n}-1$ is divisible by $5$ for any $n\in \mathbb{N}$.
+### 2022
 
-11. Suppose that $a$ is a real number such that $a + \frac{1}{a}$ is an integer. Use Cumulative Induction to prove that then $a^{n} + \frac{1}{a^{n}}$ is also an integer for every $n=1,2,3,\ldots$.
+- [[Proof PP (2022).pdf]],
+- [[Proof PP (2022) - checks.pdf]].
 
-12. Use induction on $n$ to prove that any 'map' formed by intersections of $n$ straight lines can be coloured in two colours in such a way that no two countries of the same colour have a common boundary segment. (Each country is coloured in one colour; corner points between two countries of the same colour are allowed.)
+| Question   | Topic                                                                            | Marks |
+| ---------- | -------------------------------------------------------------------------------- | ----- |
+| 1a         | Simul. inequalities, interval solution                                           | 8     |
+| 1b         | Prove an equivalence, visual classes                                             | 9     |
+| 1c         | State and prove a theorem **ON LIMITS**                                          | 8     |
+| 2ai/ii     | Create truth tables, categorise taut./contr.                                     | 4 x2  |
+| 2bi        | Definition **ON LIMITS**                                                         | 4     |
+| 2bii       | Prove a given statement **ON LIMITS**                                            | 5     |
+| 2c         | Use Cantor's diagonalisation to prove by contradiction that a set is uncountable | 8     |
+| 3a         | Prove by induction for a sequence $\ge3$                                         | 8     |
+| 3b         | Simplify an expression using set operation prop.                                 | 8     |
+| 3ci/ii/iii | Determine if a mapping is injective/surjective                                   | 3 x3  |
+| 4a         | Prove by induction for an inequality $\ge3$                                      | 8     |
+| 4b         | Prove by contradiction that (a number is irrational)                             | 8     |
+| 4c         | Demonstrate that two sets have the same cardinality with a bijective mapping     | 8     |
 
-13. Let $(a_{i})_{i\in \mathbb{N}}$ be a sequence defined recursively as $a_{1}=1$ and $a_{i+1}=3a_{i}-1$. Use induction to prove that $a_{n}=\frac{3^{n-1}+1}{2}$ for all $n\in \mathbb{N}$.
+### 2023
 
-14. Let $(b_{i})_{i\in \mathbb{N}}$ be a sequence defined recursively as $b_{1}=0$, $b_{2}=1$, and $b_{i}=3b_{i-1}-2b_{i-2}$ for $i\ge3$. Use induction to prove that $b_{n}=2^{n-1}-1$ for all $n\in \mathbb{N}$.
+- [[Proof PP (2023).pdf]],
+- [[Proof PP (2023) - checks.pdf]].
 
-15. Let the universal set be $\mathscr{U}=\{x\in \mathbb{Z}:-9\le x\le 9\}$, and let $\mathbb{A}$ be the set of all odd integers in $\mathscr{U}$, let $\mathbb{B}=\{x\in \mathscr{U}:x^{2}>25\}$, and $\mathbb{C}=\{x\in \mathscr{U}:x<0\}$. Determine each of the following sets and list their elements:
-	1. $\mathbb{A}\cap \mathbb{B}\cap \mathbb{C}$;
-	2. $\mathbb{A}\cap \overline{\mathbb{B}}$;
-	3. $\mathbb{A}\cap \overline{\mathbb{C}}$;
-	4. $\mathbb{B}\cup \mathbb{C}$.
+| Question   | Topic                                                | Marks  |
+| ---------- | ---------------------------------------------------- | ------ |
+| 1a         | Use induction to prove an inequality $\ge3$          | 8      |
+| 1b         | Simul. inequalities, interval solution               | 8      |
+| 1ci        | Prove an equivalence relation                        | 3      |
+| 1cii       | Depict relation as a subset of $A\times A$           | 3      |
+| 1ciii      | List elements of corresponding equivalence class     | 3      |
+| 2a         | Use induction to prove divisbility                   | 8      |
+| 2bi/ii     | Truth tables to find tauts/contras                   | 4 x2   |
+| 2c         | **Limits stuff**                                     | 9      |
+| 3a         | Use induction to prove sequence $\ge3$               | 8      |
+| 3bi/ii/iii | Determine if mappings are injective/surjective       | 8 (/3) |
+| 3c         | Prove by contradiction that (a number is irrational) | 9      |
+| 4a         | Use set operation properties to simplify             | 8      |
+| 4bi/ii/iii | Evaluate logical statements to true or false         | 8 (/3) |
+| 4c         | **Limits stuff**                                     |        |
 
-16. Use Venn diagrams to prove that $\mathbb{A}\cup(\mathbb{B}\cap \mathbb{C})=(\mathbb{A}\cup \mathbb{B})\cap(\mathbb{A}\cup \mathbb{C})$ for any sets $\mathbb{A}$, $\mathbb{B}$, and $\mathbb{C}$.
+## In-Class Material
 
-17. Use the properties of operations on sets to simplify the expression $\mathbb{B}\cup\overline{(\overline{\mathbb{A}}\cap \overline{\mathbb{B}})}$.
+### Practical Worksheets
 
-18. Solve the simultaneous system of inequalities using intersection of solutions of individual inequalities and write the solution as a set:
-$$
-\begin{cases}
-x^{2}+x-6&\ge 0 \\
-x^{2}-7x+10&\ge 0
-\end{cases}
-$$
+- [[Proof Practical Class, Week 21]],
+- [[Proof Practical Class, Week 22]],
+- [[Proof Practical Class, Week 23]],
+- [[Proof Practical Class, Week 24]].
 
-19. Prove, based on the definitions, that $\overline{(\mathbb{A}\cap \mathbb{B})}=\overline{\mathbb{A}}\cup\overline{\mathbb{B}}$.
+#### Summarised Questions
 
-20. Use mathematical induction to prove that every positive integer $n\ge8$ can be represented as $n=3a+5b$ where $a$ and $b$ are non-positive integers.
+Note: includes tutorial and practical questions, but not past papers.
 
-21. Consider the function $f(x)= \frac{x}{x+1}$, and define recursively a sequence of functions $f_{1}(x)=f(x)$ and $f_{i+1}(x)=f(f_{i}(x))$.
-
-22. Use mathematical induction to prove that $2^{n}>100n$ for any $n\ge10$.
-
-23. Where is the mistake in the following "proof" that all triangles have the same area?
-    >Obviously, it is sufficient to prove that, given any $n$ triangles, they all have the same area. We use induction on $n$. Indeed,
->1. If we have one triangle, the assertion is of course true.
->2. Suppose the assertion is true for $n=k$. Consider any $k+1$ triangles $T_{1},\ldots,T_{k+1}$. Apply the induction hypothesis to the first $k$ of the triangles: $T_{1},\ldots,T_{k+1}$ all have the same area. Then apply the induction hypothesis to the last $k$ of them: $T_{2},\ldots,T_{k+1}$ all have the same area. Then obviously all $k+1$ triangles $T_{1},\ldots,T_{k+1}$ have the same area: area of $T_{1}=\text{area of }T_{2}=\dots=\text{area of }T_{k}=\text{area of }T_{k+1}$.
->Thus, by the Axiom of Mathematical Induction, the assertion is true for all $n$, and therefore all triangles have the same area.
-
-24. How does one tie a goat so it can eat grass within exactly a semicircle? It can be leashed multiple times, with several pegs. For example, one peg and a leash mean that the goat eats within a circle. It is also allowed to string one rope tightly between two pegs, and to tie the goat with a leash to a small ring sliding on the first rope. *Hint: use intersections of sets*.
+... (irrelevant questions)
 
 25. Use a diagram to prove the property $A\times(B\cup C)=(A\times B)\cup(A\times C)$.
 
@@ -203,3 +220,15 @@ $$
 	2. $\sqrt5 \centernot{\in} \mathbb{Q}$.
 
 57. Use the Cantor-Bernstein-Schroder theorem to show that $|A|=|B|$ by producing injective mappings $A\to B$ and $B\to A$, where $A$ is the square $A=[0,1]\times[0,1]$ and $B$ is the disc $B=\set{(x,y):x^{2}+y^{2}\le1}$.
+
+### Slides
+
+- [[Proof Prelim Slides (Week 21).pdf]],
+- [[Proof Prelim Slides (Week 22).pdf]],
+- [[Proof Prelim Slides (Week 23).pdf]],
+- [[Proof Prelim Slides (Week 24).pdf]] (up to page 69).
+
+#### Summarised Notes
+
+**To be written - base on the given answers to give mock answers for every type of question that could be ask, providing all theorems that are required, and offer set methods/layouts for solving the questions.**
+

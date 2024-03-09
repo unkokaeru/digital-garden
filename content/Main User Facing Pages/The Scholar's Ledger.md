@@ -5,17 +5,16 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 Otherwise...
 
 **Personal**
-- [ ] Plan my [[Trip to Tokyo, Japan]] (with my brother).
-- [ ] Look for accommodation for the 24/25 academic year (with my partner).
-- [ ] Schedule content for the Tutoring With Me social media - this is likely to be more throughout Easter, right now is more just testing.
+- [ ] Schedule content for the **Tutoring With Will social media** - this is likely to be more throughout Easter, right now is more just testing.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
 	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising.
 	- [ ] [YouTube](https://www.youtube.com/@tutoringwithwill): Lessons on topics - book a lecture room?
+- [ ] Plan my **[[Trip to Tokyo, Japan]]** (with my brother).
 
 **Academic**
-- [ ] Go over the [[Proof Exam Content]], making a predicted paper, too (like with last semester).
-- [ ] Pre-complete all of the practical work for this week, and catch up on previous practical work that I've missed.
+- [ ] Refine the Group Study minutes.
+- [ ] Complete every proof question, again.
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 

@@ -1,27 +1,22 @@
-# Group Study Project Meeting Minutes: History of Numbers
+### Monday 29th January, 2024: 10:00 - 11:30 in INB2305
 
-**Date**: 29th January, 2024
-**Time**: 10:00 - 11:30
-**Location**: INB2305
 **Attendees:** Alex Rushworth (A.R.), William Fayers (W.F.), Katie Arnold (K.A.1), Tom Ward (T.W.), Kieran Alwill (K.A.2), Abbie Hall (A.H.), Nathan Grieve (N.G.)  
 **Absent:** n/a  
 **Facilitator:** Alex Rushworth (A.R.)  
 **Minutes Prepared By:** William Fayers (W.F.)
 
----
-
-## Meeting Agenda
+#### Agenda
 
 1. Introduction of group members.
 2. Assignment of project roles.
 3. Initial discussion on project approach.
-4. Next Steps
+4. Closing: next steps, reminders, meeting planning.
 
-### 1. Introduction of Group Members
+##### 1. Introduction of group members.
 
 The group began by meeting with each other, familiarising with one another and matching the names to the faces. Shortly after an explanation of the Group Study, the group was instructed by the module co-ordinator to assign roles to one another.
 
-### 2. Assignment of Project Roles
+##### 2. Assignment of project roles.
 
 After some discussion, the group decided on the following roles and responsibilities:
 
@@ -35,7 +30,7 @@ After some discussion, the group decided on the following roles and responsibili
 
 Also note that the naming convention used henceforth (the initials) was somewhat difficult to come across, as both K.A.1. and K.A.2. share the exact same initials down their middle names, hence we decided on the numbering system based on their chronological order.
 
-### 3. Initial Discussion on Project Approach
+##### 3. Initial discussion on project approach.
 
 The group outlined an initial structure for the report, shown below:
 
@@ -69,19 +64,12 @@ The group also planned that our report would follow a chronological order, as fo
 4. Analysis and Conclusion
 5. Appendices
 
-### 4. Next Steps
+**Editor note: these eras were set to change in later weeks, due to the lack of content by N.G., T.W. took it upon himself to pivot the century he was working on to fill the gap in order to provide a more seamless report.**
 
-Moving on, a group chat was set up on Snapchat for internal communications, as well as a shared OneDrive folder for file sharing (incl. research materials, templates, and drafts), both by the ICT Coordinator K.A.2.
+#### Closing
 
-Next,
-- **All members** are to begin preliminary research on their chapters, not yet making an outline, but getting comfortable with their assigned periods.
-- **K.A.1.** will share helpful resources for developing the report.
-- **K.A.2.** will book our next meeting spaces.
+A group chat and OneDrive were both set up by K.A.2. for communication and sharing of progress. **All members** were urged to begin preliminary research after **T.W.** forwards them some resources, whilst **K.A.1.** shares some helpful resources for writing the report, and **K.A.2.** will book the next meeting space.
 
-### Closing
-
-A.R. closed the meeting, summarising all of the aforementioned, and we were later informed by K.A.2. that the next meeting will be on **Monday, 5th February** in **INB2305**.
+A.R. closed the meeting, summarising all of the aforementioned, and the group were later informed by K.A.2. that the next meeting will be on **Thursday, 1st February** in **IconInc**.
 
 Thus, the meeting concluded at 11:30, with all members feeling excited to get started on the project.
-
----

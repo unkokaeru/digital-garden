@@ -15,3 +15,6 @@ He who thinks the journey is over is the one that’s truly lost.
 Cold showers are actually pretty sick.
 
 Otto, Evelyn, Tio :-)
+
+True freedom is being able to always smile.
+True strength is being able to choose how and when you die.

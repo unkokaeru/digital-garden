@@ -32,3 +32,4 @@
 - Work on my chess programming project.
 - Clone [Tanaka-san](https://www.youtube.com/@japanese_tanakasan/videos) voice ([download clear audio](https://x2mate.com/en30/youtube-mp3), then [clone](https://elevenlabs.io/voice-lab), then use for morning briefings).
 - **Review my morning briefing generation.**
+- Plan my **[[Trip to Tokyo, Japan]]** (with my brother).

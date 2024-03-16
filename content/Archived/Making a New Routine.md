@@ -1,5 +1,4 @@
 Average Sleep: 23:15 - 08:55 (9 hours 40 minutes)
-Average Steps: 5100
 
 ### What I'm Paying To Do
 

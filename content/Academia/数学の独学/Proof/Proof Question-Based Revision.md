@@ -1,3 +1,5 @@
+> Ideas of Mathematical Proof Cheat Sheet by William Fayers :)
+
 ### Simul. inequalities -> interval solution
 
 $$
@@ -47,7 +49,7 @@ $$
 \therefore\sim \text{is an equivalence relation. }\square
 $$
 
-Plot relations, where the axes take the values of every possible input and output (respectively), and a dot is plotted where two elements relate. Include the empty set $\emptyset$ either as the origin or as the first element of both axes.
+Plot relations, where the axes take the values of every possible input and output (respectively), and a dot is plotted where two elements relate. Include the empty set $\emptyset$ either as the origin or as the first element of both axes. **Unless it specifies a co-ordinate plane, then plot it like a graph.**
 
 Find all elements that are equivalent under the relation - give the same output - and list these as a set.
 
@@ -111,8 +113,8 @@ We now define another sequence $(b_{1},b_{2},b_{3},\ldots)$ by the following rul
 
 $$
 b_{i}=1\text{ or }2, \text{ but }b_{i}\ne a_{ii}:b=\begin{cases}
-A & \text{if }a_{ii}=B \\
-B & \text{if }a_{ii}=A
+1 & \text{if }a_{ii}=2 \\
+2 & \text{if }a_{ii}=1
 \end{cases}
 $$
 

@@ -100,3 +100,28 @@ ABSENT: Nathan Grieve (N.G.)
 1. Progress update.
 2. Discuss the final report and bibliographies.
 3. Closing: next steps, reminders, meeting planning.
+
+---
+[[Monday 11th March, 2024 1200 - 1400 in IconInc]]
+ABSENT: Nathan Grieve (N.G.)
+
+1. Progress update.
+2. Final reports ASAP.
+3. Complete presentation slides to practice for the next meeting.
+4. Closing: next steps, reminders, meeting planning.
+
+---
+[[Tuesday 12th March, 2024 1200 - 1300 in INB2306]]
+ABSENT: Nathan Grieve (N.G.)
+
+1. Progress update.
+2. ...
+3. Closing: next steps, reminders, meeting planning.
+
+---
+[[Sunday 17th March, 2024 ... - ... in ...]]
+ABSENT: Nathan Grieve (N.G.)
+
+1. Progress update.
+2. ...
+3. Closing: next steps, reminders, meeting planning.

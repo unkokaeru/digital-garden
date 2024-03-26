@@ -4,17 +4,27 @@ Sometimes I don't have much to do, or I just don't want to do it just yet. In th
 
 Otherwise...
 
-**Personal**
-- [ ] Complete **Maple** (skipped questions).
-- [ ] Refine my **schedule generation** program, upload it to GitHub, and implement it into my morning briefing generation workflow (if it's a Monday, if it's a Sunday then instead note to AI generate the `events.txt` file). **Vibes**: Mon-Thurs (academia/commitments), Fri (Chill), Sat (academic catch-up), Sun (personal catch-up, e.g. meal prep, cleaning, etc.). 
-- [ ] Schedule content for the **Tutoring With Will social media** - this is likely to be more throughout Easter, right now is more just testing.
+**Academic**
+- [ ] Make a program to auto-generate markdown folders for modules. They should contain [[Module Template 1]] and all respective sub-notes, fully generated from given material. Preferably, also generate a folder of PDFs to upload to my Kindle, biblobooks@kindle.com.
+- [ ] Test the [[Linear Algebra Cheat Sheet]].
+
+**Chess**
+- [ ] Study the London and King's Indian, in depth.
+- [ ] Complete three games.
+
+**Japanese**
+- [ ] Catch up on WaniKani, completely.
+- [ ] Look into Genki.
+
+**Calisthenics**
+- [ ] Devise a calisthenics routine whilst away from home.
+
+**Tutoring**
+- [ ] Schedule content for the **Tutoring With Will social media**.
 	- [ ] [TikTok](https://www.tiktok.com/@tutoringwithwill): Study with me, study technique tier list (series), motivation/romanticising studying/life, etc.
 	- [ ] [Instagram](https://www.instagram.com/tutoringwithwill): Study schedules/plans, how to take notes, etc.
 	- [ ] [Facebook](https://www.facebook.com/tutoringwithwill): Straight advertising.
 	- [ ] [YouTube](https://www.youtube.com/@tutoringwithwill): Lessons on topics - book a lecture room?
-
-**Academic**
-- [ ] Practice my **presentation slides**.
 
 [Wait no go back, I'm not William, I'm just a visitor!!](index.md)
 

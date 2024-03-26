@@ -14,9 +14,9 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 
 - [x] **LO1** Formulate the connection between linear transformations and their matrices in different bases.
 - [x] **LO2** Find orthogonal bases and complements; find inverses of orthogonal matrices.
-- [ ] **LO3** Find kernel, range, rank and nullity of a linear transformation.
-- [ ] **LO4** Find eigenvalues and eigenvectors; apply them to diagonalization of matrices and finding functions of linear mappings and matrices.
-- [ ] **LO5** Diagonalize quadratic forms by using orthogonal diagonalization of symmetric matrices.
+- [x] **LO3** Find kernel, range, rank and nullity of a linear transformation.
+- [x] **LO4** Find eigenvalues and eigenvectors; apply them to diagonalization of matrices and finding functions of linear mappings and matrices.
+- [x] **LO5** Diagonalize quadratic forms by using orthogonal diagonalization of symmetric matrices.
 
 ## Summary Content
 
@@ -33,8 +33,6 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 
 ### 1. Vectors and Geometry
 
-[[Linear Algebra Prelim Slides (week 19).pdf]]
-
 #### 1.1 Vectors in the Plane
 
 - **[[Vectors in Two Dimensions]]**: Exploration of vector properties and operations in a two-dimensional plane.
@@ -46,15 +44,11 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 
 ### 2. Linear Systems and Matrices
 
-[[Linear Algebra Prelim Slides (week 21).pdf.pdf]]
-
 #### 2.1 Solving Linear Systems
 
 - **[[Methods and Applications]]**: Techniques for solving systems of linear equations and their applications.
 
 #### 2.2 Operations and Properties of Matrices
-
-[[Linear Algebra Prelim Slides Week 22.pdf]]
 
 - **[[Operations and Rank in Matrices]]**: Investigation of matrix operations, including addition and multiplication, and understanding the concept of matrix rank.
 
@@ -63,8 +57,6 @@ Module Co-ordinator: HChristodoulidi@lincoln.ac.uk (Dr Helen Christodoulidi)
 - **[[Inverse and Determinant of a Matrix]]**: Learning how to calculate the inverse and determinant of a matrix, and their significance in linear algebra.
 
 ### 3. Vector Spaces and Transformations
-
-[[Linear Algebra Prelim Slides (Week 24).pdf]]
 
 #### 3.1 Foundations of Vector Spaces
 

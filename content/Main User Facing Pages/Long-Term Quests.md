@@ -1,0 +1,1 @@
+I usually use lots of [[Words]] to describe things, but I've decided to boil it down to something simpler: I want to do cool stuff before I turn 20. I'd like to learn **N5 Japanese**, get **1700 ELO**, build my **tutor**ing business, build **strength**, and **learn** loads of maths.

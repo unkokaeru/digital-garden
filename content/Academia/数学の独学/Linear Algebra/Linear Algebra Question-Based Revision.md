@@ -4,7 +4,8 @@
 
 - [[Linear Algebra Topics Patterns]],
 - [[Linear Algebra Exemplar Solutions]],
-- [[Linear Algebra Cheat Sheet]].
+- [[Linear Algebra Cheat Sheet]],
+- [[Linear Algebra Cheat Sheet (AI-GENERATED)]].
 
 # Given Revision Material
 

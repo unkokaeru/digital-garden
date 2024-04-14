@@ -8,7 +8,7 @@ Module Co-ordinator: EKhukhro@lincoln.ac.uk (Dr Evgeny Khukhro)
 2. In-Class Assessment (25%)
 3. Final Exams (60%)
 
-*Current percentage (rounded up):* 0%
+*Current percentage (rounded up):* 34%
 
 ## Learning Outcomes
 

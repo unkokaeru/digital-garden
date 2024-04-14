@@ -9,6 +9,7 @@
 *Why a cottage? Well, a cottage symbolises warmth, comfort, and the beauty of constant adaptation. It mirrors the nurturing, organic, and ever-evolving nature of knowledge. Just as a homeowner tends to their dwelling, so do I tend to my thoughts and ideas, crafting them, nurturing them, watching them mature into insightful furnishings. The cottage metaphor invites exploration, urging the wanderer to roam its homely rooms, discover hidden nooks of wisdom, and rest under the comforting eaves of understanding.*
 
 *So come, wander the creaky corridors, explore the cosy corners, and uncover the treasures of knowledge tucked away in time-worn drawers. Welcome to the Knowledge Cottage, where every visit nurtures understanding, and every departure leaves you enriched with wisdom.*
+
 ## 📚 Personal Research
 
 ### Inside the Cottage

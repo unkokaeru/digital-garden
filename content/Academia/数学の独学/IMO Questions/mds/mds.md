@@ -1,3 +1,5 @@
+> Maybe auto-generate these into LaTeX?
+
 # mds Overview
  
 ```ccard

@@ -11,7 +11,7 @@
 - [[Chess Garden by the Cottage]]: Hobbies
 	- [[Craft]]
 	- [[Chess]]
-	- [[Programming]] *add my projects into here, incl. computer algebra course work*
+	- [[Programming (old)]] *add my projects into here, incl. computer algebra course work*
 	- [[Reading]] *add books, set reading goals, log reading progress, take out books*
 - [[Guardian of the Lore]]: Personal Philosophy
 	- [[My Haikus]]

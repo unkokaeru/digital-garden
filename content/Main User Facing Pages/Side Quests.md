@@ -1,36 +1,40 @@
-*Things I could do but don't have to do - things can reside in here whilst it gets developed and then categorised afterwards.*
+[[Random Thoughts]].
+**Insane Minecraft Redstone**: [Villager Matrix](https://www.youtube.com/watch?v=oJDRiV3kJJI), [Experience Farm](https://www.youtube.com/watch?v=p5awe_hOp08).
 
-- Random stuff to look into/do
-	 - Ancestry.
-	 - [OSINT](https://www.youtube.com/watch?v=7PAk1wsy3VI) and [more OSINT](https://www.youtube.com/watch?v=HORzekIiZZ0).
-	 - Taxes.
-	 - [Talking to a camera](https://www.youtube.com/watch?v=-asNGo75Wv8): [[vlog]].
-	 - Neuroaesthetics.
-	 - Music production, with AI.
-	 - [Play games with strangers](https://www.youtube.com/watch?v=IKAaSIniTtk).
-	 - [Libraries over subscriptions](https://www.youtube.com/watch?v=eHU8p-ciXtk).
-	 - Enrol with the European Mathematics Society (EMS): [[EMS membership application_student.docx]].
-	 - [Flight 370](https://www.youtube.com/watch?v=MhkTo9Rk6_4).
-	 - [Interesting breakfast idea](https://www.youtube.com/watch?v=L76XJqz9PWo), and [another one](https://www.youtube.com/watch?v=xdwLxfJBOWE).
-	 - [Page binding](https://www.youtube.com/watch?v=yCha1O1-fUc).
-- Requires money
-	- Jibbitz!
-	- [Camera Repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
-	- New hard drive for big laptop.
-	- [Hobonichi cover](https://www.amazon.co.uk/Hobonichi-Techo-Cousin-Cover-Kitamura/dp/B0CCPHKVF3/).
-	- Look into [temporary tattoos](https://inkbox.com/custom/new).
-	- Buy an extension cord.
-- [[Date Ideas]]
-- [[Random Thoughts]]
-- Play all of the Assassin's Creed games!!
-- Learn a magic trick?
-- Learn how to solve a Rubik's Cube.
-- Create a workout app.
-- Create a language learning app.
-- Get a book on R.
-- Add additional functionality to Otto, here: https://platform.openai.com/assistants.
-- Work on my chess programming project.
-- Clone [Tanaka-san](https://www.youtube.com/@japanese_tanakasan/videos) voice ([download clear audio](https://x2mate.com/en30/youtube-mp3), then [clone](https://elevenlabs.io/voice-lab), then use for morning briefings).
-- **Review my morning briefing generation.**
-- Plan my **[[Trip to Tokyo, Japan]]** (with my brother).
-- Re-create the NYT games and train an AI to solve all of them and analyse my gameplay.
+#### Programming
+
+- Create a Rubik's cube visualiser that links (via Bluetooth) to my physical smart cube. Future additions to the program could include a scrambler, auto-timer, and [algorithm]([Learn how to solve the Rubik's Cube](https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/)) practice.
+- Develop a life helper (reminders via phone service with AI voice replication modelled on me): food, water, exercise, university, self-care, hygiene, mindfulness, language, chess, tutoring, reading, news, cleaning, budgeting.
+- Make an AI DJ for YouTube Music.
+- Create an OSINT Python script that intakes all information you have of someone and then tries to find more - minimal information could simple be a name, maybe an age. Some related videos [here](https://www.youtube.com/watch?v=7PAk1wsy3VI) and [here](https://www.youtube.com/watch?v=HORzekIiZZ0).
+
+#### Media Consumption
+
+- Invincible (Prime TV).
+- Shogun (Disney+).
+- One Piece (Crunchyroll).
+
+#### Social Planning
+
+- Go for a date! Here are some [[date ideas]]. Plan a surprise date, too!
+- Plan my [[Trip to Tokyo, Japan]] (with my brother).
+
+#### Sibling Competition
+
+- Make music: https://drive.google.com/file/d/10bRISCc-YaEgKEncHDkgY5GLuPqP9A68/view?usp=drivesdk.
+- Practice Rubik's cubing - sub 90 second time?
+
+#### Research
+
+- Look into taxes, self-employment tax, expenses whilst self-employed, banking, etc.
+- Look into nutrition and dermatology.
+- Write notes on [Behavioural and Substance Addiction](https://www.youtube.com/watch?v=uEEfeSuD_Po).
+- Create a verbose family tree (that I update annually) using tools like Ancestry, etc.
+
+#### Requires Money
+
+- Buy some [soap magnets](https://myaccount.smolproducts.com/portal/shop/products/smol-soap-magnets), [new rubber gloves](https://myaccount.smolproducts.com/portal/shop/products/rubber-gloves), a [dish brush](https://myaccount.smolproducts.com/portal/shop/products/smol-plan-dishbrush) and [sponges](https://myaccount.smolproducts.com/portal/shop/products/smol-plan-sponges), as well as [body stuff](https://myaccount.smolproducts.com/portal/shop/products/smol-body-bundle).
+- Send my Fujifilm camera for [repair](https://repairs.fujifilm.eu/en/fujifilm-repair-centre/?zr=uk).
+- Try fixing, repurposing, or selling any old devices I own.
+- Buy some [temporary tattoos](https://inkbox.com/custom/new).
+- Get some Jibbitz.

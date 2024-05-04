@@ -1,5 +1,3 @@
-
----
 **MTH1004 Linear Algebra Mid-Term Test**
 
 *Duration: 1 Hour*  
